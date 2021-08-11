@@ -8,7 +8,7 @@ The Orders screen allows to view three lists \(slide button to change the list\)
 * Filled orders – shows executed orders.
 * Orders history – each row displays info regarding creation, modification, execution or cancelling of orders.
 
-Buy orders are displayed in the list with blue arrow, sell orders – with red. 
+Buy orders are displayed in the list with blue arrow, sell orders – with red.
 
 Each section consists of the cards list with short information about the orders: for Working orders – symbol name, quantity, open price, order type; for Filled orders – symbol name, order type, Net P/L, quantity. In order to get full information about the symbol on which the order was created, tap the symbol name.
 
@@ -41,15 +41,15 @@ If the user needs to quickly switch to the Chart, modify the order or close it a
 
 To quickly go to the chart, modify, or cancel the order just tap the corresponding icon. To return back to the order, tap the ‘Back’ button depicted as an arrow![](https://lh5.googleusercontent.com/FeoB164MubEhRzjZI288O316A51qKXagx2sSMaReRPOJ5NDeC1l862wWctT_U2Wkbuni-qTC-7pAzYNKFJxG5Z_SP7h57i4K3CKTGGyWTnOqE0msvOjWah_NT_36eIuww74QtXeI)in the upper left part of the chart.
 
-Filled orders and Orders history sections can be viewed by selected date range, available values here are: daily, two days to date, week to date, month to date. To choose the date range, tap the button![](../../../.gitbook/assets/calendar%20%281%29.jpg).
+Filled orders and Orders history sections can be viewed by selected date range, available values here are: daily, two days to date, week to date, month to date. To choose the date range, tap the button![](../../../.gitbook/assets/calendar%20%282%29%20%282%29.jpg).
 
 ![](../../../.gitbook/assets/3%20%2885%29.png)
 
 ![](../../../.gitbook/assets/4%20%2860%29.png)
 
-In addition, users can cancel all orders by tapping the button ‘Сlose all’ located at the top right corner of the Working orders screen.
+In addition, users can cancel all orders by tapping the button ‘Сlose all’ located at the top right corner of the Working orders screen.
 
-In order to modify active order, tap the ‘Modify’ button and the following screen will be opened:
+In order to modify active order, tap the ‘Modify’ button and the following screen will be opened:
 
 ![](../../../.gitbook/assets/2%20%28128%29.png)
 
@@ -57,5 +57,5 @@ Here user can modify price, quantity, Validity, Stop loss, Trailing, and Take pr
 
 Note: If Stop limit order is activated, the Stop price field will be disabled in Modify screen. Thus, only Limit price can be modified. The same is true for closing Stop loss limit orders.
 
-In order to cancel the order, tap the 'Cancel' button.
+In order to cancel the order, tap the 'Cancel' button.
 

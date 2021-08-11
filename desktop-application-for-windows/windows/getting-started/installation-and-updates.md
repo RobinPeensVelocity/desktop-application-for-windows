@@ -4,11 +4,11 @@ TraderEvolution Desktop App performs automatic updates, meaning you don't need t
 
 To install TraderEvolution Desktop App simply run the .exe file and select the installation directory. Click Install and wait for the TraderEvolution to complete the installation for you.
 
-### How to update TraderEvolution Desktop App?
+## How to update TraderEvolution Desktop App?
 
 When you launch your TraderEvolution Desktop App, an Update manager will launch an automatic update. Thus, you don't need to install the latest updates of TraderEvolution manually.
 
-### How to Uninstall TraderEvolution from your PC?
+## How to Uninstall TraderEvolution from your PC?
 
 To uninstall the TraderEvolution, go to Start -&gt; Programs -&gt; 'Name of the terminal' -&gt; Uninstall. You can also uninstall TraderEvolution from the Control panel.
 
@@ -20,13 +20,13 @@ Windows Vista \(no longer supported\), Windows 7 \(no longer supported\), Win 8.
 
 After re-installing TraderEvolution into your PC, the newly installed TraderEvolution App will parse the data from your profile folder.
 
-### **How to Login?**
+## **How to Login?**
 
 Launch the TraderEvolution Desktop App and enter your credentials to log into your terminal.
 
 ![](../../../.gitbook/assets/screenshot_6%20%286%29.png)
 
-### **How to change your password?**
+## **How to change your password?**
 
 Passwords can be changed anytime by using the following methods:
 
@@ -41,10 +41,9 @@ If you do not remember your password, simply click on the 'Forgot password' and 
 * Click Recover to get your recovery key;
 * Check your email for the recovery key and enter it into the Key field;
 * Put down your new password and click Recover.
+* After logging in to the App:
 
-2. After logging in to the App:
-
-Go to your Account menu on the top toolbar![](../../../.gitbook/assets/image%20%285%29.png):
+Go to your Account menu on the top toolbar![](../../../.gitbook/assets/image%20%2819%29.png):
 
 Select 'Change password' to change your password used to login to the TraderEvolution App.
 

@@ -4,19 +4,17 @@ You can perform trading directly from the chart panel. It is possible to send or
 
 ![](../../.gitbook/assets/web-vis%20%282%29.jpg)
 
-### **The built-in Order entry panel** 
+**The built-in Order entry panel**
 
-In order to start visual trading, click the 'Chart trading' button![](../../.gitbook/assets/2%20%2837%29.png), located on the top right corner of the Chart toolbar, and built-in Order entry panel will be opened:
+In order to start visual trading, click the 'Chart trading' button![](../../.gitbook/assets/2%20%2837%29.png), located on the top right corner of the Chart toolbar, and built-in Order entry panel will be opened:
 
 ![](../../.gitbook/assets/3%20%2844%29.png)
 
-The Order entry panel consists of the following items:
+The Order entry panel consists of the following items:
 
-1.      Quantity - the order quantity;
-
-2.      SL - for specifying Stop Loss parameters;
-
-3.      TP - for specifying Take Profit parameters.
+1. Quantity - the order quantity;
+2. SL - for specifying Stop Loss parameters;
+3. TP - for specifying Take Profit parameters.
 
 Hot buttons for one-click trading are the following:
 
@@ -27,13 +25,12 @@ Hot buttons for one-click trading are the following:
 * Buy Ask – to send a Buy Limit order at the Ask price;
 * Buy Bid – to send a Buy Limit order at the Bid price;
 
-### Chart trading
+## Chart trading
 
 To start chart trading, follow these steps:
 
-1.      Оpen the built-in Order entry panel; Click on the 'Mouse trading' button![](../../.gitbook/assets/4%20%2815%29.png)to enable the chart trading;
-
-2.      Select type of an order to be placed: single or OCO.
+1. Оpen the built-in Order entry panel; Click on the 'Mouse trading' button![](../../.gitbook/assets/4%20%2815%29.png) to enable the chart trading;
+2. Select type of an order to be placed: single or OCO.
 
 You can enable chart trading by pressing and holding the Ctrl key as well.
 
@@ -51,9 +48,9 @@ Orders tooltips are always visible while trading: if order is Buy, then its icon
 
 To disable the chart trading, click the 'Mouse trading' button again, or just stop holding the Ctrl key.
 
-### Order modifying
+## Order modifying
 
-To change the order’s price, simply drag and drop the order marker![](../../.gitbook/assets/5%20%2822%29.png)to the desirable price. To start modifying other parameters, left-click on the order marker. The following buttons will appear:
+To change the order’s price, simply drag and drop the order marker![](../../.gitbook/assets/5%20%2822%29.png) to the desirable price. To start modifying other parameters, left-click on the order marker. The following buttons will appear:
 
 ![](../../.gitbook/assets/image%20%28113%29.png)
 
@@ -63,11 +60,9 @@ Left-clicking the order qty allows to set the required number. Please note that 
 
 ![](../../.gitbook/assets/image%20%28112%29.png)
 
-### Stop loss and Take profit
+Stop loss and Take profit
 
 If you need to set SL/TP to the order/position, left-click on the order/position marker. After that, SL/TP markers appear. Drag and Drop SL/TP prices to modify them:
 
 ![](../../.gitbook/assets/image%20%28110%29.png)
-
-
 

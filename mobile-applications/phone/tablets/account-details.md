@@ -1,6 +1,6 @@
 # Account details
 
-The Account details screen is accessible through the Watchlist, Positions and Orders screens. Tap the ‘Projected balance’ section to open Account details screen. To select the account available for a user, tap the![](../../../.gitbook/assets/first%20%283%29.png)button at the top of the screen:
+The Account details screen is accessible through the Watchlist, Positions and Orders screens. Tap the ‘Projected balance’ section to open Account details screen. To select the account available for a user, tap the![](../../../.gitbook/assets/first%20%281%29%20%282%29.png)button at the top of the screen:
 
 ![](../../../.gitbook/assets/1%20%28104%29.png)
 
@@ -8,7 +8,7 @@ In order to view detailed information about an account, tap its name.
 
 ![](../../../.gitbook/assets/2%20%2892%29.png)
 
-P/L, % = Open Gross P/L \* 100 / \(projectedBalance - Open Gross P/L\) 
+P/L, % = Open Gross P/L \* 100 / \(projectedBalance - Open Gross P/L\)
 
 Risk level – displays how an account is close to portfolio liquidation.
 
@@ -39,11 +39,11 @@ Risk level – displays how an account is close to portfolio liquidation.
 
   Cross price – an average cross price of a position opening for converting into account's currency.
 
-* Available funds – amount of funds which can be used for placing a new order. 
+* Available funds – amount of funds which can be used for placing a new order.
 
   Available funds = Balance& All risks - Margin used;
 
-* Margin available – full margin which is available to maintain portfolio on the current moment. 
+* Margin available – full margin which is available to maintain portfolio on the current moment.
 * Init. margin req – amount of the initial margin blocked for all positions and orders taking into account the margin crossing;
 * Warning margin lvl – shows Maintenance margin level when the margin warning message is sent:
 
@@ -78,8 +78,8 @@ Note: "Unused intraday initial margin" and "Used overnight initial margin for in
 * Blocked for stocks – amount of funds debited from balance in case of Equities trading. After closing such position, funds will be returned to account;
 * Stocks value – total cost of stocks, positions which were opened on the selected account:
 
-   Stocks value = ∑ \(Current stock price \* Amount \* Cross price\), where:  
-   Amount – a current stocks' quantity in the position 'Qty \* Lot size'; Qty is qty in lots.
+  Stocks value = ∑ \(Current stock price \* Amount \* Cross price\), where:  
+  Amount – a current stocks' quantity in the position 'Qty \* Lot size'; Qty is qty in lots.
 
 * Open positions – currently opened positions;
 * Working orders – all created orders which are visible for a user;
@@ -89,7 +89,7 @@ Note: "Unused intraday initial margin" and "Used overnight initial margin for in
   Stocks liquidity = ∑ \(Amount \* Price \* CrossPrice \* \(Liquidity rate/100\)\) Amount - a current stocks' quantity on the account 'Qty \* Lot size'; Qty is qty in lots.
 
 * Stocks orders req – total margin blocked for Equities;
-* Option value – сurrent option value in portfolio. Can be positive for a long Net position, or negative for a short Net position. 
+* Option value – сurrent option value in portfolio. Can be positive for a long Net position, or negative for a short Net position.
 
   Option value = ∑ \(Current option price \* Amount \* Cross price\), where:
 
@@ -101,7 +101,7 @@ Note: "Unused intraday initial margin" and "Used overnight initial margin for in
 * Today’s fee ­– amount of fees paid for today;
 * Warn. margin req. – warning margin requirement for positions and orders;
 * Warn. margin req.% – warning margin requirement in relation to Balance&All risks;
-* Margin before warning ****– margin available before the warning triggering;
+* Margin before warning _\*\*_– margin available before the warning triggering;
 * Day trader pattern protection –  displays whether protection against accidental marking the account as the Day trader pattern is activated. Available states are ‘Enabled’ or ‘Disabled’;
 * Available day trades –  displays the number of intraday trades that can be performed before the system classifies this user/account as a Day trader pattern.
 

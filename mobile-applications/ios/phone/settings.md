@@ -2,7 +2,7 @@
 
 You can access the ‘Settings’ screen from the application's ‘More’ menu in order to manipulate by 'Defaults' and 'Confirmations':
 
-### **Defaults**
+**Defaults**
 
 In ‘Defaults’ settings section you can adjust the following:
 
@@ -14,9 +14,9 @@ In ‘Defaults’ settings section you can adjust the following:
 * Quantity in lots - if checked, quantity is displayed in lots, if unchecked – in units;
 * Set SL/TP values in offset – if checked, the SL/TP prices are in offset, if unchecked they are in absolute values;
 * Show offset in – allows to select one of the available modes for offset displaying: Ticks, Points;
-* Use stop limit instead of stop – check to place stop limit orders instead of stop orders. When checked, ****it activates the 'Limit offset, ticks' field.
+* Use stop limit instead of stop – check to place stop limit orders instead of stop orders. When checked, _\*\*_it activates the 'Limit offset, ticks' field.
 
-### **Confirmations**
+## **Confirmations**
 
 ‘Confirmations’ settings section allows to enable double-checking of the following actions by marking them as checked, after what the application will ask you to confirm these actions:
 
@@ -30,11 +30,11 @@ In ‘Defaults’ settings section you can adjust the following:
 * Position closing;
 * Alert removing.
 
-### Other
+## Other
 
 ![](../../../.gitbook/assets/simulator-screen-shot-iphone-8-2020-09-14-at-13.49.05.png)
 
-The **"**Other" settings section cannot be displayed in the application settings if the biometric authentication is not checked in the system settings of the device or it is blocked. 
+The **"**Other" settings section cannot be displayed in the application settings if the biometric authentication is not checked in the system settings of the device or it is blocked.
 
 Biometric authentication enables a user to log in to the mobile application more securely by using the Fingerprint or FaceID features.
 
@@ -44,7 +44,7 @@ To apply Fingerprint in the application for subsequent logins, a user should put
 
 ![](../../../.gitbook/assets/111111111.png)
 
-After this, the checkbox More -&gt; Settings -&gt; Other -&gt; Biometric authentication becomes True. 
+After this, the checkbox More -&gt; Settings -&gt; Other -&gt; Biometric authentication becomes True.
 
 A user should enter his password to confirm biometrics:
 
@@ -62,11 +62,11 @@ To deactivate Biometric authentication, uncheck the corresponding setting and th
 
 ![](../../../.gitbook/assets/img_3978.png)
 
-### Push notifications
+## Push notifications
 
 TraderEvolution app provides the ability to receive push notifications on numerous events such as the daily loss limit warning, margin warning, receiving a new trading idea, etc. Upon receiving a push notification, the user can tap on it and thus open the application. Sending push notifications to the device is regulated by your broker, i.e. you cannot activate this function by yourself. If the user wants to disable receiving push notifications, he can do it in the settings of his device.
 
-### Alerts
+## Alerts
 
 This section allows to configure the alerts, the following settings are available:
 

@@ -10,5 +10,3 @@ All customers can use the auxiliary functions when working with the Desktop term
 
 ![](../../.gitbook/assets/screenshot_1%20%2816%29.png)
 
-
-

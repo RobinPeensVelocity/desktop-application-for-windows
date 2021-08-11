@@ -19,7 +19,7 @@ Bollinger Bands consist of:
 
 Typical values for N and K are 20 and 2, respectively. The default choice for the average is a simple moving average, but other types of averages can be employed as needed. Exponential moving averages are a common second choice. Typically, the same period is used for both the middle line and the calculation of standard deviation.
 
-### Calculation
+## Calculation
 
 Bollinger bands are formed by three lines. The middle line \(ML\) is a usual Moving Average.
 
@@ -46,7 +46,7 @@ SD = SQRT \(SUM \(\(CLOSE — SMA \(CLOSE, N\)\)^2, N\)/N\)
 
 It is recommended to use 20-period Simple Moving Average as the middle line, and plot the top and bottom lines two standard deviations away from it. Besides, moving averages of less than 10 periods are of little effect.
 
-### Main parameters
+## Main parameters
 
 * Interval – provides the ability to set the number of confidence intervals, 20 by default;
 * Deviation – for setting the required deviation, 2 by default;
@@ -56,6 +56,4 @@ It is recommended to use 20-period Simple Moving Average as the middle line, and
 The indicator looks as follows on the chart:
 
 ![](../../../../../.gitbook/assets/1%20%2819%29.jpg)
-
-
 

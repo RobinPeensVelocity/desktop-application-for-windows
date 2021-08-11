@@ -1,6 +1,6 @@
 # Positions balance
 
-Positions balance panel shows a summary of the user's open positions by each symbol. To open a Positions balance panel, select Terminal -&gt; Positions balance.
+Positions balance panel shows a summary of the user's open positions by each symbol. To open a Positions balance panel, select Terminal -&gt; Positions balance.
 
 ![](../../../.gitbook/assets/14%20%281%29.png)
 
@@ -8,7 +8,7 @@ A user can select an account or a group of accounts for which he wants to see in
 
 The following columns are available in the panel:
 
-* Symbol –  ****the instrument name.
+* Symbol –  _\*\*_the instrument name.
 * Net position qty. – net amount of opened positions.
 * Break-even point – shows the price where Profit/Loss will be zero.
 
@@ -34,7 +34,7 @@ _qty i - the volume of the "i" position, taking into account the sign, for a sho
 * Strike price – price of option contract performance.
 * Position value – current value of the position. Calculation is based on current market price.
 
-![](../../../.gitbook/assets/screenshot_2%20%2816%29.png)
+![](../../../.gitbook/assets/screenshot_2%20%2816%29%20%281%29.png)
 
 For long position: _Position value = Position exposure + Gross P/L_
 

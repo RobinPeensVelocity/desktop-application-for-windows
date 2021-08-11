@@ -1,6 +1,6 @@
 # BBF \(Bollinger bands flat\)
 
-Bollinger bands flat indicator provides the same data as Bollinger bands but is displayed in a separate field and thus makes it easy to determine whether prices are in or out of the band. 
+Bollinger bands flat indicator provides the same data as Bollinger bands but is displayed in a separate field and thus makes it easy to determine whether prices are in or out of the band.
 
 This indicator consists of:
 
@@ -8,7 +8,7 @@ This indicator consists of:
 * Negative deviation – shows the value of the negative standard deviation shifted N times down;
 * Delta – shows the difference between the current value and the value of the moving average at a given point. 
 
-### Calculation
+## Calculation
 
 As can be understood from the above, only three components of the indicator are calculated:
 
@@ -24,9 +24,9 @@ A - deviation parameter value,
 
 D - dispersion relative to the moving average,
 
-Negative deviation = \(-1\) __A \* D
+Negative deviation = \(-1\) \_\_A \* D
 
-### Main parameters
+## Main parameters
 
 * Period – provides the ability to set the number of confidence intervals, 20 by default;
 * Deviation – for setting the required deviation, 2 by default;

@@ -4,11 +4,11 @@ This panel displays two lists, one with the Instruments with the biggest positiv
 
 ![](../../../.gitbook/assets/gainers-losers-te-front-panel-filled3.png)
 
- In the panel, the following controls and info columns are available:
+In the panel, the following controls and info columns are available:
 
 * Exchanges drop-down list - drop-down list with checkboxes for selecting the Exchanges, the Instruments subscribed to which are included in the lists;
 
-The following columns are available for both Gainers and Losers lists and allow independent filtering for each list:  
+The following columns are available for both Gainers and Losers lists and allow independent filtering for each list:
 
 * Instrument - the Instrument name;
 * Change % - the percentage value of the difference of the previous close price and the current price for the Instrument.

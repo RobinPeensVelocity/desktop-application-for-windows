@@ -29,9 +29,9 @@ Alert creation screen contains the following settings:
 * Alert message – input field for entering the alert message text. The text in the message box is generated automatically in accordance with the alert parameters, but the user can customize the notification text if needed;
 * Create button – tap this one after setting the alert parameters. The ‘Create’ button is colored in accordance with the alert importance.
 
-### Alerts management
+## Alerts management
 
-In the Alerts panel, the user can browse through and work with already created alerts, both executed or not. Next to the panel name, there is a counter displaying the number of active alerts ****![](https://lh5.googleusercontent.com/Gp7Y1Gh2Th7Rarxym8YkTbNQ4hehmM_tccoJOyBeCZKYOotsUhSz6kSM4kUG19TrNIO3kXkvMiAVSDHRQDQoOS1aNFpWlYEXqL-7FLAf6YFHc7m7caXrZy7SBv0LLNy9STZuRge9).
+In the Alerts panel, the user can browse through and work with already created alerts, both executed or not. Next to the panel name, there is a counter displaying the number of active alerts _\*\*_![](https://lh5.googleusercontent.com/Gp7Y1Gh2Th7Rarxym8YkTbNQ4hehmM_tccoJOyBeCZKYOotsUhSz6kSM4kUG19TrNIO3kXkvMiAVSDHRQDQoOS1aNFpWlYEXqL-7FLAf6YFHc7m7caXrZy7SBv0LLNy9STZuRge9).
 
 The alert management screen contains a table that lists all created alerts as well as controls for performing certain actions:
 
@@ -50,13 +50,13 @@ If a user exceeds the limit of created alerts, then an error message will be dis
 
 ![](../../../.gitbook/assets/android-tablet.png)
 
-### Alerts on chart
+## Alerts on chart
 
-The chart displays all active alerts for the instrument selected in the symbol lookup. If the alert is executed, it will not be shown on the chart, but its presence in the panel is controlled by the ‘After execute’ parameter. The chart displays all alerts for an instrument, for Ask, Bid, Last types. 
+The chart displays all active alerts for the instrument selected in the symbol lookup. If the alert is executed, it will not be shown on the chart, but its presence in the panel is controlled by the ‘After execute’ parameter. The chart displays all alerts for an instrument, for Ask, Bid, Last types.
 
 In order to create a new alert, the user must perform a long tap on the needed price scale level. At the level where the long tap was made, an alert label will appear, it contains a confirmation button for setting an alert:
 
-![](../../../.gitbook/assets/screenshot_2-1-%20%281%29.jpg)
+![](../../../.gitbook/assets/screenshot_2-1-%20%282%29.jpg)
 
 If the alert was set at the wrong level, the user can simply drag the alert label to the required level, and only then press the confirmation button. When creating an alert on a chart by long tap, the following parameters are applied to it:
 
@@ -73,7 +73,7 @@ If the alert was set at the wrong level, the user can simply drag the alert labe
 
 In order to edit or remove the alert, the user should use the corresponding buttons, which become visible by tapping the alert label:
 
-![](../../../.gitbook/assets/screenshot_2-2-.jpg)
+![](../../../.gitbook/assets/screenshot_2-2-%20%281%29%20%281%29.jpg)
 
 Tapping the Edit button will result in opening the corresponding screen, it is similar to the one intended for creating the alert. Editing the alert from the chart is also possible by using the Drag&Drop function. When using it, the alert is modified without additional confirmation, just drag the alert to the required position.
 

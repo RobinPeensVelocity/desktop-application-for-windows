@@ -16,7 +16,7 @@ In order to get full information about a symbol, tap a symbol's name.
 * Position ID – unique number that the trading system assigns to each position;
 * Open price – price at which the position was opened;
 * Account – login name of an account that opened a position;
-* Exercise – sends an exercise request for the Option position. Available for single positions opened for Options with Exercise style=American, inactive for multiple selected positions. 
+* Exercise – sends an exercise request for the Option position. Available for single positions opened for Options with Exercise style=American, inactive for multiple selected positions.
 
   After clicking this menu item, the Position exercise request confirmation dialog box is displayed. Clicking the "Exercise" button in the confirmation box, creates a request for the Option exercise, which switches the position to Pending exercise status and prevents performing the following operations for the position: **Modify position, Close position, Close all.**
 

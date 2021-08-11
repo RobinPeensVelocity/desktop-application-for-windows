@@ -4,7 +4,7 @@ Logging in to the Mobile application is available via the main login screen:
 
 ![](../../../.gitbook/assets/1%20%28108%29.png)
 
-Enter your valid login and password.
+Enter your valid login and password.
 
 Check the 'Save password' if you want the app remembering your login credentials.
 
@@ -16,7 +16,6 @@ Note: to recover the application password, tap ‘Forgot’ option in the ‘Pas
 
 ![](../../../.gitbook/assets/2%20%2894%29.png)
 
-  
 To recover the password:
 
 * enter Login ID in the 'Login' field;

@@ -38,15 +38,15 @@ Right-click on the table's column name in order to open the menu of available co
 * Expiration date – date of contract expiration;
 * Cancel – allows to cancel an order.
 
-Note: Users can select which columns to display in the Working orders panel in the panel context menu \(Preferences -&gt; Columns\).
+Note: Users can select which columns to display in the Working orders panel in the panel context menu \(Preferences -&gt; Columns\).
 
-This context menu also contains the following options:
+This context menu also contains the following options:
 
 * Filtering – allows filtering the data in the panel’s table;
 * Reset to factory defaults – allows to reset the adjustments to the factory defaults;
 * Preferences – opens the ‘Working orders Preferences’ dialog box.
 
-### **Buttons toolbar**
+**Buttons toolbar**
 
 The most important functions related to Working orders can be viewed as buttons in the toolbar of the panel. To select the buttons to be displayed, simply right click on the toolbar of the panel and choose the needed buttons from the menu.
 
@@ -66,7 +66,7 @@ The most important functions related to Working orders can be viewed as buttons 
 
 Note: clicking on these buttons doesn't evoke confirmation screens, even if confirmations are enabled in the 'Preferences' window.
 
-### **Context menu**
+## **Context menu**
 
 The following actions can be performed via the Context menu:
 
@@ -76,35 +76,23 @@ The following actions can be performed via the Context menu:
 * View – allows to show total values and to show toolbar.
 * Search – allows to show/hide a search lookup in the panel.
 * Cancel – allows cancelling all selected orders, all orders by selected symbol, all orders by selected account, all orders.
-*  Set hotkeys – allows to open the ‘Working orders’ tab in ‘Hotkeys Preferences’;
+* Set hotkeys – allows to open the ‘Working orders’ tab in ‘Hotkeys Preferences’;
 * Group by – allows to group orders by:
-
-  -       Account;
-
-  -       Date/Time;
-
-  -       Login;
-
-  -       Quantity filled;
-
-  -       Quantity remaining;
-
-  -       Side;
-
-  -       Status;
-
-  -       Symbol;
-
-  -       Symbol type;
-
-  -       Type;
-
-  -       Validity.
-
+  * Account;
+  * Date/Time;
+  * Login;
+  * Quantity filled;
+  * Quantity remaining;
+  * Side;
+  * Status;
+  * Symbol;
+  * Symbol type;
+  * Type;
+  * Validity.
 * ​Duplicate panel – allows to duplicate a panel;
 * Preferences – allows to open 'Working orders Preferences' dialog box.
 
-### **Working orders Preferences**
+**Working orders Preferences**
 
 The 'Working orders Preferences' menu contains such sections, as View, Columns, Colors.
 
@@ -136,8 +124,11 @@ You can set up Background and Text colors for the following elements of 'Working
 
 The 'Working orders Preferences' menu contains the following control buttons for managing adjustments:
 
-* ![](../../../.gitbook/assets/set%20%281%29.png)  – allows to set all current 'Working orders Preferences' menu adjustments as default ones;
-* ![](../../../.gitbook/assets/reset%20%285%29.png)  – allows to reset all the Working orders Preferences' menu adjustments to 'User Defaults' or to 'Factory Defaults'. 'User Defaults' are the last adjustments, which were stored into the system by clicking on the button 'Set As Default'.
+* ![](../../../.gitbook/assets/set%20%283%29.png)
 
+  – allows to set all current 'Working orders Preferences' menu adjustments as default ones;
 
+* ![](../../../.gitbook/assets/reset%20%286%29.png)
+
+  – allows to reset all the Working orders Preferences' menu adjustments to 'User Defaults' or to 'Factory Defaults'. 'User Defaults' are the last adjustments, which were stored into the system by clicking on the button 'Set As Default'.
 

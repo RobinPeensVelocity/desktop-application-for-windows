@@ -6,7 +6,7 @@ Average True Range can often reach a high value at the bottom of the market afte
 
 The ATR is commonly used as an exit method that can be applied regardless of how the entry decision is made. One popular technique that is known as "chandelier exiting" was developed by Chuck LeBeau. According to this technique, a trailing stop is placed below the highest high the stock has reached since you entered the trade. The distance between the highest high and the stop level is defined as multiple ATR values. For example, we can subtract three times the ATR value from the highest high since entering the trade.
 
-### Calculation <a id="calculation"></a>
+## Calculation <a id="calculation"></a>
 
 The range of a day’s trading is simply _high – low_. The true range extends it to yesterday’s closing price if it was outside of today’s range:
 
@@ -27,7 +27,7 @@ The first ATR value is calculated using the arithmetic mean formula:![](https://
 * The greater the indicator value, the greater the possibility for a trend reversal;
 * The smaller the value, the weaker the trend.
 
-### Main parameters <a id="main-parameters"></a>
+## Main parameters <a id="main-parameters"></a>
 
 * Period – number of periods involved in the indicator calculation, 13 by default;
 * Type of moving average: Simple, Exponential, Modified, Linear weighted.

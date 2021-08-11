@@ -29,13 +29,13 @@ The following settings are available when creating an alert:
 
 ![](../../../.gitbook/assets/2a22cdd3-efeb-468a-acc6-ca8124d46599.jpg)
 
-The default expiration value is today + 30 days. 
+The default expiration value is today + 30 days.
 
 * After execute – allows to select alert behavior after execution. Available options are ‘Stop’ - alert is not active but stored in the list of alerts, and ‘Remove’ - alert is removed after execution;
 * Alert message – input field for entering the alert message text. The text in the message box is generated automatically in accordance with the alert parameters, but the user can customize the notification text if needed;
 * Create/Cancel buttons – pick the appropriate action after setting the alert parameters. The ‘Create’ button is colored in accordance with the alert importance.
 
-### Alert management
+## Alert management
 
 The user can browse through created alerts and work with them in the Alerts tab – both with executed and not executed ones. The Alerts tab looks as follows:
 
@@ -55,7 +55,7 @@ If a user exceeds the limit of created alerts, then an error message will be dis
 
 ![](../../../.gitbook/assets/mac%20%282%29.png)
 
-### Alerts on chart
+## Alerts on chart
 
 The chart displays all active alerts for the instrument selected in the symbol lookup. If the alert is executed, it will not be shown on the chart, but its presence in the panel is controlled by the ‘After execute’ parameter. The chart displays all alerts for an instrument, for Ask, Bid, Last types.
 

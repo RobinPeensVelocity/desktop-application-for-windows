@@ -33,7 +33,7 @@ Additional columns for Filled orders section:
 * Trade volume – shows total volume of the trade.
 * Price – shows price for Market and Limit orders, and Limit price for Stop limit orders. 
 
-Filled orders and Orders history sections can be viewed by selected date range, available values here are: daily, two days to date, week to date, month to date. To choose the date range, tap the button![](../../../.gitbook/assets/calendar.jpg).
+Filled orders and Orders history sections can be viewed by selected date range, available values here are: daily, two days to date, week to date, month to date. To choose the date range, tap the button![](../../../.gitbook/assets/calendar%20%282%29.jpg).
 
 ![](../../../.gitbook/assets/2%20%2888%29.png)
 
@@ -43,7 +43,7 @@ In order to modify active order, tap the ‘Modify’ button and the following s
 
 ![](../../../.gitbook/assets/5%20%2858%29.png)
 
-Here user can modify price, quantity, Validity, Stop loss, Trailing, and Take profit. In addition, order can be executed at a market price. 
+Here user can modify price, quantity, Validity, Stop loss, Trailing, and Take profit. In addition, order can be executed at a market price.
 
 Note: If Stop limit order is activated, the Stop price field will be disabled in Modify screen. Thus, only Limit price can be modified. The same is true for closing Stop loss limit orders.
 

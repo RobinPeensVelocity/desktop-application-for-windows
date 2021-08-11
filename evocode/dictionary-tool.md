@@ -4,5 +4,5 @@ EvoCode features a Dictionary tool, which allows to see brief descriptions and a
 
 ![](../.gitbook/assets/screenshot_6%20%281%29.png)
 
-At the right side of the panel you can find detailed information about a selected object. It is also available to find a necessary object through the search field under the header of the panel.
+At the right side of the panel you can find detailed information about a selected object. It is also available to find a necessary object through the search field under the header of the panel.
 

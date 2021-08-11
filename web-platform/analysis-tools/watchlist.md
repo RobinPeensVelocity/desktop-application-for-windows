@@ -4,7 +4,7 @@ The Watchlist panel displays real-time market data for each symbol available thr
 
 ![](../../.gitbook/assets/watchlist%20%281%29.png)
 
-### **Columns**
+## **Columns**
 
 Right-click on any column name to select the columns, which will be displayed in the panel.
 
@@ -45,9 +45,9 @@ The following columns are available in the panel:
 * Reset to defaults - allows to reset settings to defaults.
 * Comment - allows user to add some useful information about trading symbol, to describe the market situation and potential trading possibilities. Click on the comment row in order to open a dialog window for adding, editing and saving the comments.
 
-### **Customizing the Watchlist** 
+## **Customizing the Watchlist**
 
-In order to add symbols to the Watchlist, click on the![](../../.gitbook/assets/1new-copy.png)button, located at the top left corner of the panel. Select the needed symbols from the 'Symbols lookup' window. By finishing symbols selection, press 'Add'.
+In order to add symbols to the Watchlist, click on the![](../../.gitbook/assets/1new-copy.png)button , located at the top left corner of the panel. Select the needed symbols from the 'Symbols lookup' window. By finishing symbols selection, press 'Add'.
 
 ​Right-clicking within the Watchlist panel evokes its context menu. From this menu a user can:
 
@@ -56,13 +56,13 @@ In order to add symbols to the Watchlist, click on the![](../../.gitbook/assets/
 * clear all symbols at once;
 * group symbols by symbol type.
 
-### **Symbols lists creation** 
+**Symbols lists creation**
 
-The Watchlist panel enables a user to create custom sets of symbols lists. In order to add symbols to the Watchlist, click on the![](../../.gitbook/assets/++%20%281%29.png)button, located at the top left corner of the panel’s toolbar. Select the needed symbols from the 'Symbols lookup' window. By finishing symbols selection, press 'Add'. From the drop-down menu of Symbol list user is able to create new symbol lists. In this list all created instruments lists are displayed. Buttons for renaming or deleting of a list are located right to each list. 
+The Watchlist panel enables a user to create custom sets of symbols lists. In order to add symbols to the Watchlist, click on the![](../../.gitbook/assets/20%20%281%29.png)button, located at the top left corner of the panel’s toolbar. Select the needed symbols from the 'Symbols lookup' window. By finishing symbols selection, press 'Add'. From the drop-down menu of Symbol list user is able to create new symbol lists. In this list all created instruments lists are displayed. Buttons for renaming or deleting of a list are located right to each list.
 
 ![](../../.gitbook/assets/screenshot_2%20%289%29.png)
 
-### **Symbol Info** 
+## **Symbol Info**
 
 Symbol Info panel allows displaying settings information for a selected symbol. To open the panel, evoke a context menu of a certain symbol in the Watchlist and select the "Symbol info" option. The Symbol info window will be opened:
 
@@ -95,14 +95,10 @@ The following information is available in each group:
 
 For symbols with asset class Futures and Options, expiration dates templates are available on the Server. Your administrator can select there the following templates, depending on which the dates will be defined for Symbol info panel:
 
-      - Contract month;
-
-      - Contract month, Last trade date, Settlement date, Notice date, First trade date;
-
-      - Contract month, Last trade date, Settlement date, Notice date;
-
-      - Contract month, Last trade.
-
+* Contract month;
+* Contract month, Last trade date, Settlement date, Notice date, First trade date;
+* Contract month, Last trade date, Settlement date, Notice date;
+* Contract month, Last trade.
 * Delivery method – type of asset delivery. Available for Futures, Bonds, Spot, Forward instruments. Can be only Cash for Bonds;
 * Strike price – price level of an underlier by which Option contract must be executed;
 * Maturity date – date of the contract expiration;

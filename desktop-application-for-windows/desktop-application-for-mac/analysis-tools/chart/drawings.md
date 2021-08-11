@@ -42,18 +42,18 @@ Properties:
 In order to place a tool:
 
 * Open Context menu and select Drawing tools -&gt; \[desired tool\] or click on an appropriate icon in the Drawing toolbar.
-*  If a tool requires points to be specified on the chart \(e.g. a line requires two points while Andrew's pitchfork requires three\), you can choose these points using 'Snap to candle' option. This defines which price the lines will follow. In Freehand mode, there is no reference to the price.
+* If a tool requires points to be specified on the chart \(e.g. a line requires two points while Andrew's pitchfork requires three\), you can choose these points using 'Snap to candle' option. This defines which price the lines will follow. In Freehand mode, there is no reference to the price.
 
   Note: freehand is the default setting when selecting a tool from the Drawing toolbar and 'Snap to candle' is disabled.
 
-### Context menu
+Context menu
 
-Each drawing tool has its Context menu. Right-click on the initial point of the drawing tool in order to evoke its context menu![](../../../../.gitbook/assets/context-menu-small%20%281%29.png). 
+Each drawing tool has its Context menu. Right-click on the initial point of the drawing tool in order to evoke its context menu![](../../../../.gitbook/assets/context-menu-small%20%281%29.png).
 
 * Preferences – allows to specify tool’s appearance and preferences;
 * Remove – deletes selected tool.
 
-Drawing's 'Preferences' window contains different sections depending on drawing's type. In general, the following sections are available in the 'Preferences' menu: 
+Drawing's 'Preferences' window contains different sections depending on drawing's type. In general, the following sections are available in the 'Preferences' menu:
 
 * Appearance – allows to set up view parameters of a drawing;
 
@@ -63,11 +63,9 @@ Drawing's 'Preferences' window contains different sections depending on drawing'
 
 ![](../../../../.gitbook/assets/rectangle2small.png)
 
-For such drawings, as Fibonacci retracement, Fibonacci expansion, Fibonacci fans, Fibonacci phi-channel, Fibonacci time goal, the additional section is available in Preferences menu:
+For such drawings, as Fibonacci retracement, Fibonacci expansion, Fibonacci fans, Fibonacci phi-channel, Fibonacci time goal, the additional section is available in Preferences menu:
 
 * Fibonacci – allows to add, delete Fibonacci levels and edit their values.
 
 ![](../../../../.gitbook/assets/fibonacci-2.png)
-
-
 

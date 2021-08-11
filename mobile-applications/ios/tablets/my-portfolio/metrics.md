@@ -2,7 +2,7 @@
 
 The Metrics screen shows the Portfolio statistics. A user can see here the invested amount of funds, arithmetic mean income for different time periods, the best year result, the worst year result \(considering profit\), etc.
 
-The statistics data is displayed as cards with a metric name and its value.   ****
+The statistics data is displayed as cards with a metric name and its value. _\*\*_
 
 ![](../../../../.gitbook/assets/image7.png)
 
@@ -27,19 +27,19 @@ _**EODPortfolioBalance\(i\) &lt; max\(PortfolioBalance\)**_
 
 Otherwise, the PortfolioBalance value grows, and the drawdown is equal to 0.00%.
 
-If you don’t need any metric, you can remove it by swiping the card left and tapping the “Remove” button. 
+If you don’t need any metric, you can remove it by swiping the card left and tapping the “Remove” button.
 
 ![](../../../../.gitbook/assets/image8.png)
 
-Other metrics can be added optionally. To add a metric, tap the![](https://lh3.googleusercontent.com/mwLy9VITx37fqqx78IPkbg8LIQm7NW12PU4iTYLnj9BRRvbg9mIKTgHkaE696gb-rnKmAtYrZslF1KoooqA3nC8nw6ub6ZLx98eo26km1amPtLXbNVm1gztMX_osUSY3v7q-98yC)button located above the metrics list and select preferred metrics. 
+Other metrics can be added optionally. To add a metric, tap the![](https://lh3.googleusercontent.com/mwLy9VITx37fqqx78IPkbg8LIQm7NW12PU4iTYLnj9BRRvbg9mIKTgHkaE696gb-rnKmAtYrZslF1KoooqA3nC8nw6ub6ZLx98eo26km1amPtLXbNVm1gztMX_osUSY3v7q-98yC)button located above the metrics list and select preferred metrics.
 
 ![](../../../../.gitbook/assets/image9.png)
 
 “Best month” and “Worst month” metrics are the maximum and the minimum values of Monthly return which is calculated by the following formulas:
 
-_**Monthly return\(i\),% = \(\(EOMPortfolioBalance\(i\) - Deposits\(i\) + Withdrawals\(i\) + Transfers\(i\) + TransferAndWithdrawal fees\(i\)  - EOMPortfolioBalance\(i-1\)\)/EOMPortfolioBalance\(i-1\)\)\*100%**_
+_**Monthly return\(i\),% = \(\(EOMPortfolioBalance\(i\) - Deposits\(i\) + Withdrawals\(i\) + Transfers\(i\) + TransferAndWithdrawal fees\(i\) - EOMPortfolioBalance\(i-1\)\)/EOMPortfolioBalance\(i-1\)\)\*100%**_
 
-_**Monthly return\(i\),$ = EOMPortfolioBalance\(i\) - Deposits\(i\) + Withdrawals\(i\) + Transfers\(i\) + TransferAndWithdrawal fees\(i\)  - EOMPortfolioBalance\(i-1\)**_
+_**Monthly return\(i\),$ = EOMPortfolioBalance\(i\) - Deposits\(i\) + Withdrawals\(i\) + Transfers\(i\) + TransferAndWithdrawal fees\(i\) - EOMPortfolioBalance\(i-1\)**_
 
 where:
 

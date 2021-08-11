@@ -14,13 +14,13 @@ Bullish Signal - buy signal is generated when the ROC crosses above the zero cen
 
 Bearish Signal - sell signal is generated when the ROC Indicator crosses below the zero center line.
 
-### Calculation
+## Calculation
 
 ROC is the percentage change between the current price with respect to an earlier closing price 'n' periods ago:
 
 ROC = \[\(Close - Close n periods ago\) / \(Close n periods ago\)\] \* 100
 
-### Main parameters
+## Main parameters
 
 Interval – period of momentum, 12 by default.
 

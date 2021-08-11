@@ -22,13 +22,13 @@ In order to go back to the previous model of data display, tap the empty space o
 
 ![](../../../../.gitbook/assets/image-8.png)
 
-### Calculations
+## Calculations
 
 **Portfolio monthly return:**
 
-_Monthly return\(i\),% = \(\(EOMPortfolioBalance\(i\) - Deposits\(i\) + Withdrawals\(i\) + Transfers\(i\) + TransferAndWithdrawal fees\(i\)  - EOMPortfolioBalance\(i-1\)\)/EOMPortfolioBalance\(i-1\)\)\*100%_
+_Monthly return\(i\),% = \(\(EOMPortfolioBalance\(i\) - Deposits\(i\) + Withdrawals\(i\) + Transfers\(i\) + TransferAndWithdrawal fees\(i\) - EOMPortfolioBalance\(i-1\)\)/EOMPortfolioBalance\(i-1\)\)\*100%_
 
-_Monthly return\(i\),$ = EOMPortfolioBalance\(i\) - Deposits\(i\) + Withdrawals\(i\) + Transfers\(i\) + TransferAndWithdrawal fees\(i\)  - EOMPortfolioBalance\(i-1\)_
+_Monthly return\(i\),$ = EOMPortfolioBalance\(i\) - Deposits\(i\) + Withdrawals\(i\) + Transfers\(i\) + TransferAndWithdrawal fees\(i\) - EOMPortfolioBalance\(i-1\)_
 
 where:
 
@@ -42,8 +42,7 @@ where:
 
 **Monthly instrument return:**
 
-_Monthly instrument return\(i\) = \(\(EOMLastPrice\(i\) - EOMLastPrice\(i-1\)\)/EOMLastPrice\(i-1\)\)\*100%_  
-
+_Monthly instrument return\(i\) = \(\(EOMLastPrice\(i\) - EOMLastPrice\(i-1\)\)/EOMLastPrice\(i-1\)\)\*100%_
 
 where:
 
@@ -67,7 +66,4 @@ where:
 * TransferAndWithdrawal fees - the sum of all Transfer fee and Withdrawal fee operations by the account since the beginning of the specified month;  
 * StockOperation\(i\) - the sum of all Stock operations by the account since the beginning of the specified month;
 * EOMNetCash\(i-1\) - the net Cash value at the end of the month that precedes the specified month.
-
-  
-
 

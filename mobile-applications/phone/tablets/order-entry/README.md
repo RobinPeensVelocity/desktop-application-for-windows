@@ -1,10 +1,12 @@
 # Order entry
 
-The Order entry screen enables user to send orders. The Order entry button![](../../../../.gitbook/assets/1-kopiya%20%287%29.png)is located at the top right corner of the Chart. Also it is accessible from the main menu of the platform or from the Symbol menu. Swipe left the Symbol name in Watchlist to open Symbol menu and tap Order Entry button:
+The Order entry screen enables user to send orders. The Order entry button![](../../../../.gitbook/assets/1-kopiya%20%287%29%20%282%29.png) is located at the top right corner of the Chart. Also it is accessible from the main menu of the platform or from the Symbol menu. Swipe left the Symbol name in Watchlist to open Symbol menu and tap Order Entry button:
 
-                                             ![](../../../../.gitbook/assets/screen-shot-2020-06-05-at-5.57.11-pm%20%286%29.png)                  
+```text
+                                         ![](../../../../.gitbook/assets/screen-shot-2020-06-05-at-5.57.11-pm%20%286%29.png)                  
+```
 
-In Order entry users can see detailed information about the traded symbol: symbol name, quantity, order type, price, Validity and information about bid and ask.
+In Order entry users can see detailed information about the traded symbol: symbol name, quantity, order type, price, Validity and information about bid and ask.
 
 ![](../../../../.gitbook/assets/new%20%285%29.jpg)
 
@@ -18,13 +20,9 @@ The Order entry screen enables user to send orders. The Order entry button![](..
 Order type defines the type of the order – Market, Limit, Stop, Stop limit, Trailing stop:
 
 1. Market order guarantees execution at a market price.
-
 2. Limit order is placed with a brokerage to buy or sell a set number of shares at a specified price or better.
-
 3. Stop order is placed to buy or sell a security when its price surpasses a particular point, thus ensuring a greater probability of achieving a predetermined entry or exit price, limiting the investor's loss or locking in his or her profit.
-
 4. Stop limit order will be executed at a specified price \(or better\) after a given stop price has been reached. Once the stop price is reached, the stop-limit order becomes a limit order to buy \(or sell\) at the limit price or better.
-
 5. "Sell" trailing stop order sets the stop price at a fixed amount below the market price on the trailing offset. As the market price rises, the stop price rises by the trail amount, but if the stock price falls, the stop loss price doesn't change, and a market order is submitted when the stop price is hit. "Buy" trailing stop orders are the mirror image of sell trailing stop orders.
 
 **Validity:**
@@ -32,17 +30,12 @@ Order type defines the type of the order – Market, Limit, Stop, Stop limit, Tr
 Validity – allows specifying order validity by selecting among the following time frames: Day, GTC, IOC, GTD, FOK. This is especially important for active traders:
 
 1. Day order, as the name implies, is valid for the current trading day.
-
 2. GTC \(Good till cancelled\) orders, on the other hand, will remain alive until they are cancelled.
-
 3. IOC \(Immediate or Cancel Order\) requires that all or part of the order be executed immediately after it has been brought to the market.
-
 4. FOK \(Fill or kill\) – requires to execute the entire transaction immediately and completely or not to execute it at all.
-
 5. GTD \(Good till date\) allows input date until which the order will be cancelled if not executed.
-
-* SL/TP price – allows to set Stop loss and Take profit prices.
-* Trailing SL offset – allows entering the order trailing stop price.
+6. SL/TP price – allows to set Stop loss and Take profit prices.
+7. Trailing SL offset – allows entering the order trailing stop price.
 
 Note: SL price and Trailing SL offset cannot be checked together.
 
@@ -73,7 +66,7 @@ Spread initial loss = \(Ask - Bid\) \* Tick cost \* Qty.
 
 * P/L per Tick – displays data for Symbols:
 
-P/L per Tick = Tick cost \* Qty - if a Symbol type is one of these: Futures, Options, Spreadbet;
+P/L per Tick = Tick cost \* Qty - if a Symbol type is one of these: Futures, Options, Spreadbet;
 
 P/L per Tick = Tick size \* Lot size \* Qty \* Cross-price **-** if a Symbol type is NOT one of these: Futures, Options, Spreadbet, Index;
 
@@ -99,7 +92,7 @@ This button is intended to get a snapshot of the actual quotes for the current S
 
 The "Get snapshot" button allows to update the information in this window.
 
-### Data source <a id="data-source"></a>
+## Data source <a id="data-source"></a>
 
 In the Order entry panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, tap the![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LMCqxhh2XAdWPUjcvxR%2F-Mfpv6DNLYjjeuJGX1yP%2F-Mfpy8846naXNcwhJjfT%2Fds.png?alt=media&token=2b9be8c7-8673-4c15-a40d-5f4cbf2f33fd)button and the widget will be shown:
 

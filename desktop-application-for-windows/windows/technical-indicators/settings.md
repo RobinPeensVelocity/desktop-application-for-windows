@@ -13,13 +13,13 @@ The following buttons are available in the Properties window:
 * OK – applies settings, closes the settings screen. The indicator will be plotted in accordance with the saved settings;
 * Close – this button closes the Properties window.
 
-### Parameters tab
+## Parameters tab
 
 * Is background checkbox – defines the layer of the indicator line, unchecked by default. If checked, then the indicator lines will be displayed under the main chart;
 * Win num on chart for indicator – defines the window for plotting the indicator, the following radio buttons are available: Main, Sub window, or Sub window number \(max qty of sub windows is 3\);
 * Specific indicator settings – considered in the context of individual indicators in the relevant articles.
 
-### Line properties
+## Line properties
 
 * Visible checkbox – determines the visibility of the indicator line;
 * Line – allows setting the line drawing characteristics: style, thickness, color;
@@ -27,7 +27,7 @@ The following buttons are available in the Properties window:
 * Time shift – determines the shift of indicator lines along the timeline by a specified number of minutes;
 * Show line marker checkbox – determines the display of a label with the indicator value on the price scale.
 
-### Visibility
+## Visibility
 
 This tab contains settings that allow to hide or show the indicator depending on the selected Time Frame.
 
@@ -36,6 +36,4 @@ This tab contains settings that allow to hide or show the indicator depending on
 * Delete – allows to remove an aggregation type from the list;
 * If the Visibility tab is empty, the indicator is plotted for any type of aggregation. Set by default;
 * If the Visibility tab is not empty, the indicator will be plotted only for the timeframes specified in the tab, for the rest, it will not.
-
-
 

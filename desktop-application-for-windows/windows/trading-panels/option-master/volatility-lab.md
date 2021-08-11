@@ -4,13 +4,13 @@ Volatility lab tab is used for graphic analysis before starting to trade options
 
 ![](../../../../.gitbook/assets/1%20%2849%29.png)
 
-This tab allows plotting the "Volatility lab" which is considered as a totality of IV values for a specific option contract. Also, it is possible to plot "Volatility lab" graph according to actual market data and Vanna-Volga implied volatilities model.
+This tab allows plotting the "Volatility lab" which is considered as a totality of IV values for a specific option contract. Also, it is possible to plot "Volatility lab" graph according to actual market data and Vanna-Volga implied volatilities model.
 
 See the blue chart for "Volatility lab" plotted according to actual market data and the red one for Vanna-Volga implied volatilities model on the chart below:
 
 ![](../../../../.gitbook/assets/new-lab-vanna-volga.png)
 
-### **Vanna-Volga implied volatilies model calculation algorithm**
+## **Vanna-Volga implied volatilies model calculation algorithm**
 
 This model is plotted for selected option series and gets the following elemental parameters:
 
@@ -35,7 +35,7 @@ M = Domestick rate/100 - Foreign rate/100;
 
   The calculated series are reflected on the Volatility lab chart.
 
-### **Chart settings menu**
+**Chart settings menu**
 
 In the Chart settings menu you can choose the Side, Visible series and Volatility models to be displayed on the chart:
 
@@ -51,30 +51,34 @@ In order to hide the Chart settings menu, press the button![](../../../../.gitbo
 
 ![](../../../../.gitbook/assets/visible.png)
 
-* Pressing![](../../../../.gitbook/assets/th%20%281%29.png)  allows to define graph’s thickness \(from 1 to 10 px\), and pressing![](../../../../.gitbook/assets/1y.png)calls the dialog window for graph’s color selection:
+* Pressing![](../../../../.gitbook/assets/th%20%281%29%20%281%29.png)
+
+  allows to define graph’s thickness \(from 1 to 10 px\), and pressing![](../../../../.gitbook/assets/1y.png)calls the dialog window for graph’s color selection:
 
 ![](../../../../.gitbook/assets/select.png)
 
 Marking the option![](../../../../.gitbook/assets/vv.png)as checked in the Volatility models section allows to plot Vanna-Volga implied volatilities model.
 
- This graph can also get its individual parameters via thickness and color selection \(![](../../../../.gitbook/assets/th.png),![](../../../../.gitbook/assets/d.png)\). 
+This graph can also get its individual parameters via thickness and color selection \(![](../../../../.gitbook/assets/th%20%281%29.png),![](../../../../.gitbook/assets/d.png)\).
 
 * The drop-down list of the Option series section allows selecting an appropriate series for Vanna-Volga implied volatilities model:![](../../../../.gitbook/assets/screenshot_4.png).
 
-Be attentive to choose the same series for Vanna-Volga implied volatilities model as for “Volatility lab” graph plotted according to actual market data.
+Be attentive to choose the same series for Vanna-Volga implied volatilities model as for “Volatility lab” graph plotted according to actual market data.
 
-### Chart scaling
+## Chart scaling
 
- The chart view can be manipulated with the buttons![](../../../../.gitbook/assets/screenshot_5%20%284%29.png), located in the buttom-right corner of the chart field: 
+The chart view can be manipulated with the buttons![](../../../../.gitbook/assets/screenshot_5%20%284%29.png), located in the buttom-right corner of the chart field:
 
 * Pressing the button![](../../../../.gitbook/assets/screenshot_12.png)allows to zoom out of any random area of the chart;
-*  Pressing the button![](../../../../.gitbook/assets/screenshot_7.png)allows to zoom in to any random area of the chart;
-*  Pressing the button![](../../../../.gitbook/assets/+.png)  allows to enable selecting any area of the chart for zooming in. Pressing this button again disables this option.
+* Pressing the button![](../../../../.gitbook/assets/screenshot_7.png)allows to zoom in to any random area of the chart;
+* Pressing the button![](../../../../.gitbook/assets/+.png)
+
+  allows to enable selecting any area of the chart for zooming in. Pressing this button again disables this option.
 
 The chart view can be also manipulated with some additional options:
 
 * Hovering the cursor over a chart’s dot + mouse wheel scrolling - allows zooming in to and zooming out of a chosen dot![](../../../../.gitbook/assets/dd.png)of any chart;
-*  Clicking + holding + moving the cursor on a random area of the coordinate plane![](../../../../.gitbook/assets/screenshot_14.png)- allows to focus the chart view on this area of the coordinate plane;
+* Clicking + holding + moving the cursor on a random area of the coordinate plane![](../../../../.gitbook/assets/screenshot_14.png)- allows to focus the chart view on this area of the coordinate plane;
 * Clicking + moving the cursor on any area on the X or Y axis - allows to move on the left/right \(X\) or up/down \(Y\) on this area on the X or Y axis;
 * Clicking + scrolling on any area on the X or Y axis - allows to zoom in to and zoom out of this area:
 

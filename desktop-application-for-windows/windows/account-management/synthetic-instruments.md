@@ -1,22 +1,22 @@
 # Synthetic instruments
 
-### **What are the Synthetic instruments?**
+## **What are the Synthetic instruments?**
 
 Synthetic instruments panel is a grouping of synthetic instruments used for analyzing the risk/return allocation of synthetic instruments. Users can create their own "combined" synthetic instruments and trade it similarly to a standard one. Synthetic instruments open up possibilities for pair trading, portfolio trading, and arbitrage trading.
 
 To create new Synthetic instruments, select Tools -&gt; Synthetic instruments.
 
-### **How to create new Synthetic instruments?**
+## **How to create new Synthetic instruments?**
 
 After clicking on the Synthetic instruments icon from the Tools menu, the following window will be shown:
 
 ![](../../../.gitbook/assets/1%20%2877%29.png)
 
-New Synthetic instruments can now be created. Click on the![](../../../.gitbook/assets/2%20%2810%29.png)button.
+New Synthetic instruments can now be created. Click on the![](../../../.gitbook/assets/2%20%2810%29%20%281%29.png)button.
 
-Double click on SYNTHETIC0 to change the name.
+Double click on SYNTHETIC0 to change the name.
 
-### How to add Synthetic instruments?
+## How to add Synthetic instruments?
 
 1\) Right-click on the empty space to add or remove a synthetic instrument.
 
@@ -24,7 +24,7 @@ After clicking on the Synthetic instruments icon from the Tools menu, the follow
 
 ![](../../../.gitbook/assets/4%20%2828%29.png)
 
-2\) Click on the![](../../../.gitbook/assets/2%20%2840%29.png)button and select the option how to add the synthetic instrument.
+2\) Click on the![](../../../.gitbook/assets/2%20%2810%29.png)button and select the option how to add the synthetic instrument.
 
 ![](../../../.gitbook/assets/5%20%2816%29.png)
 
@@ -38,6 +38,4 @@ To delete symbol, simply right click on it and select Remove symbol or click the
 When created, the Synthetic instruments will be available in the list of symbols and can be utilized similar to any other symbol. Synthetic instruments can be added to a Chart and traded in Order entry.
 
 ![](../../../.gitbook/assets/6%20%2813%29.png)
-
-
 

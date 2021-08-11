@@ -16,15 +16,15 @@ By clicking on an Idea space in the Ideas panel, User can open the Idea expanded
 
 ![](../../../.gitbook/assets/group-1715.png)
 
-The expanded view of an Idea contains the chart of the Instrument used \(if the data on the Instrument is available to the User\), Idea text description, remaining lifetime, Take profit, Limit price and Stop loss values and the Idea remaining Life time. With that, the chart of the Instrument used in the Idea is refreshed with the same frequency as the chart panel. 
+The expanded view of an Idea contains the chart of the Instrument used \(if the data on the Instrument is available to the User\), Idea text description, remaining lifetime, Take profit, Limit price and Stop loss values and the Idea remaining Life time. With that, the chart of the Instrument used in the Idea is refreshed with the same frequency as the chart panel.
 
 In the Idea expanded view, the User-subscriber can specify the quantity for the Idea order using the Quantity control, view and change the Product type \(if available\) before placing the order.
 
 {% hint style="info" %}
-If, in addition to the one specified in the Idea, there is a product type available to the User-subscriber that differs from the one specified in the Idea by the User analyst, the User subscriber can switch from "Delivery" to "Intraday" product type using the Product type control: ![](../../../.gitbook/assets/1%20%285%29.jpeg)   
+If, in addition to the one specified in the Idea, there is a product type available to the User-subscriber that differs from the one specified in the Idea by the User analyst, the User subscriber can switch from "Delivery" to "Intraday" product type using the Product type control: ![](../../../.gitbook/assets/1%20%285%29.jpeg)  
 With that, the User is shown the product type change confirmation dialog:
 
-![](https://lh6.googleusercontent.com/rvgZW5n-Ulp5QIZQSaWZ01iC1jNHMKWY7BbMpxTfVPJMvMsAoqXuiSWoljNiPUPoAg0dow9KpFT6jSmTqtCrcju1mf3wcDvZ0Qr3QmIL_kMLzGU1ZjTc9fJ8XRcUjuHF42o60xIb) 
+![](https://lh6.googleusercontent.com/rvgZW5n-Ulp5QIZQSaWZ01iC1jNHMKWY7BbMpxTfVPJMvMsAoqXuiSWoljNiPUPoAg0dow9KpFT6jSmTqtCrcju1mf3wcDvZ0Qr3QmIL_kMLzGU1ZjTc9fJ8XRcUjuHF42o60xIb)
 
 If the User-subscriber has only one product type available and it differs from the one specified in the Idea, the User-subscriber can only view the product type without being able to change it.
 {% endhint %}

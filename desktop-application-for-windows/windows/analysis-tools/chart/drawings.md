@@ -1,6 +1,6 @@
 # Drawings
 
-A set of graphical tools is available to assist in price movements analysis. All of these tools are accessible via the Drawing toolbar or through the Context menu of the Chart.
+A set of graphical tools is available to assist in price movements analysis. All of these tools are accessible via the Drawing toolbar or through the Context menu of the Chart.
 
 ![](../../../../.gitbook/assets/drawings-windows.png)
 
@@ -70,7 +70,7 @@ In order to place a tool:
 
 Note: freehand is the default setting when selecting a tool from the Drawing toolbar and 'Snap to candle' is disabled.
 
-#### Context menu
+## Context menu
 
 Each drawing tool has its Context menu. Right click on the initial point of the drawing tool in order to evoke its context menu.
 
@@ -95,21 +95,16 @@ For such drawings, as Line, Vertical line, Horizontal line, Triangle, Rectangle,
 
 ![](../../../../.gitbook/assets/22.png)
 
-Click on the button![](../../../../.gitbook/assets/23%20%281%29.png)in the column Delete to remove a visibility parameter. Clicking on the button![](../../../../.gitbook/assets/24%20%281%29.png)allows to set up a visibility parameter depending on a chart's aggregation type via the following dialog screen:
+Click on the button![](../../../../.gitbook/assets/23%20%281%29.png) in the column Delete to remove a visibility parameter. Clicking on the button![](../../../../.gitbook/assets/24%20%281%29.png)allows to set up a visibility parameter depending on a chart's aggregation type via the following dialog screen:
 
 ![](../../../../.gitbook/assets/screenshot_3%20%289%29.png)
 
 For such drawings, as Fibonacci retracement, Fibonacci expansion, Fibonacci arc, Fibonacci ellipses, Fibonacci fans, Fibonacci phi-channel, Fibonacci time goal analysis, the following sections are available:
 
-          1. Appearance;
-
-          2. Points;
-
-         3. Visibility;
-
-         4. Fibonacci – allows to add, delete Fibonacci levels, edit their values and to set   up the font, font color and width of a line of a drawing which will be colored after reaching the value which you set:
+1. Appearance;
+2. Points;
+   1. Visibility;
+   2. Fibonacci – allows to add, delete Fibonacci levels, edit their values and to set up the font, font color and width of a line of a drawing which will be colored after reaching the value which you set:
 
 ![](../../../../.gitbook/assets/26%20%281%29.png)
-
-
 

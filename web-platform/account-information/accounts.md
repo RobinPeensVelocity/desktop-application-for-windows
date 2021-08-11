@@ -4,7 +4,7 @@ Accounts panel shows basic details about all accounts that are available for a u
 
 To open Accounts panel, select Account -&gt; Accounts in the header of TraderEvolution Web platform:
 
-![](../../.gitbook/assets/windows-desk-waived.png)
+![](../../.gitbook/assets/windows-desk-waived%20%281%29.png)
 
 The Accounts panel is also available in Detailed view in order to show the detailed information in rows. You can see details about any of your accounts or about all together. Click on the Current equity section \(Balance & Projected balance\) located in the header of the Web platform in order to open this panel.
 
@@ -104,11 +104,10 @@ The following information about Accounts and calculation formulas are available:
           Profit &#x2013; Unsettled profit + Unused unsettled negative cash for stocks
           &#x2013; Unsettled positive cash for stocks + Unused unsettled negative
           premium - Unsettled positive premium + Unsettled premium from open sell
-          - Used premium from open sell <b>- </b>Stocks liquidity + Withdrawable cash
+          - Used premium from open sell <b>-</b> Stocks liquidity + Withdrawable cash
           for stocks + Withdrawable unsettled profit/loss + Withdrawable unsettled
           collateral + Unused intraday initial margin - Used overnight initial margin
           for intraday, where:</p>
-        <p></p>
         <ul>
           <li>Credit value - credited funds available to trade with but unavailable
             to withdraw.</li>
@@ -117,7 +116,6 @@ The following information about Accounts and calculation formulas are available:
           this value.</p>
         <p>If Credit value is negative, it means that it has been already substracted
           from the balance and shouldn&apos;t be substracted again.</p>
-        <p></p>
         <ul>
           <li>Profit - current open profit, calculated for all instruments on a selected
             account;</li>
@@ -417,6 +415,4 @@ The following information about Accounts and calculation formulas are available:
     </tr>
   </tbody>
 </table>
-
-
 

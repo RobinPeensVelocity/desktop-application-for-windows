@@ -1,6 +1,6 @@
 # Top menu, Info bar, Status bar
 
-### **Top** **menu**
+## **Top** **menu**
 
 ![](../../../.gitbook/assets/te.png)
 
@@ -17,7 +17,7 @@
 * Connection status: shows the status of connection to the server.
 * Ping information: shows the response time of the server \(ms\) to which the client is connected.
 
-### **Info bar**
+## **Info bar**
 
 Info bar can be enabled or hidden via the General tab in General settings.
 
@@ -25,57 +25,59 @@ It looks as the following:
 
 ![](../../../.gitbook/assets/screenshot_7%20%281%29.jpg)
 
-You can customize it via its context menu. To open the Info bar's context menu, right-click anywhere on the 'Info bar':![](../../../.gitbook/assets/2%20%2831%29.png).
+You can customize it via its context menu. To open the Info bar's context menu, right-click anywhere on the 'Info bar':![](../../../.gitbook/assets/2%20%2831%29.png).
 
 * Tape rolling – when checked, the 'Info bar' moves horizontally along the application's window width;
 * Customize – opens the 'Customize info bar' menu:
 
 ![](../../../.gitbook/assets/screenshot_6%20%284%29.jpg)
 
-This menu allows to select a set of elements to be displayed in the 'Info bar'.
+This menu allows to select a set of elements to be displayed in the 'Info bar'.
 
-The checkbox 'Tape rolling' allows to enable/disable the Info bar's horizontal movement along the application's window width. 
+The checkbox 'Tape rolling' allows to enable/disable the Info bar's horizontal movement along the application's window width.
 
-The control![](../../../.gitbook/assets/4%20%2848%29.png)opens a list of elements' groups for particular elements selection. The groups 'Account details', 'Symbols' and 'Clocks' are available here:
+The control![](../../../.gitbook/assets/8%20%284%29.png) opens a list of elements' groups for particular elements selection. The groups 'Account details', 'Symbols' and 'Clocks' are available here:
 
 * Account details – opens the 'Customize account details' menu:
 
 ![](../../../.gitbook/assets/5%20%287%29.png)
 
-This menu contains an account lookup for users having more than one account.
+This menu contains an account lookup for users having more than one account.
 
 The following sub-groups of elements displaying account details are available here: General, Margin, Account activity, Today results, Risk management, Info.
 
 To select element\(s\) from the sub-group\(s\), check needed element\(s\) and press the button 'OK'. Press the button 'Close' to cancel the selection and to quit the 'Customize account details' menu.
 
-* Symbols –   opens the Customize symbols window. The user can select symbol\(s\) to be displayed in the 'Info bar' here. ****After clicking the![](https://lh4.googleusercontent.com/eXennB7RAUSoZbuVQoiBMSonrhnlqHYeoylOjYu6H0NOfJC6p1I2xkAOb3tKagjWNG5b_J8M7zuYOV1q08-Z1iTW5ivCvrIw8nqoqJmV5c8v8_IK6iDLgCn-clCO6bMlVvZanTBs), the Symbol lookup window will be opened for adding the necessary instruments. Please note that the user can add several instruments or all at once, in which case the lookup value will display ‘All’. The user can also add the same instrument several times, for example, if the instrument is duplicated three times, the lookup value will look as follows: Instrument lookup = “3 Items”.
+* Symbols – 
+
+  opens the Customize symbols window. The user can select symbol\(s\) to be displayed in the 'Info bar' here. _\*\*_After clicking the![](https://lh4.googleusercontent.com/eXennB7RAUSoZbuVQoiBMSonrhnlqHYeoylOjYu6H0NOfJC6p1I2xkAOb3tKagjWNG5b_J8M7zuYOV1q08-Z1iTW5ivCvrIw8nqoqJmV5c8v8_IK6iDLgCn-clCO6bMlVvZanTBs), the Symbol lookup window will be opened for adding the necessary instruments. Please note that the user can add several instruments or all at once, in which case the lookup value will display ‘All’. The user can also add the same instrument several times, for example, if the instrument is duplicated three times, the lookup value will look as follows: Instrument lookup = “3 Items”.
 
 ![](../../../.gitbook/assets/screenshot_1%20%285%29.jpg)
 
-In the 'Info bar' near the selected symbol the user can find the Last price \(the last trade price\), Change \(absolute price deviation from a Previous close price\), and Change, % \(price deviation from a Previous close price as a percentage\) checkboxes. All three settings can be active at the same time, in which case the Last price will be displayed in white, the Change price will be displayed in green, and the Change price, % will also be displayed in green, but with a '%' symbol next to the value. 
+In the 'Info bar' near the selected symbol the user can find the Last price \(the last trade price\), Change \(absolute price deviation from a Previous close price\), and Change, % \(price deviation from a Previous close price as a percentage\) checkboxes. All three settings can be active at the same time, in which case the Last price will be displayed in white, the Change price will be displayed in green, and the Change price, % will also be displayed in green, but with a '%' symbol next to the value.
 
-*  Clocks – shows a list of time zones:
+* Clocks – shows a list of time zones:
 
 ![](../../../.gitbook/assets/screenshot_3%20%286%29.jpg)
 
-Check needed clock\(s\) to be displayed in the 'Info bar'. There is also the Customize item in the list of time zones. This item allows access to the full list of available time zones, in order to add the necessary ones to the Clocks list, just tick the necessary checkboxes in the ‘Use time zone’ column. At the bottom of this window there is a button that allows resetting the displayed time zones to default:
+Check needed clock\(s\) to be displayed in the 'Info bar'. There is also the Customize item in the list of time zones. This item allows access to the full list of available time zones, in order to add the necessary ones to the Clocks list, just tick the necessary checkboxes in the ‘Use time zone’ column. At the bottom of this window there is a button that allows resetting the displayed time zones to default:
 
 ![](../../../.gitbook/assets/screenshot_4%20%281%29.jpg)
 
 All selected elements via the 'Customize info bar' menu are displayed in the 'Info bar'. They are also arranged in this menu in the form of hierarchical tree. To remove an element from the 'Info bar', select it with highlighting in the 'Customize info bar' hierarchical tree, right-click it and select 'Delete' or click on the button![](../../../.gitbook/assets/7%20%287%29.png).
 
-To remove more than one element, hold the key 'Ctrl', select as much elements as you need, right-click anywhere on the highlighted area and select 'Delete'.  
-  
+To remove more than one element, hold the key 'Ctrl', select as much elements as you need, right-click anywhere on the highlighted area and select 'Delete'.
+
 The following buttons allow to manage the 'Customize info bar' hierarchical tree's view:
 
 * ![](../../../.gitbook/assets/8%20%2822%29.png)– click to collapse each tree's entity;
 * ![](../../../.gitbook/assets/9%20%2813%29.png)– click to expand each tree's entity.
 
-The button 'OK' allows to apply the 'Customize info bar' menu's arrangement to the 'Info bar'.
+The button 'OK' allows to apply the 'Customize info bar' menu's arrangement to the 'Info bar'.
 
 The button 'Cancel' allows to quit this menu without applying the arrangement to the 'Info bar'.
 
-### **Status bar**
+## **Status bar**
 
 The Status bar, located at the bottom of the screen, makes it possible to "stream" information such as news and many others. The Status bar can be customized to show only information that user needs.
 

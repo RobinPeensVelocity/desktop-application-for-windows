@@ -6,7 +6,7 @@ VWAP is used to identify liquidity points. As a volume weighted price measure, V
 
 VWAP can also be used to measure trading efficiency. After buying or selling a security, institutions or individuals can compare their price to VWAP values. A buy order executed below the VWAP value would be considered a good fill because the security was bought at a below average price. Conversely, a sell order executed above the VWAP would be deemed a good fill because it was sold at an above average price.
 
-### Calculation
+## Calculation
 
 Volume weighted average price \(VWAP\) is exactly what it sounds like: the average price weighted by volume. VWAP equals the currency value of all trading periods divided by the total trading volume for the current day. The calculation starts when trading opens and ends when trading closes. Because it is good for the current trading day only, intraday periods and data are used in the calculation.
 
@@ -24,7 +24,7 @@ The price itself is caluclated by the following formula:
 
 **Price\(i\)= \(High+Low+Close\)/3**
 
-### Main parameters 
+## Main parameters
 
 * Days number, number of days involved in calculation of 1 indicator’s cycle;
 * Start day time, defines the start time of the client's trading day, i.e. defines the start of the VWAP calculation cycle \(valid for the client's timezone\);

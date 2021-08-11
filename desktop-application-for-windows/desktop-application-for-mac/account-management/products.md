@@ -6,7 +6,7 @@ The Products panel lists all products currently available to the User, products 
 * Catalogue – contains a list of Products that are available to the User for subscription;
 * Requests – contains subscribe/unsubscribe requests sent by the user.
 
-### Catalogue tab
+## Catalogue tab
 
 ![](../../../.gitbook/assets/new1%20%2823%29.jpg)
 
@@ -20,7 +20,7 @@ Subscription to the Product of interest is carried out by clicking the ‘Subscr
 If the User does not have enough funds to pay the fee, or if there are no available User accounts to be charged for using the Product, then the corresponding reject will be displayed. This is only valid in the case of automatic request confirmation/charging. The reject comes in the form of deal ticket.
 {% endhint %}
 
-There are two subscription options - if the User does not need to sign additional documents or if there is a need to sign them. 
+There are two subscription options - if the User does not need to sign additional documents or if there is a need to sign them.
 
 If the documents are not required to be signed, then the subscription request will be created immediately after clicking the appropriate button. This request will await verification by the admin and after its confirming the User will be subscribed to the Product.
 
@@ -36,21 +36,21 @@ This screen contains the following elements:
 * Progress bar, which is utilized to indicate the progress made when signing documents;
 * In case the required fields are missing on the current page, the system will display a corresponding message and will not allow the User to move to the next page.
 
-### Active tab
+## Active tab
 
 ![](../../../.gitbook/assets/2%20%2816%29.jpg)
 
 This tab looks the same as the Catalogue tab, with the only difference that it displays Products that the User has already subscribed to. Each Product сard in this tab has a ‘Subscribed’ button, but when hovering over, it changes the appearance to ‘Unsubscribe’ and respectively serves to unsubscribe from the required Product. After clicking the button, the User will be prompted to confirm his unsubscription.
 
 {% hint style="warning" %}
-Please note that after confirmation, the User will be immediately unsubscribed, without waiting for the end of the period for which the fee was charged. 
+Please note that after confirmation, the User will be immediately unsubscribed, without waiting for the end of the period for which the fee was charged.
 {% endhint %}
 
 If the Product already has an active request that awaits to be processed by the admin, the "Processing..." button is displayed instead of the "Subscribed" button.
 
 Depending on the state of the Market data subscriber status setting at the user level, the product card displays the Pro price or Non-pro price respectively. If this setting is disabled, then the product is free for the user, so the inscription FREE is displayed on the product card. If Market data subscriber status is not defined, then both prices separated by a slash are displayed at once on the product card, the display format is &lt;non-pro price&gt; / &lt;pro price&gt; &lt;currency&gt;.
 
-### Requests tab
+## Requests tab
 
 This tab displays all requests sent by the user for subscribing/unsubscribing to the Products for the selected period:
 

@@ -4,7 +4,7 @@ Hotkey is a key or a combination of keys providing quick access to a particular 
 
 ![](../../../.gitbook/assets/4%20%288%29.png)
 
-### **General**
+## **General**
 
 Connections – opens the screen ‘Connections’.
 
@@ -22,7 +22,7 @@ Show hotkeys – opens the screen with hotkeys preferences for the panel which i
 
 Show general preferences – opens the screen with general preferences.
 
-### **Tables**
+## **Tables**
 
 Open symbols lookup – allows opening Symbol lookup window.
 
@@ -30,7 +30,7 @@ Show search window – allows opening a search window in the panel which taken i
 
 Show preferences – allows showing preferences of the panel which is taken in focus.
 
-### **Trading**
+## **Trading**
 
 Cancel all orders immediately – allows cancelling all orders immediately.
 
@@ -38,7 +38,7 @@ Close all positions immediately – allows closing all positions immediately.
 
 CLX all – allows to close all positions and cancel all orders immediately.
 
-### **Chart**
+## **Chart**
 
 Activate chart trading – allows activating visual trading.
 
@@ -76,7 +76,7 @@ Cancel Sell order\(s\) closest to the last price – allows cancelling Sell orde
 
 Set period \(Tick, 1 m, 5 m, 15 m, 30 m, 1 H, 4 H, 1 D, 1 W, 1 Month, 1 Y\) – allows specifying the timeframe.
 
-### **Market depth**
+## **Market depth**
 
 Set qty. equal to opened position's qty. – allows setting quantity equal to opened position’s quantity. Other actions are not available.
 
@@ -106,19 +106,19 @@ Sell Ask – allows selling Ask according to your preset parameters.
 
 Prepare LMT order – allows activating the field for entering the value of LMT order.
 
-### **Positions**
+## **Positions**
 
 Close positions – allows closing chosen positions.
 
 Modify position – allows modifying a chosen position.
 
-### **Watchlist**
+## **Watchlist**
 
 Remove symbol – allows removing a symbol.
 
 Add symbol – allows adding a symbol.
 
-### **Working orders**
+## **Working orders**
 
 Cancel order – allows cancelling an order.
 
@@ -126,7 +126,7 @@ Modify order – allows modifying an order.
 
 Change to Market – allows changing order type to Market for selected orders.
 
-### Super DOM
+## Super DOM
 
 Cancel all active orders on selected instrument – allows cancelling all active orders on the selected instrument.
 

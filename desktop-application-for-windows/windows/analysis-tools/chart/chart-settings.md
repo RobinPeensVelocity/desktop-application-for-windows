@@ -1,8 +1,8 @@
 # Chart settings
 
-Chart settings can be opened through the context menu of the Chart panel: 
+Chart settings can be opened through the context menu of the Chart panel:
 
-#### **Data style**
+## **Data style**
 
 ![](../../../../.gitbook/assets/27%20%281%29.png)
 
@@ -10,7 +10,7 @@
 * Data type - the way to accept data. Available types are: Bid, Ask, Last and Default by symbol. Based on server settings Last or Bid/Ask type can be disabled.
 * Color settings for all styles.
 
-#### View
+## View
 
 ![](../../../../.gitbook/assets/view1-desktop.png)
 
@@ -24,7 +24,7 @@
 
 ![](../../../../.gitbook/assets/view2-desktop.png)
 
-#### **Time scale**
+## **Time scale**
 
 ![](../../../../.gitbook/assets/29.png)
 
@@ -34,7 +34,7 @@
 * Highlight extended sessions - all extended sessions that were set on the server for the current symbol will be displayed in selected color.
 * Highlight date - allows displaying separator lines for: Days, Weeks, Months, and Years.
 
-#### **Price scale**
+## **Price scale**
 
 ![](../../../../.gitbook/assets/30%20%281%29.png)
 
@@ -71,15 +71,15 @@ If spread type is None - single price indicator is shown, depending on chart dat
 * Settlement price - allows displaying settlement price on the chart and choosing the style of its line.
 * Previous settlement price - allows displaying previous settlement price on the chart and choosing the style of its line.
 
-#### Alerts
+## Alerts
 
 ![](../../../../.gitbook/assets/image%20%2857%29.png)
 
-* Notification – ****allows selecting the type of notification sent after alert triggering, the following types are available: Email, Push, Pop-up, Sound;
+* Notification – _\*\*_allows selecting the type of notification sent after alert triggering, the following types are available: Email, Push, Pop-up, Sound;
 * Importance – allows to define the importance of the alert. The following options are available: High, Medium, Low;
 * After execute – allows to select alert behavior after execution. Available options are: Stop or Remove.
 
-#### **Visual trading**
+## **Visual trading**
 
 ![](../../../../.gitbook/assets/32%20%281%29.png)
 
@@ -88,17 +88,17 @@ If spread type is None - single price indicator is shown, depending on chart dat
 * Filled orders - allows displaying filled orders on chart.
 * Additional - allows displaying active positions/orders on the left side of the Chart area and trading through Order entry.
 
-#### **Chart Order entry**
+## **Chart Order entry**
 
 ![](../../../../.gitbook/assets/33%20%281%29.png)
 
-This section allows choosing buttons and hot buttons which will be displayed in built-in Order entry.
+This section allows choosing buttons and hot buttons which will be displayed in built-in Order entry.
 
-#### **Info window**
+## **Info window**
 
 ![](../../../../.gitbook/assets/desktop-windows.jpg)
 
-This section allows setting up contents of the Info window and the style of its displaying. You can select from the following Info Window Modes: Separate Window, Attached To Cursor, Hidden. Please note that this setting allows changing the background and text colors for various info windows, for example, those that are expanded when using the 'Right information button' on the chart.
+This section allows setting up contents of the Info window and the style of its displaying. You can select from the following Info Window Modes: Separate Window, Attached To Cursor, Hidden. Please note that this setting allows changing the background and text colors for various info windows, for example, those that are expanded when using the 'Right information button' on the chart.
 
 Other settings sections \(Volume bars, Price statistics, etc.\) are described in the articles located in the 'Analysis tools' documentation section.
 

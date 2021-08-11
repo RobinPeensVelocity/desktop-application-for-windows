@@ -1,6 +1,6 @@
 # Chart overview
 
-Chart is the most useful panel for an active trader. Charts enable users to view quotes history, analyze market patterns, and make decisions being well-informed.
+Chart is the most useful panel for an active trader. Charts enable users to view quotes history, analyze market patterns, and make decisions being well-informed.
 
 This section describes the Chart panel and its functions.
 
@@ -23,11 +23,11 @@ This section describes the Chart panel and its functions.
 
 To show/hide elements on Chart, right click anywhere within the chart, select View, and check/uncheck the desired items in this section.
 
-### Navigation
+## Navigation
 
-Users can zoom in and out on charts, scroll it horizontally and vertically, change the bar width, and manually refresh the chart.
+Users can zoom in and out on charts, scroll it horizontally and vertically, change the bar width, and manually refresh the chart.
 
-#### **Time zooming**
+### **Time zooming**
 
 To zoom in and out on the Chart panel users can use the scroll button on their mouse or simply drag the chart border in the Timeline panel using the scroll:
 
@@ -35,13 +35,13 @@ To zoom in and out on the Chart panel users can use the scroll button on their m
 
 The scroll bar functions are similar to the scroll bar in a web browser - click, hold, and drag. Use scroll to move the data on the chart, buttons "+" and "-" to zoom in or out, and the arrow-icon to go to the last quote bar. Also, the chart can be zoomed in using the "Shift + mouse wheel" hotkey combination. Please note that in this case, not the usual zooming combination with a "Ctrl" button is used, since this button is already used for visual trading. When using this hotkey combination, zooming occurs to the mouse cursor point, that is, the chart remains centered. This feature works when the mouse cursor is over the chart.
 
-The chart has a possibility of moving "bar by bar" using a hotkey. A hotkey can be set in General settings   -&gt; Hotkeys -&gt; Chart; by default hotkey F12 is specified. After pressing the hotkey, the chart will be moved on one bar to the left. Moving is performed prior to the default offset to the scale.
+The chart has a possibility of moving "bar by bar" using a hotkey. A hotkey can be set in General settings -&gt; Hotkeys -&gt; Chart; by default hotkey F12 is specified. After pressing the hotkey, the chart will be moved on one bar to the left. Moving is performed prior to the default offset to the scale.
 
-#### **Price scale zooming**
+### **Price scale zooming**
 
 User can zoom in or out on the chart by price scale \(vertically\). Click on the price axis, drag it up and down to scale the price axis.
 
-#### **Scrolling the chart**
+### **Scrolling the chart**
 
 To scroll the chart horizontally, just drag the active section in the Timeline, or click inside the chart and drag it there.
 
@@ -55,13 +55,13 @@ Three types of the price scale are available: Absolute, Relative and Logarithmic
 
 ![](../../../../.gitbook/assets/3%20%284%29.png)
 
-If a user prefers Auto scale mode, he may choose fit indicators, fit orders/positions, or fit day High/Low options to be sure that all desired values are visible on a Chart that automatically scales.
+If a user prefers Auto scale mode, he may choose fit indicators, fit orders/positions, or fit day High/Low options to be sure that all desired values are visible on a Chart that automatically scales.
 
-#### **Refreshing the chart**
+### **Refreshing the chart**
 
 Charts refresh automatically. If, however, a user needs to refresh the chart manually, right click inside of the Chart and select Refresh. This action will reload the chart data and redraw chart.
 
-#### **Right information button**
+### **Right information button**
 
 Working with right mouse button, user can get the following information:
 
@@ -77,7 +77,7 @@ In order to get this information, click right mouse button, hold it and lead the
 
 Note that the color of the text and background displayed in the info window can be changed via the corresponding color pickers in the chart settings, 'Info window' section.
 
-#### **Additional options**
+### **Additional options**
 
 Right clicking on the timeline shows the panel with additional options:
 
@@ -87,18 +87,13 @@ Right clicking on the timeline shows the panel with additional options:
 
 ![](../../../../.gitbook/assets/5%20%2823%29.png)
 
-In addition, user can activate "Scrollbar chart preview" option in the chart settings in order to find quickly the necessary place of the chart, such as trend or flat sections.
+In addition, user can activate "Scrollbar chart preview" option in the chart settings in order to find quickly the necessary place of the chart, such as trend or flat sections.
 
 ![](../../../../.gitbook/assets/6%20%2830%29.png)
 
-### Data source <a id="data-source"></a>
+## Data source <a id="data-source"></a>
 
 In the Chart panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](../../../../.gitbook/assets/chart-arrow-kopiya.png)arrow and the widget will be shown:
 
 ![](../../../../.gitbook/assets/chart-full.png)
-
-  
-
-
-
 

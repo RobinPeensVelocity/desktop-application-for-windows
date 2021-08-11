@@ -1,17 +1,17 @@
 # Event log
 
-Event log panel displays all events that occurred during trading sessions. Click on the![](../../../.gitbook/assets/log.png)button in the Status bar to open the Event log panel.
+Event log panel displays all events that occurred during trading sessions. Click on the![](../../../.gitbook/assets/log.png)button in the Status bar to open the Event log panel.
 
 ![](../../../.gitbook/assets/event-log.png)
 
-### Time filter
+Time filter
 
 At the top left corner of the toolbar of the panel there is a combo box ‘Time filter’. It allows to select time period for which a user wants to see logs. The following periods are available:
 
 * Daily; 
 * Range – calls date menu 'From ... To' which allows to set up a desired time range. When the 'Range' period is set up, the icon![](../../../.gitbook/assets/range.png)appears allowing to change a time range for viewing events.
 
-### Columns
+## Columns
 
 Event log displays information via the following columns:
 
@@ -22,7 +22,7 @@ Event log displays information via the following columns:
 
 ![](../../../.gitbook/assets/deal-ticket.png)
 
-### Context menu
+## Context menu
 
 To call the Event log panel's context menu, right-click on any row of the panel's table.
 

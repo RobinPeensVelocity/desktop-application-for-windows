@@ -8,7 +8,7 @@ The Linear regression line, used to determine the direction of the trend, runs t
 
 Prices tend to move above and below the Linear regression line. As a result, when prices are below the line, analysts usually predict that prices will rise, and when they are above the line, prices are predicted to return toward the Linear regression line.
 
-### Calculation
+## Calculation
 
 The Linear regression indicator is calculated by fitting a linear regression line to the values for a given period and then determining the current value for that line. The Linear regression line is a straight line that is closest to all of the target values.
 
@@ -28,7 +28,7 @@ sum XY – sum of periods \* price;
 
 sum XX – sum of squared price.
 
-### Main parameters
+## Main parameters
 
 * Period of linear regression – number of periods for calculating the linear regression coefficients. The default value is 2;
 * Sources prices for MA – determines the type of price at which the moving average will be calculated. Possible values: Close, Open, High, Low, Typical, Medium, Weighted.

@@ -1,10 +1,10 @@
 # Growth
 
-The “Growth, $” tab contains a chart \(with markers\) that shows capital growth by months since the moment of investment. 
+The “Growth, $” tab contains a chart \(with markers\) that shows capital growth by months since the moment of investment.
 
 ![](../../../../.gitbook/assets/skype_picture_2021_03_16t11_52_12_566z.jpeg)
 
-The vertical scale shows the values of the Portfolio balance. The horizontal scale shows the time period in days. The Projected balance value is used for the chart plotting. 
+The vertical scale shows the values of the Portfolio balance. The horizontal scale shows the time period in days. The Projected balance value is used for the chart plotting.
 
 Under the chart there is a table which shows Portfolio balance by days:
 

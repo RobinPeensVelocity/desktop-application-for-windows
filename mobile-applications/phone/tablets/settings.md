@@ -2,7 +2,7 @@
 
 You can access the ‘Settings’ screen from the application's main menu in order to manipulate by 'Defaults' and 'Confirmations':
 
-### **Defaults**
+## **Defaults**
 
 In ‘Defaults’ settings section you can adjust the following:
 
@@ -15,7 +15,7 @@ In ‘Defaults’ settings section you can adjust the following:
 * Set SL/TP values in offset – if checked, the SL/TP prices are in offset, if unchecked they are in absolute values;
 * Show offset in – allows to select one of the available modes for offset displaying: Ticks, Points.
 
-### **Confirmations**
+## **Confirmations**
 
 ‘Confirmations’ settings section allows to enable double-checking of the following actions by marking them as checked, after what the application will ask you to confirm these actions:
 
@@ -29,11 +29,11 @@ In ‘Defaults’ settings section you can adjust the following:
 * Position closing;
 * Alert removing.
 
-### Other
+## Other
 
 ![](../../../.gitbook/assets/2%20%28121%29.png)
 
-The **"**Other" settings section cannot be displayed in the application settings if the biometric authentication is not checked in the system settings of the device or it is blocked. 
+The **"**Other" settings section cannot be displayed in the application settings if the biometric authentication is not checked in the system settings of the device or it is blocked.
 
 Biometric authentication enables a user to log in to the mobile application more securely by using the Fingerprint or FaceID features.
 
@@ -47,11 +47,11 @@ After this, the checkbox More -&gt; Settings -&gt; Other -&gt; Biometric authent
 
 ![](../../../.gitbook/assets/image%20%2873%29.png)
 
-### Push notifications
+## Push notifications
 
 TraderEvolution app provides the ability to receive push notifications on numerous events such as the daily loss limit warning, margin warning, receiving a new trading idea, etc. Upon receiving a push notification, the user can tap on it and thus open the application. Sending push notifications to the device is regulated by your broker, i.e. you cannot activate this function by yourself. If the user wants to disable receiving push notifications, he can do it in the settings of his device.
 
-### Alerts
+## Alerts
 
 This section allows to configure the alerts, the following settings are available:
 

@@ -1,8 +1,8 @@
 # Position sizing
 
-Position sizing is the size of a position within a portfolio or the dollar amount that an investor is going to trade. It allows investors to control risk and maximize returns.  When determining appropriate position sizing, an investor's account size and risk tolerance are taken into account.
+Position sizing is the size of a position within a portfolio or the dollar amount that an investor is going to trade. It allows investors to control risk and maximize returns. When determining appropriate position sizing, an investor's account size and risk tolerance are taken into account.
 
-If the Position sizing function is available, then the![](../../../.gitbook/assets/image1-kopiya.png)button will be displayed next to the “Quantity” field. 
+If the Position sizing function is available, then the![](../../../.gitbook/assets/image1-kopiya.png)button will be displayed next to the “Quantity” field.
 
 ![](../../../.gitbook/assets/1%20%28159%29.png)
 
@@ -22,10 +22,9 @@ If a user unchecks the "Show next time" setting, the next time the button is cli
 * SL limit price - the parameter is displayed when the “Use stop limit instead of Stop” is activated in the General setting.
 * SL offset/SL price - recalculation into the value that is opposite to the value in the “SL price” field. If “SL price” is displayed, then “SL offset” value will be displayed here and vice versa.
 
-Note: if SL is forbidden, then the Position size calculator will be disabled.  
+Note: if SL is forbidden, then the Position size calculator will be disabled.
 
-
-### Calculations
+## Calculations
 
 Quantity with consideration of the propensity to risk, is calculated by the formula:
 
@@ -33,11 +32,9 @@ _**Quantity = \(Risk per trade, ccy \* crossPrice\) / Risk per share**_ ,
 
 where:
 
-- Risk per trade - risk propensity in the account currency.  This is the value that a user enters into the “Account risk” field. If a value is entered in percentage, then it will be determined how much it is in the account currency by the formula: \(Available funds \* Risk,%\) / 100%;
-
-- crossPrice - cross rate from the account currency to the quote currency of the instrument;
-
-- Risk per share is calculated by formulas:
+* Risk per trade - risk propensity in the account currency. This is the value that a user enters into the “Account risk” field. If a value is entered in percentage, then it will be determined how much it is in the account currency by the formula: \(Available funds \* Risk,%\) / 100%;
+* crossPrice - cross rate from the account currency to the quote currency of the instrument;
+* Risk per share is calculated by formulas:
 
 <table>
   <thead>
@@ -49,7 +46,7 @@ where:
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">When <b>Set SL/TP values in offset = false: </b>
+      <td style="text-align:left">When <b>Set SL/TP values in offset = false:</b>
       </td>
       <td style="text-align:left">
         <p><b>Risk per share = abs(Price - SL price)</b> or</p>
@@ -60,7 +57,7 @@ where:
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">When <b>Set SL/TP values in offset = true </b>and<b> Show offset in = Ticks: </b>
+      <td style="text-align:left">When <b>Set SL/TP values in offset = true</b> and <b>Show offset in = Ticks:</b>
       </td>
       <td style="text-align:left">
         <p><b>Risk per share = SL offset * tick size</b> or</p>
@@ -71,7 +68,7 @@ where:
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">When <b>Set SL/TP values in offset = true </b>and<b> Show offset in = Points: </b>
+      <td style="text-align:left">When <b>Set SL/TP values in offset = true</b> and <b>Show offset in = Points:</b>
       </td>
       <td style="text-align:left">
         <p><b>Risk per share = SL offset</b> or</p>
@@ -82,7 +79,7 @@ where:
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">When <b>Set SL/TP values in offset = true </b>and<b> Show offset in = Ticks (fractional ticks for Forex):</b>
+      <td style="text-align:left">When <b>Set SL/TP values in offset = true</b> and <b>Show offset in = Ticks (fractional ticks for Forex):</b>
       </td>
       <td style="text-align:left">
         <p><b>Risk per share = SL offset * 10 * tick size</b> or</p>
@@ -93,6 +90,4 @@ where:
     </tr>
   </tbody>
 </table>
-
-  
 

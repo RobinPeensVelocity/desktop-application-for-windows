@@ -1,6 +1,6 @@
 # Omnibus account management
 
-Omnibus accounts allow aggregating multiple User accounts into a single entity to work with these accounts with more convenience. That is, an Omnibus account is a consolidated account of several investors, organized by financial intermediaries such as brokers or banks. 
+Omnibus accounts allow aggregating multiple User accounts into a single entity to work with these accounts with more convenience. That is, an Omnibus account is a consolidated account of several investors, organized by financial intermediaries such as brokers or banks.
 
 In order to open the “Omnibus account management” panel, select it from the drop-down list in Account widget.
 
@@ -10,12 +10,12 @@ The following panel will be opened:
 
 ![](../../.gitbook/assets/image%20%2837%29.png)
 
-This panel consists of two parts: 
+This panel consists of two parts:
 
 * Info on available Omnibus accounts;
 * Positions, Working orders, Filled orders, Orders history, Assets, Accounts tabs that shows accounts activities, and list of accounts that are involved in Omnibus.
 
-### Omnibus account section
+## Omnibus account section
 
 This section contains a list of Omnibus accounts that are visible for the user and shows basic details about each Omnibus.
 
@@ -45,29 +45,29 @@ By right-clicking any place within this panel, the user will be able to bring up
 * Settings - allows to customize the appearance of the panel and columns, as well as disable the displaying of needless columns;
 * Export - allows exporting the necessary account information into .csv or .xlsx files.
 
-### Positions
+## Positions
 
 This tab displays all currently opened positions under the selected Omnibus account. Description of all columns can be found in the [Positions article](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/account-management/positions).
 
 **Please note that the information in this window is displayed only when the needed Omnibus account is selected. In case if no account is selected, the window will remain empty.**
 
-### Working orders
+## Working orders
 
 This tab displays all created orders under the selected Omnibus account. Otherwise, the tab will be empty. Description of all columns can be found in the [Working orders](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/account-management/working-orders) article.
 
-### Filled orders
+## Filled orders
 
-This tab displays trading history for today or for a certain time period. Description of all columns can be found in the [Filled orders](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/account-management/filled-orders) article. 
+This tab displays trading history for today or for a certain time period. Description of all columns can be found in the [Filled orders](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/account-management/filled-orders) article.
 
-### Orders history
+## Orders history
 
 This tab shows system actions related to opening and closing orders \(SL/TP\) under the selected Omnibus account. This can be particularly useful for monitoring specific details regarding creation, modification, rejection and execution of orders. Description of all columns can be found in the [Orders history](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/account-management/orders-history) article.
 
-### Assets
+## Assets
 
 This tab represents information about assets of each account added to the selected Omnibus account manager. Description of all columns can be found in the [Assets](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/account-management/assets) article.
 
-### Accounts tab
+## Accounts tab
 
 This tab shows the detailed information on accounts that are linked to the Omnibus account. The following information about accounts is available:
 
@@ -90,6 +90,5 @@ This tab shows the detailed information on accounts that are linked to the Omnib
 * Today’s gross - gross profit/loss for the day;
 * Today’s net - net profit/loss for the day.
 
-Thus, the “Omnibus account management” panel allows to easily and conveniently track user accounts that are linked to one Omnibus account, as well as monitor their changes.  
-
+Thus, the “Omnibus account management” panel allows to easily and conveniently track user accounts that are linked to one Omnibus account, as well as monitor their changes.
 

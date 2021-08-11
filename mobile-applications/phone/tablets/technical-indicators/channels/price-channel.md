@@ -22,15 +22,15 @@ The breakout of trading channel boundaries can be an important signal for tradin
 
 All the forces of supply and demand are represented by price. The predominance of one force creates trend direction. Trend channels occur in all time frames and in every asset class, like futures, stocks, mutual funds, etc., and are useful for trading or investing.
 
-### Calculation <a id="calculation"></a>
+## Calculation <a id="calculation"></a>
 
 The Price Channel calculations are simple:
 
 * The upper band \(line\) of the channel is constructed as the highest high over a specified period of time \(the specified number of price bars\);
-*  The lower band \(line\) of the channel is constructed as the lowest low over a specified period of time;
-*  The middle line is constructed as the average of the highest high and the lowest low.
+* The lower band \(line\) of the channel is constructed as the lowest low over a specified period of time;
+* The middle line is constructed as the average of the highest high and the lowest low.
 
-### Main parameters <a id="main-parameters"></a>
+## Main parameters <a id="main-parameters"></a>
 
 Interval of price channel – allows setting the number of periods for which price highs and lows will be determined, 10 by default.
 

@@ -5,11 +5,11 @@ In order to configure the required indicator, the user needs to open the &lt;Ind
 * Main parameters – general indicator settings;
 * Line \#i properties – plotting parameters and indicator line styles;
 
-### Main parameters 
+## Main parameters
 
 These settings are considered in the context of individual indicators in the relevant articles.
 
-### Line properties
+## Line properties
 
 * Line style – allows setting the line drawing characteristics: style, thickness, color;
 * Time shift – determines the shift of indicator line along the timeline by a specified number of minutes; 

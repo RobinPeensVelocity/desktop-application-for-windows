@@ -4,7 +4,7 @@ The option chain tab shows detailed information about specific option contract a
 
 ![](../../../../.gitbook/assets/opt-chain.png)
 
-In Option chain tab the coloring method “By difference” is used. Depending on what type of price change comes at a certain strike to buy or sell, it is highlighted in green or red.
+In Option chain tab the coloring method “By difference” is used. Depending on what type of price change comes at a certain strike to buy or sell, it is highlighted in green or red.
 
 Check the needed option contracts in order to make them accessible for the trading in the Option chain tab.
 
@@ -22,7 +22,7 @@ Use ‘Analyzer’ and ‘Volatility lab’ tabs to analyze "paper" positions be
 
 ![](../../../../.gitbook/assets/3opt.png)
 
-**Positions** tab shows actually existing positions by Options with previously selected in the Instrument lookup underlier; positions opened by this underlier can be also displayed here.
+**Positions** tab shows actually existing positions by Options with previously selected in the Instrument lookup underlier; positions opened by this underlier can be also displayed here.
 
 **Orders** tab shows all orders by Options with previously selected in the Instrument lookup underlier; orders created by this underlier can be also displayed here.
 
@@ -36,7 +36,7 @@ The following buttons of the tab allow the following actions:
 * Cancel all - cancels all 'test on paper' orders;
 * Place selected - places selected 'test on paper' orders.
 
-Note: If short positions are not allowed for the instrument \(Options or Underlier\), a notification about the prohibition of setting short positions will be displayed. In the “Test on paper” table, rows with orders will be coloured red when Side = Sell, Quantity &lt; 0, Type = Paper, based on: 
+Note: If short positions are not allowed for the instrument \(Options or Underlier\), a notification about the prohibition of setting short positions will be displayed. In the “Test on paper” table, rows with orders will be coloured red when Side = Sell, Quantity &lt; 0, Type = Paper, based on:
 
 * Underlier - for orders which are created via the “Add underlier” button;
 * Options - for orders which are created by specifying Quantity with a negative sign in the “Paper position” column \(in Call/Put tables\), leading to the opening of a short position.

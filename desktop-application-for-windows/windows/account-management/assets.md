@@ -4,7 +4,7 @@ Assets panel contains information about all assets by the chosen account\(-s\). 
 
 ![](../../../.gitbook/assets/win-asset1.png)
 
-There are the following columns in the table:
+There are the following columns in the table:
 
 * Asset name – name of the asset, which is set on a server.
 * Default symbol – allows showing the instrument name from the setting ‘Pricing instrument’.
@@ -32,17 +32,17 @@ Right-click on the asset evokes the following context menu:
 
 ![](../../../.gitbook/assets/menu%20%283%29.png)
 
-You can choose the columns, which have to be displayed by right-click on one of the columns.
+You can choose the columns, which have to be displayed by right-click on one of the columns.
 
 ![](../../../.gitbook/assets/menu2.png)
 
-The settings of the Assets panel consist of 2 tabs in the column ‘General’: View and Colors.
+The settings of the Assets panel consist of 2 tabs in the column ‘General’: View and Colors.
 
 **View**
 
 ![](../../../.gitbook/assets/view-assets.png)
 
-Grid – allows showing grid between columns and rows. The following options are available: Vertical, Horizontal, Vertical & horizontal, None.
+Grid – allows showing grid between columns and rows. The following options are available: Vertical, Horizontal, Vertical & horizontal, None.
 
 Autosize of columns – automatically sizes columns so that their total width would be equal to the width of a panel. If disabled, each column will be sized by maximum length.
 
@@ -54,5 +54,5 @@ Show totals – allows showing total amount for columns. Be attentive to mark th
 
 ![](../../../.gitbook/assets/colors-assets.png)
 
-Table, Grid, Row, Selected row, Header row, Total row – allows configuring the color scheme for table.
+Table, Grid, Row, Selected row, Header row, Total row – allows configuring the color scheme for table.
 

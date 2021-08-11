@@ -1,6 +1,6 @@
 # Symbol & Account lookups
 
-### **Symbol lookup** 
+## **Symbol lookup**
 
 The Symbol lookup panel shows all symbols which are available through the broker. The Symbol lookup window can be opened in each panel which requires symbol selection by clicking on the button![](../../.gitbook/assets/1%20%2828%29.png). Hover the symbol name![](../../.gitbook/assets/screenshot_3%20%282%29.png)in the toolbar of the chosen panel to see this button![](../../.gitbook/assets/screenshot_4%20%285%29.png).
 
@@ -14,19 +14,22 @@ The Symbol lookup contains two drop-down lists with exchanges and symbols groupe
 
 ![](../../.gitbook/assets/3%20%2851%29.png)
 
-After selecting the needed value and filtering the items all symbol tabs that don't match the filter will be hidden from the list.
+After selecting the needed value and filtering the items all symbol tabs that don't match the filter will be hidden from the list.
 
 ![](../../.gitbook/assets/4.2.png)
 
-Select 'All' in the drop-down exchange and types lists in order to cancel the filtering and view all symbol tabs.
+Select 'All' in the drop-down exchange and types lists in order to cancel the filtering and view all symbol tabs.
 
 If symbol name in the symbol lookup window is entered from the keyboard, then all symbol groups containing symbols with matches in their names are expanded.
 
-For easy management of the lookup, it has three buttons and link located in the bottom of the tab: 
+For easy management of the lookup, it has three buttons and link located in the bottom of the tab:
 
-* Collapse all![](../../.gitbook/assets/4.2-copy-copy.png)  - allows to collapse all opened tabs to the form that shows only exchanges in the lookup tree.
-* Expand exchanges![](../../.gitbook/assets/4.2-copy-copy-2.png)  - allows showing exchanges and symbol types in the lookup tree.
-* Expand types![](../../.gitbook/assets/4.2-copy-copy-3.png)  - allows showing exchanges, symbol types and symbols in the lookup tree.
+* Collapse all![](../../.gitbook/assets/4.2-copy-copy.png)
+  * allows to collapse all opened tabs to the form that shows only exchanges in the lookup tree.
+* Expand exchanges![](../../.gitbook/assets/4.2-copy-copy-2.png)
+  * allows showing exchanges and symbol types in the lookup tree.
+* Expand types![](../../.gitbook/assets/4.2-copy-copy-3.png)
+  * allows showing exchanges, symbol types and symbols in the lookup tree.
 
 All symbols are grouped according to categories: Equities, Forex, Futures, etc. The Symbol lookup window displays information as follows: exchange, symbol type and icon, symbol group, symbol, contract or strike price \(for Futures and Options\).
 
@@ -36,13 +39,13 @@ If there is no localized name for an instrument for the current interface langua
 
 For Options the detailed symbols' information \(description\) is also available in the lookup:
 
-![](../../.gitbook/assets/web-w.png)
+![](../../.gitbook/assets/web-w%20%281%29.png)
 
-### **Account lookup** 
+## **Account lookup**
 
-The Account lookup displays all accounts available for the user. The Account lookup panel can be opened in each panel which requires account selection by clicking on the button![](../../.gitbook/assets/5%20%288%29.png)next to the account scroll down menu.
+The Account lookup displays all accounts available for the user. The Account lookup panel can be opened in each panel which requires account selection by clicking on the button![](../../.gitbook/assets/5%20%288%29.png) next to the account scroll down menu.
 
 ![](../../.gitbook/assets/6-copy%20%281%29.png)
 
-All Accounts are sorted on base of "User group -&gt; User" hierarchy. User can hide any accounts which belong to specific User or User group.
+All Accounts are sorted on base of "User group -&gt; User" hierarchy. User can hide any accounts which belong to specific User or User group.
 

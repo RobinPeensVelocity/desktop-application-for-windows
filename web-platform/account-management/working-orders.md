@@ -6,7 +6,7 @@ To open a new Working orders panel, select Terminal -&gt; Working orders.
 
 ![](../../.gitbook/assets/screenshot_6-1-.png)
 
-The following columns are available in the panel:
+The following columns are available in the panel:
 
 * Symbol – name of the instrument to be traded.
 * Side – type of the trade to be performed \(Buy or Sell\).
@@ -40,7 +40,7 @@ To open a new Working orders panel, select Terminal -&gt; Working orders.
 
 Note: Users can select which columns to display in the Working orders panel in the context menu of the panel.
 
-### **Buttons toolbar**
+## **Buttons toolbar**
 
 The most important functions related to Working orders can be viewed as buttons in the toolbar of the panel. To select the buttons to be displayed, right-click on the toolbar of the panel and select the needed buttons from the menu. The following buttons are available:
 
@@ -62,7 +62,7 @@ Note: clicking on these buttons doesn't evoke confirmation screens, even if conf
 
 Double-click on the needed order evokes the Working order cancel window for a quick order cancelling.
 
-### **Context menu**
+## **Context menu**
 
 The following actions can be performed via the Context menu:
 

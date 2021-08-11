@@ -8,7 +8,7 @@ MAM groups may have an unlimited quantity of accounts. Trading within the MAM pa
 
 Account statistics is available for the prelinked accounts.
 
-### Allocation methods
+## Allocation methods
 
 There are four allocation methods available in MAM:
 
@@ -65,6 +65,4 @@ There are four allocation methods available in MAM:
     </tr>
   </tbody>
 </table>
-
-
 

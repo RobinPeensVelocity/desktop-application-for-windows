@@ -2,23 +2,23 @@
 
 A user can open the ‘Chart Preferences’ window through the context menu of the Chart.
 
-The ‘Chart Preferences’ window contains the following sections, stored into the tabs: 
+The ‘Chart Preferences’ window contains the following sections, stored into the tabs:
 
-### **Style**
+## **Style**
 
-![](../../../../.gitbook/assets/chart-preferences%20%281%29.png)
+![](../../../../.gitbook/assets/chart-preferences.png)
 
-This section allows to adjust the following:
+This section allows to adjust the following:
 
 * Style – allows to select a style of symbol price movements. The following styles are available: Line, Bar, Candle, Dots, Dotted line, Histogram, Area;
 * Data type – allows to select a data acceptance type. The following types are available: Default by symbol, Bid, Last, Ask. The 'Default by symbol' depends upon server preferences;
 * Color schemes for all data types: Body, Border, Wick, Doji. 
 
-### **View**
+## **View**
 
 ![](../../../../.gitbook/assets/mac-watermark.png)
 
-The following adjustments are available here:
+The following adjustments are available here:
 
 General:
 
@@ -46,7 +46,7 @@ Time to next bar:
 
 ![](../../../../.gitbook/assets/screenshot_4%20%284%29.jpg)
 
-This tab includes the sub-sections allowing particular adjustments of the chart:
+This tab includes the sub-sections allowing particular adjustments of the chart:
 
 Grid:
 
@@ -62,7 +62,7 @@ Zoom:
 * Fit day High/Low – if checked, the day High/Low prices will be fit into chart scaling, this option is enabled in case the ‘Auto scale’ type is selected and vice versa - disabled if the ‘Manual scale’ is selected;
 * Fit alerts – if checked, then alerts will be fit into chart scaling.
 
-Show:
+Show:
 
 * Show extended session – if checked, then all data received from the server will be displayed on the chart, if unchecked, then only data related to the Main session will be displayed;
 * Highlight extended sessions – color picker for selecting the background color of the area, which falls within the extended session.
@@ -89,11 +89,10 @@ Time separators:
 * Show year – if checked, the year-by-year separators are displayed on the chart;
 * Year style – allows to adjust color, shape and thickness of the year-by-year separating lines. 
 
-### **Trading**
+## **Trading**
 
 ![](../../../../.gitbook/assets/4%20%286%29.png)
 
-  
 The following adjustments are available in this section:
 
 * Opened positions – if checked, opened positions will be displayed on the chart;
@@ -104,11 +103,11 @@ The following adjustments are available in this section:
 * Sell – allows to adjust the style of working orders with 'Side=Sell' on the chart;
 * Bound positions/orders by left side – allows displaying active positions/orders on the left side of the Chart area. 
 
-### **Order entry**
+## **Order entry**
 
 ![](../../../../.gitbook/assets/5%20%2826%29.png)
 
-This tab includes the sub-sections allowing particular adjustments of the chart's Order entry:
+This tab includes the sub-sections allowing particular adjustments of the chart's Order entry:
 
 General:
 
@@ -133,14 +132,14 @@ If checked, the following hot buttons will be shown in the built-in Order entry:
 
 Note: clicking on the hot buttons doesn't evoke confirmation screens, even if confirmations are enabled in the 'Preferences' window.
 
-### **Info window**
+## **Info window**
 
 ![](../../../../.gitbook/assets/mac1.jpg)
 
 * Info window mode – allows to set up the style of displaying the Info window. You can select from the following Info window modes: Separate Window, Attached To Cursor, Hidden.
 * Activate short mode – if checked, the Info window fields' names will be displayed in a short mode on the chart:
 
-![](../../../../.gitbook/assets/new-info-window-short-mode%20%281%29.png)
+![](../../../../.gitbook/assets/new-info-window-short-mode%20%282%29.png)
 
 * Colors – allows to select the Info window's font and background colors. Please note that this setting allows changing the background and text colors for various info windows, for example, those that are expanded when using the 'Right information button' on the chart.
 
@@ -158,14 +157,19 @@ Fields – this section allows to select fields for displaying information in th
 * Ticks;
 * Volume.
 
-### **Managing adjustments**
+**Managing adjustments**
 
 The 'Chart Preferences' window contains the following buttons to manage adjustments:
 
-* ![](../../../../.gitbook/assets/set-as-default%20%282%29.png)–   allows to set all current 'Chart Preferences' adjustments as default ones;
-* ![](../../../../.gitbook/assets/reset%20%283%29.png)–   allows to reset all the 'Chart Preferences' adjustments to 'User Defaults' or to 'Factory Defaults'. 'User Defaults' are the last adjustments, which were stored into the system by clicking on the button 'Set As Default'.
+* ![](../../../../.gitbook/assets/set-as-default%20%282%29%20%281%29.png)– 
 
-### Alerts
+  allows to set all current 'Chart Preferences' adjustments as default ones;
+
+* ![](../../../../.gitbook/assets/reset%20%283%29%20%281%29.png)– 
+
+  allows to reset all the 'Chart Preferences' adjustments to 'User Defaults' or to 'Factory Defaults'. 'User Defaults' are the last adjustments, which were stored into the system by clicking on the button 'Set As Default'.
+
+## Alerts
 
 ![](../../../../.gitbook/assets/screenshot_3%20%2818%29.jpg)
 
@@ -179,6 +183,4 @@ The following settings are available when creating an alert:
 * Importance – allows to define the alert importance. The following options are available: High, Medium, Low. After the alert execution, the user gets a notification with the corresponding color of the indicator which depends on importance of the alert:
 * After execute – allows to select alert behavior after execution. Available options are ‘Stop’ - alert is not active but stored in the list of alerts, and ‘Remove’ - alert is removed after execution;
 * Show alerts – allows to show/hide alerts on the chart, checked by default.
-
-
 

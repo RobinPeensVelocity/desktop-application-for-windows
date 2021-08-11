@@ -27,7 +27,7 @@ The ‘Edit’ tab contains the following items:
 * Start Dictation;
 * Emoji&Symbols.
 
-The 'Terminal' tab contains the following items:
+The 'Terminal' tab contains the following items:
 
 * Chart;
 * Watchlist;
@@ -41,7 +41,7 @@ The ‘Edit’ tab contains the following items:
 * Orders history;
 * Assets.
 
-Selecting an item opens a corresponding panel.
+Selecting an item opens a corresponding panel.
 
 The 'Window' tab allows making the standard manipulations with the application window:
 
@@ -49,7 +49,7 @@ The 'Window' tab allows making the standard manipulations with the application w
 * Zoom;
 * Bring All to Front.
 
-The 'More' tab allows performing the following:
+The 'More' tab allows performing the following:
 
 * Search – allows to look up through the whole application for a desired element;
 * Home Page – access to TraderEvolution Global LTD website;

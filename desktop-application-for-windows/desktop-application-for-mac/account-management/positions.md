@@ -6,7 +6,7 @@ To open the Positions panel, select 'Terminal -&gt; Positions':
 
 ![](../../../.gitbook/assets/11p.png)
 
-### **Buttons toolbar**
+## **Buttons toolbar**
 
 The Positions' toolbar can be opened via ‘Context menu -&gt; View -&gt; Show toolbar’. It contains the following buttons which can be activated via toolbar’s context menu:
 
@@ -27,7 +27,7 @@ The Positions' toolbar can be opened via ‘Context menu -&gt; View -&gt; Show t
 
 Note: clicking on these buttons doesn't evoke confirmation screens, even if confirmations are enabled in the 'Preferences' window.
 
-### Columns
+## Columns
 
 Under the 'Positions' toolbar there is a table. The context menu of this table's header allows to adjust visibility of its columns. To open this context menu, right-click on the table's header.
 
@@ -89,7 +89,7 @@ For Short position: Position value = Position exposure – P/L.
 
 The same context menu allows to filter data in a table, reset the panel's view to factory defaults and to open the 'Positions Preferences' window.
 
-### Context menu
+## Context menu
 
 To open the Position panel's context menu, right-click on any clean space under its table's header.
 
@@ -123,7 +123,7 @@ The Positions' context menu includes the following options:
   * Symbol.
 * Duplicate panel – allows to make a copy of a current panel;
 * Preferences – opens the 'Positions Preferences' window;
-* Exercise options – sends an exercise request for the Option position. Available for single positions opened for Options with Exercise style=American, inactive for multiple selected positions. 
+* Exercise options – sends an exercise request for the Option position. Available for single positions opened for Options with Exercise style=American, inactive for multiple selected positions.
 
   After clicking this menu item, a confirmation dialog box is displayed with the Position ID, Symbol, Side, Quantity to close, Open price, Current price, Gross P/L to close, Account, Date/Time position parameters.
 

@@ -2,9 +2,11 @@
 
 The Symbol info screen allows displaying all information about the selected symbol. To open the Symbol info, a user needs to open the Watchlist and swipe left the selected instrument name. Then tap the button 'Info' in the Symbol menu.
 
-                                          ![](../../../.gitbook/assets/screen-shot-2020-06-05-at-5.57.11-pm%20%289%29.png)                                   
+```text
+                                      ![](../../../.gitbook/assets/screen-shot-2020-06-05-at-5.57.11-pm%20%289%29.png)                                   
+```
 
-Information by the symbol is divided into the following groups:
+Information by the symbol is divided into the following groups:
 
 ![](../../../.gitbook/assets/symb-info++.png)
 
@@ -33,7 +35,7 @@ The Symbol info screen allows displaying all information about the selected symb
 * Industry – shows the industry identification of a symbol;
 * Sector – shows the sector identification of a symbol.
 
-2\) Trading info:
+2\) Trading info:
 
 * Symbol status – the instrument trading status, available values: Open, Closed. With the symbol status set to Closed, the instrument trading is blocked;
 * Allowed operations – New, Modification, Cancel;
@@ -54,7 +56,7 @@ The Symbol info screen allows displaying all information about the selected symb
 * Next holiday – the name of the next holiday and its date;
 * Trading blocked on session – shows whether trading is blocked on the current session.
 
-3\) Margin requirements:
+3\) Margin requirements:
 
 * Margin by account – shows margin requirements based on account coefficients;
 * Margin req. – shows margin requirements, which depend on the margin calculation type. When the "None" margin calculation type is selected for the instrument, the "-" is displayed. When the 'Tiered price based custom coeffieicent' margin calculation type is selected, the margin req. values are displayed for all the Tiers set. If initial and maintenance margin coefficients are the same, they will be displayed as one value in the Margin requirements section. The same is true for each Tier;

@@ -12,8 +12,7 @@ For each asset the following information is available:
 * Start day qty. \(SOD qty\)  – asset quantity at the user’s account at the beginning of a day. While logging in it is sent from a server.
 * Current value for sell – allows showing the price of the asset, which is available for the sell by Current price.
 
-Current value for sell = Available for sell \*Current price \* CrossPrice  
-
+Current value for sell = Available for sell \*Current price \* CrossPrice
 
 To open additional data by the chosen asset, tap on it and the table with data will be displayed.
 

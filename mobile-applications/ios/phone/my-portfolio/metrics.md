@@ -2,7 +2,7 @@
 
 The Metrics screen shows the Portfolio statistics. A user can see here the invested amount of funds, arithmetic mean income for different time periods, the best year result, the worst year result \(considering profit\), etc.
 
-The statistics data is displayed as cards with a metric name and its value. ****
+The statistics data is displayed as cards with a metric name and its value. _\*\*_
 
 ![](../../../../.gitbook/assets/1-1-.jpeg)
 
@@ -37,9 +37,9 @@ Other metrics can be added optionally. To add a metric, tap the![](https://lh3.g
 
 “Best month” and “Worst month” metrics are the maximum and the minimum values of Monthly return which is calculated by the following formulas:
 
-_**Monthly return\(i\),% = \(\(EOMPortfolioBalance\(i\) - Deposits\(i\) + Withdrawals\(i\) + Transfers\(i\) + TransferAndWithdrawal fees\(i\)  - EOMPortfolioBalance\(i-1\)\)/EOMPortfolioBalance\(i-1\)\)\*100%**_
+_**Monthly return\(i\),% = \(\(EOMPortfolioBalance\(i\) - Deposits\(i\) + Withdrawals\(i\) + Transfers\(i\) + TransferAndWithdrawal fees\(i\) - EOMPortfolioBalance\(i-1\)\)/EOMPortfolioBalance\(i-1\)\)\*100%**_
 
-_**Monthly return\(i\),$ = EOMPortfolioBalance\(i\) - Deposits\(i\) + Withdrawals\(i\) + Transfers\(i\) + TransferAndWithdrawal fees\(i\)  - EOMPortfolioBalance\(i-1\)**_
+_**Monthly return\(i\),$ = EOMPortfolioBalance\(i\) - Deposits\(i\) + Withdrawals\(i\) + Transfers\(i\) + TransferAndWithdrawal fees\(i\) - EOMPortfolioBalance\(i-1\)**_
 
 where:
 

@@ -4,7 +4,7 @@ The “Growth, $” tab contains a chart \(with markers\) that shows capital gro
 
 ![](../../../../.gitbook/assets/image6.png)
 
-The vertical scale shows the values of the Portfolio balance. The horizontal scale shows the time period in days. The Projected balance value is used for the chart plotting. 
+The vertical scale shows the values of the Portfolio balance. The horizontal scale shows the time period in days. The Projected balance value is used for the chart plotting.
 
 Under the chart there is a table which shows Portfolio balance by days:
 

@@ -13,13 +13,13 @@ The following buttons are available in the Properties window:
 * OK – applies settings, closes the settings screen. The indicator will be plotted according to saved settings;
 * Close – this button closes the Properties window.
 
-### Parameters tab
+## Parameters tab
 
 * Is background checkbox – defines the layer of the indicator line, unchecked by default. If checked, then the indicator lines will be displayed under the main chart;
 * Win num on chart for indicator – defines the window for plotting the indicator, the following radio buttons are available: Main, Sub window, or Sub window number \(max qty of sub windows is 3\);
 * Specific indicator settings – considered in the context of individual indicators in the relevant articles.
 
-### Line properties
+## Line properties
 
 * Visible checkbox – determines the visibility of the indicator line;
 * Line – allows setting the line drawing characteristics: style, thickness, color;

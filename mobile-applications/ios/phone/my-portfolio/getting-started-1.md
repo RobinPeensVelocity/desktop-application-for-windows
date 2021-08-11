@@ -2,7 +2,7 @@
 
 My Portfolio functionality allows an Investor to monitor profit and risks in his portfolio while entrusting control of finances to a Portfolio manager to get subsequent income.
 
-To open My Portfolio, tap the Account menu located at the Account details screen. 
+To open My Portfolio, tap the Account menu located at the Account details screen.
 
 ![](../../../../.gitbook/assets/2%20%28131%29.png)
 
@@ -12,7 +12,7 @@ Then select the “My Portfolio” option from the list of available items:
 
 The interface of the trading application will be changed to the interface of the My Portfolio functionality. If you need to go back to a trading application, select the corresponding option:
 
-![](../../../../.gitbook/assets/image-2%20%282%29.png)
+![](../../../../.gitbook/assets/image-2%20%284%29%20%281%29.png)
 
 If a user has an investor’s account but doesn’t have a trading account, My Portfolio functionality will be opened immediately after login to the application and the “Back to trading app” option will not be available.
 

@@ -18,7 +18,7 @@ Note: If any columns are not supported by the RSS feed, these fields will be bla
 
 To view the news content in a browser, open the context menu, and select the ‘View news story’ option, or just double-click the news line. The User can also click the link in the corresponding column and the selected news will be opened in the browser.
 
-### RSS feeds selection
+## RSS feeds selection
 
 To view RSS feeds added by the User, use the selector in the upper left corner of the panel:
 
@@ -26,7 +26,7 @@ To view RSS feeds added by the User, use the selector in the upper left corner o
 
 Simply check/uncheck the desired channels from the list or select all at once. Once selected, the User will receive the latest news from RSS feeds, but note that the previous news from other feeds will not be removed from the panel.
 
-### Adding/editing RSS feed
+## Adding/editing RSS feed
 
 In order to add a new RSS feed to the panel click the Preferences button ![](https://lh4.googleusercontent.com/w-nysJwZEUHRaGngcjeIs8Tr8IeazYaoym_vG2cji-z0wTt10c7rzZdmS56I0IZw3yaYwyrruAJUeIe9qPkoy5sR3qQzPOLazeVhVVRX4MfJYemO31OMgh34BHhCf_ffFeoxaa_P) located in the terminal main menu. RSS settings allow adding a new feed or editing the existing one. The following settings panel will be opened:
 

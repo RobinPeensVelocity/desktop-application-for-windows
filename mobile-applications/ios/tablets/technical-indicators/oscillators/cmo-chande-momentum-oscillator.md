@@ -6,7 +6,7 @@ The idea of ​​the indicator is as follows – price movement is considered f
 
 The CMO amplitude is limited to -100 and +100. The higher the oscillator rises, the more the asset is "overheated" and the higher the probability of a price rollback downward. Conversely, when the indicator drops too low, it means that the asset is undervalued and worth considering buying opportunities. When the zero line is crossed from bottom to top, a buy signal appears, when crossing from top to bottom, a sell signal appears. In this case, it is recommended to take into account only those intersections, before which the indicator line has moved from zero by at least 20-25 units since signals are often false with a small oscillation amplitude.
 
-### Main parameters
+## Main parameters
 
 * Period – the number of periods involved in the indicator calculation, 9 by default;
 * Data type – determines the type of price for calculation, available values: Close, Open, High, Low, Median, Typical, Weighted.

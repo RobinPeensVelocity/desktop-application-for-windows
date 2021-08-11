@@ -6,7 +6,7 @@ To open Orders history panel, select ‘Terminal -&gt; Orders history’:
 
 ![](../../../.gitbook/assets/history%20%281%29.png)
 
-### Columns
+## Columns
 
 There is a table under the panel's toolbar. Right-clicking on the 'Orders history' table's header calls the context menu with column names. Checking or unchecking these columns allows to show or hide them in the table.
 
@@ -26,14 +26,13 @@ The following columns are available in the panel:
 * Login – a user's login;
 * Symbol type – a symbol's market category \(CFD, Spot, Stocks, etc.\);
 * Bought
-
-- In case of Forex:
+* In case of Forex:
 
 if 'Side = Buy', then this column shows the value of 'Price \* Lot size \* Qty.' in base currency;
 
 if 'Side = Sell', then this column shows the value of 'Price \* Lot size \* Qty.' in quoting currency.
 
-- In case of Futures, Futures CFD, Options
+* In case of Futures, Futures CFD, Options
 
 with 'Quoting type=Tick cost/Tick size':
 
@@ -47,21 +46,20 @@ if 'Side = Buy', then this column shows the value of 'Qty';
 
 if 'Side = Sell', then this column shows the value of 'Qty \* Lot size \* Price'.
 
-- In other cases:
+* In other cases:
 
 if 'Side = Buy', then this column shows the value of 'Qty. \* Lot size' – amount of bought assets \(contracts, equities\);
 
 if 'Side = Sell', then this column shows the value of 'Price \* Lot size \* Qty.' in quoting currency.
 
 * Sold
-
-- In case of Forex:
+* In case of Forex:
 
 if 'Side = Sell', then this column shows the value of 'Price \* Lot size \* Qty.' in base currency;
 
 if 'Side = Buy', then this column shows the value of 'Price \* Lot size \* Qty.' in quoting currency.
 
-- In case of Futures, Futures CFD, Options
+* In case of Futures, Futures CFD, Options
 
 with 'Quoting type=Tick cost/Tick size':
 
@@ -75,7 +73,7 @@ if 'Side = Buy', then this column shows the value of 'Qty \* Lot size \* Price';
 
 if 'Side = Sell', then this column shows the value of 'Qty' .
 
-- In other cases:
+* In other cases:
 
 if 'Side = Buy', then this column shows the value of 'Price \* Lot size \* Qty.' in quoting currency;
 
@@ -87,7 +85,7 @@ if 'Side = Sell', then this column shows the value of 'Qty. \* Lot size' – amo
 
 The same context menu allows to filter data in a table, reset the panel's view to factory defaults and to open the 'Orders history Preferences' window.
 
-### **Context menu**
+## **Context menu**
 
 The context menu of 'Orders history' can be evoked by right-clicking anywhere under the 'Orders history' table's header and includes the following options:
 

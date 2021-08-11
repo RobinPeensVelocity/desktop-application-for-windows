@@ -8,7 +8,7 @@ Select the item ‘Export script settings’ from this menu to export script set
 
 ![](../../.gitbook/assets/2%20%283%29.png)
 
-Here a user can select setting which he wants to save and the path for saving.
+Here a user can select setting which he wants to save and the path for saving.
 
 A users can also import previously saved settings from earlier tested strategies. To provide this, select the option ‘Import script settings’ from the drop-down ‘File’ menu.
 

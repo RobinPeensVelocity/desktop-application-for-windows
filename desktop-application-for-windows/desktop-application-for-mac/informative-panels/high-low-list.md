@@ -21,7 +21,7 @@ For each list in the panel, the displayed columns can be configured independentl
 * Volume - the total Instrument volume at the quoted price, which resulted in the touching/breakdown of the current High/Low price;
 * Exchange - the name of the Exchange, to which the Instrument is subscribed.
 
-### **High/Low list Preferences**
+## **High/Low list Preferences**
 
 The Preferences window can be opened via the context menu of the panel. The 'High/Low list Preferences' menu contains such sections as View, Columns, Colors.
 
@@ -51,17 +51,4 @@ You can set up Background and Text colors for the following elements of the High
 * Columns header row;
 * Row;
 * Selected row.
-
-
-
-
-
-
-
-
-
-  
-  
-  
-
 

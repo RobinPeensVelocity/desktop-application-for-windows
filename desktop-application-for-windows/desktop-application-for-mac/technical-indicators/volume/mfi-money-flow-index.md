@@ -4,7 +4,7 @@ The Money Flow Index \(MFI\) indicator is a tool used in technical analysis to m
 
 Oversold levels are usually found below 20 and overbought levels are above 80. These levels can change depending on market conditions. Level lines must cross the highest peaks and lowest troughs. Oversold/overbought levels are usually not a sufficient reason to buy/sell, and traders should consider additional technical analysis or research to confirm the security turning point. Be aware that during strong trends the MFI can remain overbought or oversold for extended periods of time. If the underlying price makes a new high or low that is not confirmed by the MFI, this divergence could signal a price reversal.
 
-### Calculation
+## Calculation
 
 The Money Flow Index requires a series of calculations.
 
@@ -15,7 +15,7 @@ The Money Flow Index requires a series of calculations.
 * The Money Ratio is then calculated by dividing the Positive Money Flow by the Negative Money Flow: Money Ratio = Positive Money Flow / Negative Money Flow;
 * Finally, the Money Flow Index is calculated using the Money Ratio.
 
-### Main parameters
+## Main parameters
 
 MFI period – allows setting the time period for which the MFI will be plotted, 14 by default.
 

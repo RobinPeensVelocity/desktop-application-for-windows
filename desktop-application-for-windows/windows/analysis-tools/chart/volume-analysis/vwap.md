@@ -4,7 +4,7 @@ VWAP+ allows calculating a cumulative volume-weighted average price by ticks for
 
 ![](../../../../../.gitbook/assets/screenshot_2%20%2838%29.jpg)
 
-Visible – controls visibility of the render on a chart. Default state – False.
+Visible – controls visibility of the render on a chart. Default state – False.
 
 Historical mode – allows determining whether the render will count its historical values. Default state – False.
 

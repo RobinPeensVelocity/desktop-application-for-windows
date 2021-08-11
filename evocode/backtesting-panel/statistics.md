@@ -4,7 +4,7 @@ Statistics panel is a very useful and informative tool for traders. This panel c
 
 ![](../../.gitbook/assets/screenshot_1%20%283%29.png)
 
-Statistics panel consists of 2 tabs: ‘Performance Data’ and ‘Performance Charts’.
+Statistics panel consists of 2 tabs: ‘Performance Data’ and ‘Performance Charts’.
 
 **Performance Data**
 
@@ -29,7 +29,7 @@ The table consists of 4 columns:
 
 Let’s consider all the tabs in details.
 
-The first section is **Cumulative P/L**. Here users can see all the information about their trading results and capital. All operations are displayed together \(‘Total’ tab\), but they can also be viewed separately divided by operation type \(‘Long’ and ‘Short’ tabs\). 
+The first section is **Cumulative P/L**. Here users can see all the information about their trading results and capital. All operations are displayed together \(‘Total’ tab\), but they can also be viewed separately divided by operation type \(‘Long’ and ‘Short’ tabs\).
 
 Cumulative P\L :
 
@@ -116,40 +116,38 @@ If you choose ‘Cumulative P/L’ or ‘Aggregate P/L’, you can select by wha
 * Long – allows building a chart by long trades.
 * Short – allows building a chart by short trades.
 
-### **Cumulative P/L chart**
+## **Cumulative P/L chart**
 
- Cumulative P/L chart in the ‘**Operations’** mode displays how a user’s balance was changed depending on the trade operations performed within the period of work of the strategy. Operations mode is opened by default, if a user changes mode, he can return to Operations mode by clicking on the![](../../.gitbook/assets/2%20%2868%29.png)button.
+Cumulative P/L chart in the ‘**Operations’** mode displays how a user’s balance was changed depending on the trade operations performed within the period of work of the strategy. Operations mode is opened by default, if a user changes mode, he can return to Operations mode by clicking on the![](../../.gitbook/assets/5%20%286%29.png)button.
 
 ![](../../.gitbook/assets/screenshot_2%20%281%29.png)
 
-Horizontal scale allows plotting P/L chart by operations or by hours/days/months for chosen in the main panel window period of time. If section 'hours/days/months' is selected, then all operations are aggregated by hours/days/months. Click on the![](../../.gitbook/assets/7%20%2826%29.png)buttons to select the corresponding modes.
+Horizontal scale allows plotting P/L chart by operations or by hours/days/months for chosen in the main panel window period of time. If section 'hours/days/months' is selected, then all operations are aggregated by hours/days/months. Click on the![](../../.gitbook/assets/7%20%2826%29.png)buttons to select the corresponding modes.
 
 Section 'Total' is selected and displayed by default in all the tabs. Volume bars are plotted on the chart regardless of selected horizontal scale type \(Operations, Hours, Days, etc.\). Volume is displayed in lots.
 
-### **Aggregate P/L Chart**
+## **Aggregate P/L Chart**
 
 ![](../../.gitbook/assets/screenshot_3.png)
 
-**Aggregated P/L** charts display Gross and Net P/L for selected 'aggregation' interval.
+**Aggregated P/L** charts display Gross and Net P/L for selected 'aggregation' interval.
 
-Aggregation interval – allows aggregating P/L chart by the needed periods: by months, by days, by hours. Option 'Hours' \(i.e. By hour of the day\) is set by default. The charts can be also displayed by side of the trading, available side tabs are: Total, Buy, Sell. 
+Aggregation interval – allows aggregating P/L chart by the needed periods: by months, by days, by hours. Option 'Hours' \(i.e. By hour of the day\) is set by default. The charts can be also displayed by side of the trading, available side tabs are: Total, Buy, Sell.
 
-### **Trades Population Chart**
+## **Trades Population Chart**
 
 ![](../../.gitbook/assets/tr-popul1.png)
 
-Trades population consists of two charts:
+Trades population consists of two charts:
 
 * Pie chart, which illustrates the completed trades number for each individual symbol and shows their values in % from total trades number;
 * Profitable chart of the selected symbol, which appears when a user clicks on the sector of a pie chart.
 
 Profitable chart displays Cumulative P/L and volumes of trades made for the selected symbol within the period of work of the strategy.
 
-### **Drawdowns Chart**
+## **Drawdowns Chart**
 
 ![](../../.gitbook/assets/screenshot_4%20%284%29.png)
 
-Drawdowns chart shows the graphical distribution of drawdowns built trade by trade. Volumes of the trades are also displayed on the chart.
-
- 
+Drawdowns chart shows the graphical distribution of drawdowns built trade by trade. Volumes of the trades are also displayed on the chart.
 

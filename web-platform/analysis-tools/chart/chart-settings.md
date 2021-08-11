@@ -1,8 +1,8 @@
 # Chart settings
 
-Chart settings can be opened through the context menu of the Chart panel. 
+Chart settings can be opened through the context menu of the Chart panel.
 
-### **Data style**
+## **Data style**
 
 ![](../../../.gitbook/assets/1%20%2835%29.png)
 
@@ -10,7 +10,7 @@ Chart settings can be opened through the context menu of the Chart panel.
 * Data type - the way to accept data. Available types are: Bid, Ask, Bid/Ask average, Last. Based on server settings Last or Bid/Ask type can be disabled.
 * Color settings for all styles.
 
-### **View**
+## **View**
 
 ![](../../../.gitbook/assets/veb-votermark1.png)
 
@@ -25,7 +25,7 @@ Chart settings can be opened through the context menu of the Chart panel.
 * Time to next bar - allows activating and setting up color of figures that show remaining time to the next bar.
 * Additional - allows activating Drawing toolbar, Scrollbar chart preview, Chart toolbar.
 
-###  **Time scale**
+## **Time scale**
 
 ![](../../../.gitbook/assets/new1%20%287%29.jpg)
 
@@ -35,7 +35,7 @@ Chart settings can be opened through the context menu of the Chart panel.
 * Highlight extended sessions - all extended sessions that were set on the server for the current symbol will be displayed in selected color.
 * Highlight date - allows displaying separator lines for: Days, Months and Years.
 
-### **Price scale**
+## **Price scale**
 
 ![](../../../.gitbook/assets/5%20%284%29.png)
 
@@ -49,19 +49,13 @@ Chart settings can be opened through the context menu of the Chart panel.
 ![](../../../.gitbook/assets/7%20%2817%29.png)
 
 * Highlight prices:
-
   * Price indicator - allows setting up active price marking as:
-
-          - ****Scale marker
-
-          - Scale marker with line
-
-          - None
-
+    * _\*\*_Scale marker
+    * Scale marker with line
+    * None
   * Ask price color
   * Last price color
   * Bid price color
-
 * Spread type - allows setting up the way of spread displaying:
 
   * None
@@ -75,7 +69,7 @@ Chart settings can be opened through the context menu of the Chart panel.
 * Previous close line - type and color of the Previous close line.
 * Day High/Low lines - type and color of the Day High/Low lines.
 
-### Alerts
+## Alerts
 
 ![](../../../.gitbook/assets/image%20%2858%29.png)
 
@@ -83,7 +77,7 @@ Chart settings can be opened through the context menu of the Chart panel.
 * Importance – allows to define the importance of the alert. The following options are available: High, Medium, Low;
 * After execute – allows to select alert behavior after execution. Available options are: Stop or Remove.
 
-### **Visual trading**
+## **Visual trading**
 
 ![](../../../.gitbook/assets/8%20%2821%29.png)
 
@@ -92,13 +86,13 @@ Chart settings can be opened through the context menu of the Chart panel.
 * Filled orders - allows displaying filled orders on chart.
 * Bound active positions/orders to the left side - allows displaying active positions/orders on the left side of the Chart area. 
 
-### **Chart Order entry**
+## **Chart Order entry**
 
 ![](../../../.gitbook/assets/9%20%288%29.png)
 
 This section allows selecting buttons and hot buttons which will be displayed in built-in Order entry.
 
-### **Info window**
+## **Info window**
 
 ![](../../../.gitbook/assets/web1.jpg)
 

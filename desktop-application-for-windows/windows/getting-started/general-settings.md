@@ -1,8 +1,8 @@
 # General settings
 
-The General Settings menu is used to customize and change general properties of TraderEvolution App. To open it, click on the![](../../../.gitbook/assets/s1%20%281%29.png)button at the top toolbar of the App.
+The General Settings menu is used to customize and change general properties of TraderEvolution App. To open it, click on the![](../../../.gitbook/assets/11%20%285%29%20%281%29.png)button at the top toolbar of the App.
 
-### **General**
+## **General**
 
 ![](../../../.gitbook/assets/1%20%2855%29.png)
 
@@ -12,9 +12,9 @@ The General Settings menu is used to customize and change general properties of 
 * Synchronize cursor - synchs cursor among charts;
 * Mouse wheel - select the action to be performed when scrolling the mouse wheel, it's either scrolling or zooming in and out.
 
-### **View**
+## **View**
 
-![](../../../.gitbook/assets/screenshot_2%20%287%29.png)
+![](../../../.gitbook/assets/3%20%2810%29%20%281%29.png)
 
 * Rounded average open price – check to round open price of positions in Watchlist, Positions, Filled orders, Market depth and other panels \(tick size=instrument tick size\);
 * Display quantity in lots – check to view orders quantity in lots, uncheck to view in units;
@@ -22,7 +22,7 @@ The General Settings menu is used to customize and change general properties of 
 * Reverse buttons order – check to reverse trading buttons into Sell/Buy pattern;
 * Tooltips – check to display all tooltips in the application, uncheck to hide. The function is enabled by default.
 
-### **Trading defaults**
+## **Trading defaults**
 
 ![](../../../.gitbook/assets/gs1.png)
 
@@ -52,11 +52,11 @@ If 'Show offset in = Ticks \(fractional ticks for Forex\)', then options 'SL/TP 
 
 ![](../../../.gitbook/assets/types-manager.jpg)
 
-### Confirmations
+## Confirmations
 
 ![](../../../.gitbook/assets/windows.jpg)
 
-In Confirmations section all of the options are fairly intuitive:
+In Confirmations section all of the options are fairly intuitive:
 
 * Confirm order placement - check if you want to confirm each order placement;
 * Confirm order cancellation - check if you want to confirm each order cancellation;
@@ -67,7 +67,7 @@ If 'Show offset in = Ticks \(fractional ticks for Forex\)', then options 'SL/TP 
 * Open deal tickets on workspace - check if you want to confirm the opening of deal tickets on a workspace;
 * Show deal tickets in application tray - determines whether alerts are displayed in the application tray. If false, deal tickets are not shown in the tray, but remain available in the Event log.
 
-### **Warnings**
+## **Warnings**
 
 ![](../../../.gitbook/assets/warnings-windows.png)
 
@@ -84,7 +84,7 @@ If 'Show offset in = Ticks \(fractional ticks for Forex\)', then options 'SL/TP 
 
 ![](../../../.gitbook/assets/10f.png)
 
-If you have open positions on symbols which have overnight coefficients, you will get overnight margin notification message "Warning: on 12:49 Exchange will be closed. The margin requirements will be recalculated with the overnight coefficients before closing".
+If you have open positions on symbols which have overnight coefficients, you will get overnight margin notification message "Warning: on 12:49 Exchange will be closed. The margin requirements will be recalculated with the overnight coefficients before closing".
 
 The overnight warning message shows the following items: Account \(Account for which the margin coefficients are switched to overnight\), Margin available, Maintenance margin \(based on overnight coefficients\), Overnight margin available.
 
@@ -92,10 +92,10 @@ Overnight margin available = Balance + all risks - Overnight total maint. req.
 
 If Overnight margin available &lt; 0, user will get a message "You don’t have enough margin for overnight, we force close some positions and cancel orders".
 
-### RSS
+## RSS
 
-Using this settings section, the user can add or edit RSS feeds in order to view news through RSS panel.  
-Read more about RSS panel here: 
+Using this settings section, the user can add or edit RSS feeds in order to view news through RSS panel.  
+Read more about RSS panel here:
 
 [https://guide.traderevolution.com/project/desktop-application-for-windows/informative-panels/rss](https://guide.traderevolution.com/project/desktop-application-for-windows/informative-panels/rss)_._
 

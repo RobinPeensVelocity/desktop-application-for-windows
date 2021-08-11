@@ -39,7 +39,7 @@ _qty i - the volume of the "i" position, taking into account the sign, for a sho
 * Symbol type – type of the symbol.
 * Position value – the current value of the position. Calculation is based on the current market price.
 
-![](../../.gitbook/assets/screenshot_2%20%2815%29.png)
+![](../../.gitbook/assets/screenshot_2%20%2816%29.png)
 
 For long position: _Position value = Position exposure + Gross P/L_
 
@@ -47,6 +47,5 @@ For short position: _Position value = Position exposure - Gross P/L_
 
 User has a possibility to close all positions through the context menu.
 
-The total is shown in account currency if accounts by all opened positions have the same account currency; if accounts by which users have opened positions have different account currencies, then total is displayed in server currency.  
-
+The total is shown in account currency if accounts by all opened positions have the same account currency; if accounts by which users have opened positions have different account currencies, then total is displayed in server currency.
 

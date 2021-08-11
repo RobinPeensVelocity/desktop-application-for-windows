@@ -1,12 +1,12 @@
 # Orders & Positions history
 
-### **Orders history**
+## **Orders history**
 
 Orders history panel shows all orders sent during the backtesting. History range can be set in Backtesting setup -&gt; Range.
 
 ![](../../.gitbook/assets/1%20%2845%29.png)
 
-The following columns are available in the panel:
+The following columns are available in the panel:
 
 * Account – an account's name of a user who created an order;
 * Symbol – a symbol for which an order was created;
@@ -19,14 +19,13 @@ Orders history panel shows all orders sent during the backtesting. History range
 * Validity – allows specifying order validity by selecting among the following time frames: Day, GTC, IOC, GTD, FOK;
 * Stop price – stop price for a special stop order;
 * Bought
-
-       - In case of Forex:
+  * In case of Forex:
 
 if 'Side = Buy', then this column shows the value of 'Price \* Lot size \* Qty.' in base currency;
 
 if 'Side = Sell', then this column shows the value of 'Price \* Lot size \* Qty.' in quoting currency.
 
-       - In case of Futures, Futures CFD, Options
+* In case of Futures, Futures CFD, Options
 
 with 'Quoting type=Tick cost/Tick size':
 
@@ -40,21 +39,20 @@ if 'Side = Buy', then this column shows the value of 'Qty';
 
 if 'Side = Sell', then this column shows the value of 'Qty \* Lot size \* Price'.
 
-       - In other cases:
+* In other cases:
 
 if 'Side = Buy', then this column shows the value of 'Qty. \* Lot size' – amount of bought assets \(contracts, equities\);
 
 if 'Side = Sell', then this column shows the value of 'Price \* Lot size \* Qty.' in quoting currency.
 
 * Sold
-
-       - In case of Forex:
+  * In case of Forex:
 
 if 'Side = Sell', then this column shows the value of 'Price \* Lot size \* Qty.' in base currency;
 
 if 'Side = Buy', then this column shows the value of 'Price \* Lot size \* Qty.' in quoting currency.
 
-       - In case of Futures, Futures CFD, Options
+* In case of Futures, Futures CFD, Options
 
 with 'Quoting type=Tick cost/Tick size':
 
@@ -68,7 +66,7 @@ if 'Side = Buy', then this column shows the value of 'Qty \* Lot size \* Price';
 
 if 'Side = Sell', then this column shows the value of 'Qty' .
 
-       - In other cases:
+* In other cases:
 
 if 'Side = Buy', then this column shows the value of 'Price \* Lot size \* Qty.' in quoting currency;
 
@@ -76,7 +74,7 @@ if 'Side = Sell', then this column shows the value of 'Qty. \* Lot size' – amo
 
 * Strike price – price of an option contract performance;
 * Expiry date – a contract expiration date;
-*  Trading exchange – indicates whether the instrument has a stock exchange or off-exchange type.
+* Trading exchange – indicates whether the instrument has a stock exchange or off-exchange type.
 
 Customer can also use standard functions from context menu of the panel:
 
@@ -85,9 +83,9 @@ Customer can also use standard functions from context menu of the panel:
 * Export – allows to export table to CSV or Excel format;
 * Group by – allows to group orders by symbol, account, side, event, type, date/time, bought, sold.
 
-### **Positions history**
+## **Positions history**
 
-Positions history panel shows positions which were opened for a certain period during the backtesting. 
+Positions history panel shows positions which were opened for a certain period during the backtesting.
 
 ![](../../.gitbook/assets/screenshot_10.png)
 
@@ -100,17 +98,19 @@ The following columns are available in the panel:
 * Quantity – amount of a position, either in lots or in units, depending on what is selected in the Settings dialog box;
 * Gross P/L – profit/loss in account currency, calculated on base of price difference:
 
-           For Long position: Gross P/L = Qty. \* Lot size \* \(Current price - Open price\)
+  ```text
+       For Long position: Gross P/L = Qty. \* Lot size \* \(Current price - Open price\)
 
-           For Short position: Gross P/L = Qty. \* Lot size \* \(Open price - Current price\)
+       For Short position: Gross P/L = Qty. \* Lot size \* \(Open price - Current price\)
 
-           P/L for Spreadbet instrument type is calculated depending on price change in ticks:
+       P/L for Spreadbet instrument type is calculated depending on price change in ticks:
 
-           For Long position: Gross P/L = Qty. \* Bet size \* Cross price \* \(\(Current price - Open price\)/Tick size\)\)
+       For Long position: Gross P/L = Qty. \* Bet size \* Cross price \* \(\(Current price - Open price\)/Tick size\)\)
 
-           For Short position: Gross P/L = Qty. \* Bet size \* Cross price \* \(\(Open price - Current price\)/Tick size\)\)
+       For Short position: Gross P/L = Qty. \* Bet size \* Cross price \* \(\(Open price - Current price\)/Tick size\)\)
 
-           Cross price is applied in the case when account currency doesn't correspond to the Betting currency.
+       Cross price is applied in the case when account currency doesn't correspond to the Betting currency.
+  ```
 
 * Open time – time when position was opened;
 * Open date – date when position was opened;
@@ -118,5 +118,5 @@ The following columns are available in the panel:
 * Close date – date when position was closed;
 * Operation – type of trade \(Buy or Sell\).
 
-For this panel the same functions as for Orders history are available in context menu.
+For this panel the same functions as for Orders history are available in context menu.
 

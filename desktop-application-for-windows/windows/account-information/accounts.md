@@ -1,22 +1,24 @@
 # Accounts
 
-Accounts panel shows basic details about all accounts that are available for a user.
+Accounts panel shows basic details about all accounts that are available for a user.
 
 To open Accounts panel, select Account -&gt; Accounts at the header of the terminal:
 
-![](../../../.gitbook/assets/windows-desk-waived%20%281%29.png)
+![](../../../.gitbook/assets/windows-desk-waived%20%281%29%20%281%29.png)
 
-The Accounts panel is also available in Detailed view in order to show the detailed information in rows. To open Accounts widget, click on the Balance&Projected balance section at the header of the platform:
+The Accounts panel is also available in Detailed view in order to show the detailed information in rows. To open Accounts widget, click on the Balance&Projected balance section at the header of the platform:
 
-                                                               ![](../../../.gitbook/assets/screenshot_12%20%281%29.png) 
+```text
+                                                           ![](../../../.gitbook/assets/screenshot_12%20%281%29.png) 
+```
 
-By clicking on the Account Link button![](../../../.gitbook/assets/screenshot_8%20%283%29.png), located at the top right corner of Accounts widget, a user can link panels by account. Please, read more about Account linking here: 
+By clicking on the Account Link button![](../../../.gitbook/assets/screenshot_8%20%283%29.png), located at the top right corner of Accounts widget, a user can link panels by account. Please, read more about Account linking here:
 
 [https://guide.traderevolution.com/project/desktop-application-for-windows/windows/getting-started/arranging-panels](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/getting-started/arranging-panels)
 
-![](../../../.gitbook/assets/windows-desk-acc%20%281%29.png)
+![](../../../.gitbook/assets/windows-desk-acc%20%282%29%20%281%29.png)
 
-If you have a Multi-asset account, then after selecting it in the Accounts lookup, the drop-down list will appear where you can select a needed asset to view detailed information and balance. 
+If you have a Multi-asset account, then after selecting it in the Accounts lookup, the drop-down list will appear where you can select a needed asset to view detailed information and balance.
 
 The following information about Accounts and calculation formulas are available:
 
@@ -131,7 +133,7 @@ The following information about Accounts and calculation formulas are available:
           Profit &#x2013; Unsettled profit + Unused unsettled negative cash for stocks
           &#x2013; Unsettled positive cash for stocks + Unused unsettled negative
           premium - Unsettled positive premium + Unsettled premium from open sell
-          - Used premium from open sell <b>- </b>Stocks liquidity + Withdrawable cash
+          - Used premium from open sell <b>-</b> Stocks liquidity + Withdrawable cash
           for stocks + Withdrawable unsettled profit/loss + Withdrawable unsettled
           collateral + Unused intraday initial margin - Used overnight initial margin
           for intraday, where:</p>
@@ -457,6 +459,4 @@ The following information about Accounts and calculation formulas are available:
     </tr>
   </tbody>
 </table>
-
-
 

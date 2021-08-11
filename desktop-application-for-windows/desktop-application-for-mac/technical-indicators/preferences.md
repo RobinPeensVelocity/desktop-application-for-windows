@@ -10,13 +10,13 @@ The following buttons are available in the Properties window:
 * Set as default – saves the set indicator settings as default settings;
 * Reset – offers two options namely, User defaults and Factory defaults. Depending on the option selected, the current settings will be reset to the user's or to the initial \(factory\);
 
-### Parameters tab
+## Parameters tab
 
 * Is background checkbox – defines the layer of the indicator line, unchecked by default. If checked, then the indicator lines will be displayed under the main chart;
 * Show indicator – allows to show/hide the required indicator;
 * Specific indicator settings – considered in the context of individual indicators in the relevant articles.
 
-### Properties
+## Properties
 
 * Visible checkbox – determines the visibility of the indicator line;
 * Line style – allows setting the line drawing characteristics: style, thickness, color;

@@ -1,15 +1,15 @@
 # General settings
 
-The General settings menu is used to customize and change general properties of the Web application. To open it, click on the![](../../.gitbook/assets/1%20%2851%29.png)button at the top menu of the platform.
+The General settings menu is used to customize and change general properties of the Web application. To open it, click on the![](../../.gitbook/assets/1%20%2851%29.png)button at the top menu of the platform.
 
-### **General**
+## **General**
 
 ![](../../.gitbook/assets/screenshot_1%20%2810%29.png)
 
 * Language - defines the default language of the UI. To set up your preferred language simply select it from the list;
 * Enable sounds - check to allow sound notifications.
 
-### **View**
+## **View**
 
 ![](../../.gitbook/assets/screenshot_2%20%2810%29.png)
 
@@ -19,7 +19,7 @@ The General settings menu is used to customize and change general properties of 
 * Display absolute qty. for Sell/Short – if checked, quantity for sell orders and short positions with positive values are shown;
 * Tooltips – check to display all tooltips in the application, uncheck to hide. The function is enabled by default.
 
-### **Trading defaults**
+## **Trading defaults**
 
 ![](../../.gitbook/assets/gs.png)
 
@@ -27,13 +27,9 @@ The General settings menu is used to customize and change general properties of 
 * Symbol – specifies a symbol used by default. This is the instrument that will be shown first when you load the Chart panel or Order entry panel;
 * Set SL/TP values in offset \(for new orders\) – if checked, order prices are shown in offset, if unchecked – in absolute values;
 * Show offset in – allows to select one of the available modes for offset displaying:
-
-           -  Ticks;
-
-           -  Ticks \(fractional ticks for Forex\);
-
-           -  Points.
-
+  * Ticks;
+  * Ticks \(fractional ticks for Forex\);
+  * Points.
 * Use stop limit instead of stop – check to place stop limit orders instead of stop orders. When checked activates the 'Limit offset, ticks' field;
 * Limit offset, ticks – use to adjust the default quantity of ticks for offset of a limit price. Active only if 'Use stop limit instead stop' is checked;
 * Order type – allows specifying order type, available values: Market, Limit, Stop, Stop limit, Trailing stop, OCO;
@@ -53,11 +49,11 @@ If 'Show offset in = Ticks \(fractional ticks for Forex\)', then options 'SL/TP 
 
 ![](../../.gitbook/assets/5%20%2842%29.png)
 
-### **Confirmations**
+**Confirmations**
 
 ![](../../.gitbook/assets/web.jpg)
 
-In the Confirmations section all of the options are fairly intuitive:
+In the Confirmations section all of the options are fairly intuitive:
 
 * Confirm order placement - check if you want to confirm each order placement;
 * Confirm order cancellation - check if you want to confirm each order cancellation;
@@ -67,10 +63,10 @@ If 'Show offset in = Ticks \(fractional ticks for Forex\)', then options 'SL/TP 
 * Open deal tickets on workspace - check if you want to confirm every opening of deal tickets on a workspace;
 * Show deal tickets in application tray - determines whether alerts are displayed in the application tray. If false, deal tickets are not shown in the tray, but remain available in the Event log.
 
-### **Warnings**
+## **Warnings**
 
 ![](../../.gitbook/assets/veb.png)
 
-* Warn if wrong order – if checked, you ****will get a warning message in case of placing order with incorrect parameters;
+* Warn if wrong order – if checked, you _\*\*_will get a warning message in case of placing order with incorrect parameters;
 * Warn if identical subsequent order is placed \(sec\) – if checked, you will get a warning message in case of placing an identical subsequent order during the specified time period.
 

@@ -1,6 +1,6 @@
 # Orders history
 
-Orders history panel allows to view system actions related to opening and closing orders \(SL/TP\). This can be particularly useful for monitoring specific details regarding creation, modification, rejection and execution of orders.
+Orders history panel allows to view system actions related to opening and closing orders \(SL/TP\). This can be particularly useful for monitoring specific details regarding creation, modification, rejection and execution of orders.
 
 To open Orders history panel, select Terminal -&gt; Orders history:
 
@@ -23,14 +23,13 @@ The following columns are available in the panel:
 * Login – a user's login;
 * Symbol type – a symbol's market category \(CFD, Spot, Stocks, etc.\);
 * Bought
-
-- In case of Forex:
+* In case of Forex:
 
 if 'Side = Buy', then this column shows the value of 'Price \* Lot size \* Qty.' in base currency;
 
 if 'Side = Sell', then this column shows the value of 'Price \* Lot size \* Qty.' in quoting currency.
 
-- In case of Futures, Futures CFD, Options
+* In case of Futures, Futures CFD, Options
 
 with 'Quoting type=Tick cost/Tick size':
 
@@ -44,21 +43,20 @@ if 'Side = Buy', then this column shows the value of 'Qty';
 
 if 'Side = Sell', then this column shows the value of 'Qty \* Lot size \* Price'.
 
-- In other cases:
+* In other cases:
 
 if 'Side = Buy', then this column shows the value of 'Qty. \* Lot size' – amount of bought assets \(contracts, equities\);
 
 if 'Side = Sell', then this column shows the value of 'Price \* Lot size \* Qty.' in quoting currency.
 
 * Sold
-
-- In case of Forex:
+* In case of Forex:
 
 if 'Side = Sell', then this column shows the value of 'Price \* Lot size \* Qty.' in base currency;
 
 if 'Side = Buy', then this column shows the value of 'Price \* Lot size \* Qty.' in quoting currency.
 
-- In case of Futures, Futures CFD, Options
+* In case of Futures, Futures CFD, Options
 
 with 'Quoting type=Tick cost/Tick size':
 
@@ -72,7 +70,7 @@ if 'Side = Buy', then this column shows the value of 'Qty \* Lot size \* Price';
 
 if 'Side = Sell', then this column shows the value of 'Qty' .
 
-- In other cases:
+* In other cases:
 
 if 'Side = Buy', then this column shows the value of 'Price \* Lot size \* Qty.' in quoting currency;
 
@@ -83,6 +81,4 @@ if 'Side = Sell', then this column shows the value of 'Qty. \* Lot size' – amo
 * Trading exchange – displays a trading exchange where the order was placed;
 * Product type – displays the product type;
 * Description – contains a short description of the instrument by which the event was executed.
-
-
 

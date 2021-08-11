@@ -1,6 +1,6 @@
 # Orders history
 
-Orders history panel allows to view system actions related to opening and closing orders \(SL/TP\). This can be particularly useful for monitoring specific details regarding creation, modification, rejection and execution of orders.
+Orders history panel allows to view system actions related to opening and closing orders \(SL/TP\). This can be particularly useful for monitoring specific details regarding creation, modification, rejection and execution of orders.
 
 To open Orders history panel, select Terminal -&gt; Orders history:
 
@@ -30,12 +30,10 @@ The following columns are available in the panel:
 * Product type – displays the product type;
 * Description – contains a short description of the instrument by which the event was executed.
 
-### **Time filter**
+**Time filter**
 
 At the top left corner of the toolbar of the panel there is a ‘Time filter’ combo box. It allows to select time period for which a user wants to see orders history. The following periods are available:
 
 * Daily;
-* Range – calls date menu 'From ... To' which allows to set up a desired time range. When the 'Range' period is set up, the icon![](../../.gitbook/assets/menu.png)appears allowing to change a time range for viewing orders history.
-
- 
+* Range – calls date menu 'From ... To' which allows to set up a desired time range. When the 'Range' period is set up, the icon![](../../.gitbook/assets/menu%20%282%29%20%281%29.png)appears allowing to change a time range for viewing orders history.
 

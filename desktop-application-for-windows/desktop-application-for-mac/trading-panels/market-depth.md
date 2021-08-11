@@ -6,19 +6,19 @@ To open a new Market depth panel, go to 'Terminal -&gt; Market depth'.
 
 ![](../../../.gitbook/assets/image5.png)
 
-### Toolbar
+Toolbar
 
 Under the panel's header there is Toolbar.
 
 The Toolbar includes Symbol and Account lookups. Right-click on the panel header in order to evoke the option ‘Show toolbar’. Check the option to show toolbar or uncheck to hide it.
 
-### **Market depth parameters**
+## **Market depth parameters**
 
 This panel consists of the following sections:
 
 * Level I - only Level I quotes.
 
- You can customize this section via the context menu -&gt;![](../../../.gitbook/assets/smallest.png):
+  You can customize this section via the context menu -&gt;![](../../../.gitbook/assets/smallest.png):
 
 ![](../../../.gitbook/assets/customize1.png)
 
@@ -32,7 +32,7 @@ Bid; Ask; Last; Bid size; Ask size; Last size; Last time; High; Low; Open; Previ
 
 ![](../../../.gitbook/assets/position-bar-blue.png)
 
-Position bar has extended functionality for Multiple position mode:
+Position bar has extended functionality for Multiple position mode:
 
 When clicking the Price value, you can select of two options: Average open price or Break-even.
 
@@ -61,7 +61,7 @@ The detailed quote section is the main part of the Market depth panel, and all o
 
 ![](../../../.gitbook/assets/context-menu.png)
 
-In the detailed quote section, offers with equal prices are grouped by the same color. There are five available color groups. Quotes with best prices are placed on the top and regrouped each time when a new quote comes.
+In the detailed quote section, offers with equal prices are grouped by the same color. There are five available color groups. Quotes with best prices are placed on the top and regrouped each time when a new quote comes.
 
 The detailed quote section is displayed as a table with the columns which can be made visible via the context menu of the table's header:
 
@@ -76,15 +76,17 @@ The detailed quote section is displayed as a table with the columns which can be
 * Counter CCY Total value – a value of total Ask/Bid size recalculated in the quoting currency, Price \* Total Ask/Bid size;
 * Reset to factory defaults – allows to reset this section's view to the default view.
 
-### Data source
+## Data source
 
 In the Market depth panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](../../../.gitbook/assets/screenshot_3%20%2811%29.png)arrow and the widget will be shown:
 
-                                                          ![](../../../.gitbook/assets/image8%20%283%29.png) 
+```text
+                                                      ![](../../../.gitbook/assets/image8%20%283%29.png) 
+```
 
 Furthermore, a user can add Ask source, Bid source and Last source information to the "Level I" section.
 
-### Market depth Preferences
+## Market depth Preferences
 
 **View**
 
@@ -138,10 +140,15 @@ The following items can be selected in order to be displayed in the panel:
 * Limit price;
 * Stop price.
 
-### Managing adjustments
+## Managing adjustments
 
 The 'Market depth Preferences' menu contains the following buttons to manage adjustments:
 
-* ![](../../../.gitbook/assets/set%20%282%29.png)–   allows to set all current 'Market depth Preferences' menu adjustments as default ones;
-* ![](../../../.gitbook/assets/reset%20%281%29.png)–   allows to reset all the ‘Market depth Preferences’ menu adjustments to 'User Defaults' or to 'Factory Defaults'. 'User Defaults' are the last adjustments, which were stored into the system by clicking on the button 'Set As Default'.
+* ![](../../../.gitbook/assets/set%20%283%29%20%282%29.png)– 
+
+  allows to set all current 'Market depth Preferences' menu adjustments as default ones;
+
+* ![](../../../.gitbook/assets/reset.png)– 
+
+  allows to reset all the ‘Market depth Preferences’ menu adjustments to 'User Defaults' or to 'Factory Defaults'. 'User Defaults' are the last adjustments, which were stored into the system by clicking on the button 'Set As Default'.
 

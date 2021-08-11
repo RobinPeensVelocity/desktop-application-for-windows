@@ -1,10 +1,10 @@
 # Event log
 
-Event log panel shows a log of all events that occurred during trading sessions. Click on the![](../../.gitbook/assets/screenshot_1%20%282%29.png)button in the Status bar to open the Event log panel.
+Event log panel shows a log of all events that occurred during trading sessions. Click on the![](../../.gitbook/assets/screenshot_1%20%282%29.png)button in the Status bar to open the Event log panel.
 
 ![](../../.gitbook/assets/screenshot_2%20%2811%29.png)
 
-Available columns:
+Available columns:
 
 * Type – type of event;
 * Date – date and time of event;
@@ -14,11 +14,11 @@
 
 ![](../../.gitbook/assets/screenshot_3%20%288%29.png)
 
-If there is no deal ticket for event, then the ‘Details’ icon isn’t shown.
+If there is no deal ticket for event, then the ‘Details’ icon isn’t shown.
 
 User can see trade messages from the start of trading day.
 
-### **Context menu**
+## **Context menu**
 
 The following actions can be performed via the context menu of the panel:
 

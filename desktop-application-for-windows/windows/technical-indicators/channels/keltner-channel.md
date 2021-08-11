@@ -10,19 +10,19 @@ The lines above and below are drawn at a distance from this centerline, a distan
 
 The trading strategy is to treat a close above the upper line as a strong bullish signal or a close below the lower line as a strong bearish signal and buy or sell with the trend accordingly, but perhaps with other indicators to confirm. Exits can be based on a very conservative Stop loss, a rather high Take profit, and an intersection with the centerline.
 
-### Calculation
+## Calculation
 
-Keltner Channel Middle Line=EMA 
+Keltner Channel Middle Line=EMA
 
 Keltner Channel Upper Band=EMA+2∗ATR
 
-Keltner Channel Lower Band=EMA−2∗ATR, where 
+Keltner Channel Lower Band=EMA−2∗ATR, where
 
-EMA=Exponential moving average \(typically over 20 periods\) 
+EMA=Exponential moving average \(typically over 20 periods\)
 
 ATR=Average True Range \(typically over 10 or 20 periods\) ​
 
-### Main parameters
+## Main parameters
 
 * Source prices for a Moving average: Low, High, Close, Open, Typical, Medium, Weighted;
 * Moving average type: Simple, Exponential, Modified, Linear weighted;

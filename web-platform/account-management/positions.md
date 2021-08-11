@@ -19,28 +19,36 @@ The following columns are available in the panel:
 * Date/Time – date and time when a position was opened;
 * Gross P/L – profit/loss in account currency, calculated on base of price difference:
 
-        For Long position: Gross P/L = Qty. \* Lot size \* \(Current price - Open price\)
+  ```text
+    For Long position: Gross P/L = Qty. \* Lot size \* \(Current price - Open price\)
 
-        For Short position: Gross P/L = Qty. \* Lot size \* \(Open price - Current price\)
+    For Short position: Gross P/L = Qty. \* Lot size \* \(Open price - Current price\)
+  ```
 
 * P/L, offset – profit/losses in ticks;
 * Net P/L – profit/loss for a position excluding fee:
 
-        Net P/L = Gross P/L - Fee
+  ```text
+    Net P/L = Gross P/L - Fee
+  ```
 
 * Position exposure – exposure of a position, in the account currency. Calculated on base of an open price:
 
-        Position exposure = Price \* Quantity \* Lot size \* Cross price \(quoting CCY &gt; account currency\) – calculation for Forex
+  ```text
+    Position exposure = Price \* Quantity \* Lot size \* Cross price \(quoting CCY &gt; account currency\) – calculation for Forex
 
-        Position exposure = Price \* Quantity \* \(Tick cost/Tick size\) \* Cross price \(quoting CCY &gt; account currency\) – calculation for Futures
+    Position exposure = Price \* Quantity \* \(Tick cost/Tick size\) \* Cross price \(quoting CCY &gt; account currency\) – calculation for Futures
 
-        In all cases Cross price \(quoting CCY &gt; account currency\) is a current cross price.
+    In all cases Cross price \(quoting CCY &gt; account currency\) is a current cross price.
+  ```
 
 * Position value – current value of a position. Calculated on base of a current market price:
 
-        For Long position: Position value = Position exposure + P/L
+  ```text
+    For Long position: Position value = Position exposure + P/L
 
-        For Short position: Position value = Position exposure – P/L
+    For Short position: Position value = Position exposure – P/L
+  ```
 
 * Fee – shows total commission amount taken for a position;
 * Swaps – amounts collected/paid out by a broker when a position is rolled over to a new value date;
@@ -52,7 +60,7 @@ The following columns are available in the panel:
 * SL limit price – Limit price set for SL order;
 * Close – allows to close a selected position.
 
-### **Buttons toolbar**
+## **Buttons toolbar**
 
 The most important functions related to Positions can be viewed as buttons in the toolbar of the panel.
 
@@ -70,7 +78,7 @@ To select the buttons to be displayed, simply right-click on the toolbar of the 
 
 Note: clicking on these buttons doesn't evoke confirmation screens, even if confirmations are enabled in the 'General settings'.
 
-### **Context menu**
+## **Context menu**
 
 The following functions can be realized through context menu:
 
@@ -78,7 +86,7 @@ The following functions can be realized through context menu:
 * Close position – allows closing selected positions;
 * View – allows to show toolbar;
 * Group by – allows to group positions by account, login, symbol, symbol description, symbol type, side, expiry date, strike price;
-* Exercise options – sends an exercise request for the Option position. Available for single positions opened for Options with Exercise style=American, inactive for multiple selected positions. 
+* Exercise options – sends an exercise request for the Option position. Available for single positions opened for Options with Exercise style=American, inactive for multiple selected positions.
 
   After clicking this menu item, a confirmation dialog box is displayed with the Position ID, Symbol, Side, Quantity to close, Open price, Current price, Gross P/L to close, Account, Date/Time position parameters.
 
@@ -89,6 +97,4 @@ The following functions can be realized through context menu:
 * Cancel exercise – cancels an exercise request for the selected Option position with Pending exercise status. Available for single positions opened for Options with Exercise style=American, inactive for multiple selected positions.
 
   After clicking this menu item, a confirmation dialog box is displayed, which requires a confirmation of canceling an Option exercise request. After the exercise Option request is canceled, the **Close position, Close by\(ID\), Reverse, Reverse by \(ID\)** operations become allowed for the position.
-
-
 

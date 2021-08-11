@@ -1,12 +1,12 @@
 # Super DOM
 
-The Super DOM panel allows to view open positions, pending orders, market prices, quantity and P/L. Furthermore, a trader can place an order just in 1 click using this panel. 
+The Super DOM panel allows to view open positions, pending orders, market prices, quantity and P/L. Furthermore, a trader can place an order just in 1 click using this panel.
 
 To open the Super DOM panel, go to Terminal -&gt; Super DOM:
 
 ![](../../../.gitbook/assets/1pic.png)
 
-The Symbol lookup is at the top of the Super DOM panel.
+The Symbol lookup is at the top of the Super DOM panel.
 
 ![](../../../.gitbook/assets/2%20%28113%29.png)
 
@@ -18,7 +18,7 @@ Day high/low – allows showing current high/low levels.
 
 ![](../../../.gitbook/assets/3%20%2890%29.png)
 
-Right-clicking within the Market depth section evokes the Context menu of the panel.
+Right-clicking within the Market depth section evokes the Context menu of the panel.
 
 ![](../../../.gitbook/assets/4%20%2862%29.png)
 
@@ -42,23 +42,19 @@ The bottom position bar shows the current state of the position: open price, ope
 
 ![](../../../.gitbook/assets/7%20%2833%29.png)
 
-When clicking on the P/L value, the following options can be selected: Ticks/Points.
+When clicking on the P/L value, the following options can be selected: Ticks/Points.
 
 QTY cell changes its color depending on the side of the position:
 
-1.    If all positions have Side = Long, qty. cell will be colored in blue;
-
-2.    If all positions have Side = Short, qty. cell will be colored in red;
-
-3.    If positions are multi-directional, then qty. cell is not colored;
-
-4.    If there are no positions, qty. cell will not be colored and qty. value = N/A.
-
-* When trading multi-position symbols, open price of all the positions is calculated as weighted average value;
-* The Orders column shows all pending orders and allows their modification. Limit orders are displayed as numbers, and Stop orders - as underlined numbers. Group of orders is displayed with two vertical lines of the pending order left side;
-* The Size column shows how many trade operations with Ask/Bid are available at a specific price;
-* Clicking on Cancel buy, Cancel sell, or Cancel all will close all buy, sell, or total orders respectively for the currently displayed symbol and account;
-* Close position button allows closing the current position by selected symbol and account.
+1. If all positions have Side = Long, qty. cell will be colored in blue;
+2. If all positions have Side = Short, qty. cell will be colored in red;
+3. If positions are multi-directional, then qty. cell is not colored;
+4. If there are no positions, qty. cell will not be colored and qty. value = N/A.
+5. When trading multi-position symbols, open price of all the positions is calculated as weighted average value;
+6. The Orders column shows all pending orders and allows their modification. Limit orders are displayed as numbers, and Stop orders - as underlined numbers. Group of orders is displayed with two vertical lines of the pending order left side;
+7. The Size column shows how many trade operations with Ask/Bid are available at a specific price;
+8. Clicking on Cancel buy, Cancel sell, or Cancel all will close all buy, sell, or total orders respectively for the currently displayed symbol and account;
+9. Close position button allows closing the current position by selected symbol and account.
 
 On the right side of the Super DOM panel there is a built-in Order entry panel. The order amount can be specified on the top of panel. Also the Validity of the order, SL/TP offset and Trailing stop.
 
@@ -78,15 +74,15 @@ Clicking on the group of orders on one price allows showing the list of pending 
 
 ![](../../../.gitbook/assets/orders.png)
 
-### Data source <a id="data-source"></a>
+## Data source <a id="data-source"></a>
 
 In the Super DOM panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](../../../.gitbook/assets/image2-kopiya%20%281%29.png)arrow and the widget will be shown:
 
 ![](../../../.gitbook/assets/image6%20%281%29.png)
 
-### **Super DOM Preferences**
+## **Super DOM Preferences**
 
-‘Super DOM Preferences’ dialog box consists of 3 tabs: View, Columns, Colors. 
+‘Super DOM Preferences’ dialog box consists of 3 tabs: View, Columns, Colors.
 
 **View**
 
@@ -105,7 +101,7 @@ In the Super DOM panel a user can see the the extended information about the sou
 
 ![](../../../.gitbook/assets/10%20%2813%29.png)
 
-Check/uncheck the needed hot buttons in order to display them in the built-in Order entry of the Super DOM panel:
+Check/uncheck the needed hot buttons in order to display them in the built-in Order entry of the Super DOM panel:
 
 * Show close orders \(SL/TP\);
 * Buy/Sell Market;
@@ -117,17 +113,17 @@ In the Super DOM panel a user can see the the extended information about the sou
 * Cancel sell;
 * Cancel all.
 
- **** **Columns**
+  **\*\*** Columns\*\*
 
 ![](../../../.gitbook/assets/11%20%289%29.png)
 
-‘Columns’ tab allows to select colors of the columns located in the panel: Buy, Price, Size, Sell.
+‘Columns’ tab allows to select colors of the columns located in the panel: Buy, Price, Size, Sell.
 
 **Colors**
 
 ![](../../../.gitbook/assets/12%20%285%29.png)
 
-_Table colors:_
+_Table colors:_
 
 Table – color of the table background.
 
@@ -141,13 +137,13 @@ _Day high/low:_
 
 Coloring setting for Day high and Day low price cells.
 
-_Mouse trading:_ 
+_Mouse trading:_
 
 Hover – color and style of the line for sliding the cursor through each price level.
 
 ![](../../../.gitbook/assets/13%20%285%29.png)
 
-_Position bar:_
+_Position bar:_
 
 Long/Short/Multiple position – coloring settings for the corresponding positions;
 

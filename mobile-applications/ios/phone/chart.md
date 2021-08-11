@@ -2,21 +2,21 @@
 
 The Chart screen can be accessed from the Watchlist screen. Also, it is possible to open a chart from the Orders, Positions, and Assets panels by swiping the desired instrument or asset to the left and tapping the ‘Chart’ button.
 
-![](../../../.gitbook/assets/1%20%28132%29.png)
+![](../../../.gitbook/assets/1%20%28135%29%20%281%29.png)
 
-In the ‘Indices’ section swipe left or right the chart to change the symbol and choose the time frame.
+In the ‘Indices’ section swipe left or right the chart to change the symbol and choose the time frame.
 
 Tap the name of the symbol at the list of added symbols to open the chart:
 
 ![](../../../.gitbook/assets/simulator-screen-shot-iphone-11-2020-09-29-at-17.54.07.png)
 
-### **Chart toolbar** 
+**Chart toolbar**
 
-Tap the button![](../../../.gitbook/assets/2-kopiya%20%283%29.png)to open Chart toolbar.
+Tap the button![](../../../.gitbook/assets/2-kopiya%20%283%29%20%281%29.png) to open Chart toolbar.
 
 ![](../../../.gitbook/assets/simulator-screen-shot-iphone-11-2020-09-29-at-17.54.20.png)
 
-The Chart toolbar consists of 3 items:
+The Chart toolbar consists of 3 items:
 
 * Chart style – allows to choose the style of the chart. Available chart styles: Line, Candle, Area;
 * Chart templates – allows to create a chart template;
@@ -37,31 +37,31 @@ The following chart settings are available for configuration:
 * Watermark color – allows selecting the watermark coloring;
 * Show extended session**s** - allows seeing bars from extended sessions on chart. The peculiarities of this setting also depend on the state of the "Use session periods for Intraday chart" setting that can be found in the BackOffice. If “Use session periods for Intraday chart = true”, then the aggregation will start from the first session of the day. At the same time, sessions that belong to the Before market/After market periods will be excluded from the Extended session list.
 
-### **Indicators**
+## **Indicators**
 
-In order to add a new indicator, choose the category of indicators \(Channels, Moving averages, Oscillators etc.\) and tap the button![](../../../.gitbook/assets/add.%20%281%29.jpg)near the indicator name at the list of available Indicators.
+In order to add a new indicator, choose the category of indicators \(Channels, Moving averages, Oscillators etc.\) and tap the button![](../../../.gitbook/assets/add.%20%282%29%20%282%29.jpg)near the indicator name at the list of available Indicators.
 
 ![](../../../.gitbook/assets/4%20%2858%29.png)
 
-It will appear in ‘Added indicators’ section and you can set indicator’s parameters by tapping the button![](../../../.gitbook/assets/4%20%282%29.jpg). Tap the button![](../../../.gitbook/assets/delete.%20%282%29.jpg)located near indicator’s name to remove indicator from this section. 
+It will appear in ‘Added indicators’ section and you can set indicator’s parameters by tapping the button![](../../../.gitbook/assets/4%20%282%29.jpg). Tap the button![](../../../.gitbook/assets/delete%20%281%29.jpg)located near indicator’s name to remove indicator from this section.
 
 ![](../../../.gitbook/assets/5%20%2852%29.png)
 
-Open the chart to see the added indicators.
+Open the chart to see the added indicators.
 
 ![](../../../.gitbook/assets/6%20%2841%29.png)
 
-### **Order entry**
+**Order entry**
 
- The Order entry screen enables user to send orders. The Order entry icon![](../../../.gitbook/assets/1-kopiya%20%2810%29.png)is located at the top right corner of the Chart screen.
+The Order entry screen enables user to send orders. The Order entry icon![](../../../.gitbook/assets/1-kopiya%20%287%29%20%287%29.png) is located at the top right corner of the Chart screen.
 
 ![](../../../.gitbook/assets/7%20%2832%29.png)
 
-Read more information about Order entry screen here:
+Read more information about Order entry screen here:
 
 [https://guide.traderevolution.com/project/mobile-applications/ios/phone/order-entry](https://guide.traderevolution.com/project/mobile-applications/ios/phone/order-entry)
 
-### Drawings
+## Drawings
 
 A set of graphical tools is available to assist in price movements analysis:
 
@@ -112,7 +112,7 @@ In order to place a tool:
 * Open the Drawings panel and select the desired drawing tool;
 * If a tool requires points to be specified on the chart \(e.g. a line requires two points while Andrew's pitchfork requires three\), the user can place these points on the chart by tapping the required places.
 
-#### Settings
+### Settings
 
 Each drawing has its vertical Settings bar:
 

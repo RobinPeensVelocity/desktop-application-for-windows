@@ -4,7 +4,7 @@ Assets panel contains information about all assets by the chosen account\(-s\). 
 
 ![](../../../.gitbook/assets/assets2.png)
 
-### **Columns**
+**Columns**
 
 A user can choose the columns, which will be displayed by right-click on one of the column names.
 
@@ -35,7 +35,7 @@ You can choose the columns, which have to be displayed by right-click on one of 
 
 The same menu allows to filter data in a table, reset the panel's view to factory defaults and to open the 'Assets Preferences' window.
 
-### **Context menu**
+## **Context menu**
 
 ![](../../../.gitbook/assets/mac-new.png)
 
@@ -45,6 +45,4 @@ Right-click on the asset evokes the context menu which includes the following op
 * Search – allows to show/hide a Search lookup in the panel;
 * Show totals – allows to show/hide the row showing the total values for columns;
 * Preferences – opens the 'Assets Preferences' menu.
-
-
 

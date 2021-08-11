@@ -1,6 +1,6 @@
 # Positions
 
-Positions panel lists all currently opened positions. When a new position is opened, it will appear in this panel immediately.
+Positions panel lists all currently opened positions. When a new position is opened, it will appear in this panel immediately.
 
 To open Positions panel, select Terminal -&gt; Positions:
 
@@ -21,7 +21,7 @@ The following columns are available in the panel:
 * Date/Time – date and time when a position was opened;
 * Gross P/L – profit/loss in account currency, calculated on base of price difference:
 
-For Long position: Gross P/L = Qty. \* Lot size \* \(Current price - Open price\)
+For Long position: Gross P/L = Qty. \* Lot size \* \(Current price - Open price\)
 
 For Short position: Gross P/L = Qty. \* Lot size \* \(Open price - Current price\)
 
@@ -61,7 +61,7 @@ For Short position: Position value = Position exposure – P/L
 * SL, value – shows a Stop loss sum in account currency which a trader risks by each symbol, if Stop loss triggers. Also, SL sum by all positions are output in Totals on the bottom of the panel, in order to know how much trader can lose;
 * SL limit price – Limit price set for SL order.
 
-### **Buttons toolbar**
+**Buttons toolbar**
 
 The most important functions related to Positions can be viewed as buttons in the toolbar of the panel.
 
@@ -83,7 +83,7 @@ To select the buttons to be displayed, simply right click on the toolbar of the 
 
 Note: clicking on these buttons doesn't evoke confirmation screens, even if confirmations are enabled in the 'General settings'.
 
-### **Context menu**
+## **Context menu**
 
 The following functions can be realized through context menu:
 
@@ -97,15 +97,11 @@ The following functions can be realized through context menu:
 
 After clicking this menu item, a confirmation dialog box is displayed with the Position ID, Symbol, Side, Quantity to close, Open price, Current price, Gross P/L to close, Account, Date/Time position parameters.
 
-Clicking the "Exercise" button in the confirmation box, creates a request for the Option exercise, which switches the position to Pending exercise status and prevents performing the following operations for the position: **Modify position, Modify SL to breakevent, Quick SL/TP,  Close position, Reverse.**
+Clicking the "Exercise" button in the confirmation box, creates a request for the Option exercise, which switches the position to Pending exercise status and prevents performing the following operations for the position: **Modify position, Modify SL to breakevent, Quick SL/TP, Close position, Reverse.**
 
 The mentioned actions are reenabled for the position after the "Cancel exercise" action is performed.
 
 * Cancel exercise – cancels an exercise request for the selected Option position with Pending exercise status. Available for single positions opened for Options with Exercise style=American, inactive for multiple selected positions.
 
-After clicking this menu item, a confirmation dialog box is displayed, which requires a confirmation of canceling an Option exercise request. After the exercise Option request is canceled, the **Modify position, Modify SL to breakevent, Quick SL/TP,  Close position, Reverse** operations become allowed for the position.   
-
- 
-
-
+After clicking this menu item, a confirmation dialog box is displayed, which requires a confirmation of canceling an Option exercise request. After the exercise Option request is canceled, the **Modify position, Modify SL to breakevent, Quick SL/TP, Close position, Reverse** operations become allowed for the position.
 

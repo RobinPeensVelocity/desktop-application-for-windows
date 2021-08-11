@@ -6,7 +6,7 @@ To open the Watchlist panel, select Terminal -&gt; Watchlist:
 
 ![](../../../.gitbook/assets/new-w.png)
 
-### Columns
+Columns
 
 The context menu of the Watchlist table's header allows to adjust visibility of its columns. To open this context menu, right-click on the table's header which is located under the panel's toolbar. For each symbol, the following information is available:
 
@@ -40,19 +40,19 @@ The context menu of the Watchlist table's header allows to adjust visibility of 
 * Previous settlement price – shows value of the previous day settlement price;
 * Preferences – opens Preferences window.
 
-### **Symbols lists creation** 
+## **Symbols lists creation**
 
 The Watchlist panel enables a user to create custom sets of symbols lists. In order to add symbols to the Watchlist, click on the button![](../../../.gitbook/assets/button-small.png), located at the top left corner of the panel’s toolbar. Select the needed symbols from the 'Symbols lookup' window. By finishing symbols selection, press 'Add'. From the drop-down menu of Symbol list user is able to create new symbol lists. In this list all created instruments lists are displayed. Buttons of list renaming or deleting are located right to each list.
 
 ![](../../../.gitbook/assets/lists-for-doc.png)
 
-### Symbol lookup
+## Symbol lookup
 
 The 'Symbol lookup' window in the Watchlist panel has its own peculiarities.
 
 Except the standard lookup's functions, the 'Symbol lookup' window in Watchlist allows a multi-selection. In case you need to select several symbols, which are located one under another, just slide the mouse cursor up or down to select by highlighting several symbols. In case needed symbols are not located one under another, hold the key 'Command' and click each needed symbol to select it by highlighting. After finishing symbols selection, click on the button 'Add'.
 
-### **Customizing the Watchlist**
+## **Customizing the Watchlist**
 
 ​Right clicking within the Watchlist panel evokes its context menu. From this menu a user can:
 
@@ -62,19 +62,19 @@ Except the standard lookup's functions, the 'Symbol lookup' window in Watchlist 
 * duplicate the Watchlist panel;
 * open search lookup.
 
-### **Symbol info**
+## **Symbol info**
 
 Symbol info panel displays information for a selected symbol. To open the panel, evoke a context menu of a certain symbol in the Watchlist and select the "Symbol info" option.
 
-![](../../../.gitbook/assets/unnamed-1-%20%281%29.png)
+![](../../../.gitbook/assets/unnamed-1-%20%282%29.png)
 
-The Symbol info window will be opened:
+The Symbol info window will be opened:
 
 ![](../../../.gitbook/assets/screenshot_3%20%2816%29.jpg)
 
 The panel header contains a control for panel linking in addition to the standard ones, it is not active by default. When linking is enabled in the Symbol info panel, focusing on an instrument in another panel \(Watchlist, Positions, Orders, etc.\) leads to replacing the information displayed in the Symbol info panel i.e. the information will be changed to the one about the instrument in focus.
 
-All information is divided into 5 groups. Each group can be hidden by one click on a group header. The following buttons appear in a header of a group when it is hidden or opened![](../../../.gitbook/assets/mac-buttons-small.png). 
+All information is divided into 5 groups. Each group can be hidden by one click on a group header. The following buttons appear in a header of a group when it is hidden or opened![](../../../.gitbook/assets/mac-buttons-small.png).
 
 The following information is available in each group:
 
@@ -99,14 +99,10 @@ The following information is available in each group:
 
 For symbols with asset class Futures and Options, expiration dates templates are available on the Server. Your administrator can select there the following templates, depending on which the dates will be defined for Symbol info panel:
 
-       - Contract month;
-
-       - Contract month, Last trade date, Settlement date, Notice date, First trade date;
-
-       - Contract month, Last trade date, Settlement date, Notice date;
-
-       - Contract month, Last trade.
-
+* Contract month;
+* Contract month, Last trade date, Settlement date, Notice date, First trade date;
+* Contract month, Last trade date, Settlement date, Notice date;
+* Contract month, Last trade.
 * Delivery method – type of asset delivery. Available for Futures, Bonds, Spot, Forward instruments. Can be only Cash for Bonds;
 * Strike price – price level of an underlier by which Option contract must be executed;
 * Maturity date – date of the contract expiration;
@@ -199,7 +195,9 @@ The fee value for the fee types such as 'Fill per lot', 'Order per lot', 'Per fi
 
 Symbol info panel displays these fee types depending upon commission plan settings on the Server.
 
-        Rebates:
+```text
+    Rebates:
+```
 
 The rebates value can be set for the fee types such as 'Per lot', 'Fill volume, %' depending on quantity ranges.
 
@@ -217,6 +215,4 @@ Information about settings for all trade sessions:
 * After market.
 
 In order to make the needed columns or rows with parameters visible in the Symbol info panel, go to Context menu -&gt; Preferences -&gt; Columns -&gt; and simply check them in the list.
-
-### 
 

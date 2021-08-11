@@ -26,7 +26,7 @@ The Relative strength index shows, sometimes more clearly than the price itself,
 
 As discussed above, divergences occur when price makes a new high \(or low\) that is not confirmed by a new high \(or low\) in the Relative strength index. Prices are usually correcting and moving in the direction of the RSI.
 
-### Calculation <a id="calculation"></a>
+## Calculation <a id="calculation"></a>
 
 The basic formula for calculating the Relative strength index is as follows:
 
@@ -38,7 +38,7 @@ U — average number of positive price changes;
 
 D — average number of negative price changes.
 
-### Main parameters <a id="main-parameters"></a>
+## Main parameters <a id="main-parameters"></a>
 
 * Period – number of periods involved in the indicator calculation, the default value is 14;
 * Type of moving average involved in the calculation, available values: Simple, Exponential, Modified, Linear weighted.

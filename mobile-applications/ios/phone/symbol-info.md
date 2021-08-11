@@ -1,10 +1,12 @@
 # Symbol info
 
- The Symbol info screen allows displaying all information about the selected symbol. To open the Symbol info, a user needs to open the Watchlist and swipe left the selected instrument name. Then tap the button 'Info' in the Symbol menu.
+The Symbol info screen allows displaying all information about the selected symbol. To open the Symbol info, a user needs to open the Watchlist and swipe left the selected instrument name. Then tap the button 'Info' in the Symbol menu.
 
-                                                ![](../../../.gitbook/assets/screen-shot-2020-06-05-at-5.57.11-pm%20%2814%29.png)                     
+```text
+                                            ![](../../../.gitbook/assets/screen-shot-2020-06-05-at-5.57.11-pm%20%2814%29.png)                     
+```
 
- Information by the symbol is divided into the following groups:
+Information by the symbol is divided into the following groups:
 
 ![](../../../.gitbook/assets/symbol-info+.png)
 
@@ -106,6 +108,4 @@ Information about settings for all trade sessions:
 * Main;
 * Post-market;
 * After market.
-
-
 

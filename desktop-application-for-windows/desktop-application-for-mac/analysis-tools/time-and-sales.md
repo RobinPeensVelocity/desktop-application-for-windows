@@ -6,13 +6,13 @@ To open the Time & Sales panel, select Terminal -&gt; Time & Sales.
 
 The Time & Sales panel chronologically shows all trades for a symbol in the real time mode.
 
-### **Columns**
+## **Columns**
 
 Information about a chosen symbol starts streaming upon opening the panel.
 
 ![](../../../.gitbook/assets/new-ts%20%281%29.png)
 
-The context menu of the table's header allows to adjust visibility of the panel's columns.
+The context menu of the table's header allows to adjust visibility of the panel's columns.
 
 For each trade, the following data stored into columns is available:
 
@@ -42,7 +42,7 @@ The context menu contains the following items:
 * Duplicate panel – opens one more 'Time & Sales' panel, pre-filled with data from a currently opened panel;
 * Preferences – opens the 'Time & Sales Preferences' menu.
 
-### Time & Sales Preferences
+## Time & Sales Preferences
 
 This Preferences menu contains such sections, as View, Columns, Colors.
 
@@ -79,22 +79,26 @@ Allows to select background and text colors for:
 
 1. Columns header row;
 2. Row.
+3. Quote colors - allows to select background and text colors for:
+   * Up tick;
+   * Down tick;
+   * Quote.
+4. Print colors - allows to select background and text colors for:
+   * Above Ask;
+   * At Ask;
+   * At Bid;
+   * Below Bid;
+   * Between Spread.
 
-* Quote colors - allows to select background and text colors for:
-  * Up tick;
-  * Down tick;
-  * Quote.
-* Print colors - allows to select background and text colors for:
-  * Above Ask;
-  * At Ask;
-  * At Bid;
-  * Below Bid;
-  * Between Spread.
-
-### Managing adjustments 
+## Managing adjustments
 
 The 'Time & Sales Preferences' menu contains the following buttons to manage adjustments:
 
-* ![](../../../.gitbook/assets/set%20%283%29.png)  – allows to set all current 'Time & Sales Preferences' menu adjustments as default ones; 
-* ![](../../../.gitbook/assets/reset.png)  – allows to reset all the 'Time & Sales Preferences' menu adjustments to 'User Defaults' or to 'Factory Defaults'. 'User Defaults' are the last adjustments, which were stored into the system by clicking on the button 'Set As Default'. 
+* ![](../../../.gitbook/assets/set%20%283%29%20%281%29.png)
+
+  – allows to set all current 'Time & Sales Preferences' menu adjustments as default ones; 
+
+* ![](../../../.gitbook/assets/reset%20%284%29.png)
+
+  – allows to reset all the 'Time & Sales Preferences' menu adjustments to 'User Defaults' or to 'Factory Defaults'. 'User Defaults' are the last adjustments, which were stored into the system by clicking on the button 'Set As Default'. 
 

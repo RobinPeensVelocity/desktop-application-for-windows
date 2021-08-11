@@ -14,11 +14,11 @@ Trend Confirmation - to confirm the direction of the trend, see if the OBV line 
 
 Potential breakout or breakdown from the ranging market - during ranging market conditions, you should watch closely for increases or decreases in on-board volume indicator values ​​as this could signal a potential price breakout or fall. The rising OBV line can warn of a potential breakout to the upside because accumulation is taking place.
 
-### Calculation
+## Calculation
 
 ![](../../../../.gitbook/assets/image%20%2846%29.png)
 
-Where: 
+Where:
 
 OBV = Current on-balance volume level;
 

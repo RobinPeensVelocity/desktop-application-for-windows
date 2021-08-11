@@ -4,7 +4,7 @@ The Positions screen is accessible through the Main menu of the platform. It dis
 
 ![](../../../.gitbook/assets/1%20%28123%29.png)
 
-The Positions screen displays a list of opened positions with short information about a symbol on which every position was opened: quantity and open price. Quantity of long positions is blue, quantity of short positions – red.
+The Positions screen displays a list of opened positions with short information about a symbol on which every position was opened: quantity and open price. Quantity of long positions is blue, quantity of short positions – red.
 
 In order to get full information about a symbol, tap a symbol's name.
 
@@ -16,7 +16,7 @@ In order to get full information about a symbol, tap a symbol's name.
 * Position ID – unique number that the trading system assigns to each position;
 * Open price – price at which the position was opened;
 * Account – login name of an account that opened a position;
-* Exercise – sends an exercise request for the Option position. Available for single positions opened for Options with Exercise style=American, inactive for multiple selected positions. 
+* Exercise – sends an exercise request for the Option position. Available for single positions opened for Options with Exercise style=American, inactive for multiple selected positions.
 
   After clicking this menu item, the Position exercise request confirmation dialog box is displayed. Clicking the "Exercise" button in the confirmation box, creates a request for the Option exercise, which switches the position to Pending exercise status and prevents performing the following operations for the position: **Modify position, Close position, Close all.**
 
@@ -32,7 +32,7 @@ In order to modify a position, tap the 'Modify' button and the following screen 
 
 ![](../../../.gitbook/assets/2%20%28109%29.png)
 
-Here you can modify Stop loss price, Take profit price or Trailing stop offset.
+Here you can modify Stop loss price, Take profit price or Trailing stop offset.
 
 In order to close a position, tap the button 'Close'.
 

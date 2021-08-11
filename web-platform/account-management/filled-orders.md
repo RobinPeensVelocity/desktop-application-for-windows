@@ -31,7 +31,7 @@ The following columns are available in the panel:
 * Product type – displays the product type;
 * Description – contains a short description of the instrument by which the event was executed.
 
-### **Time filter**
+**Time filter**
 
 At the top left corner of the toolbar of the panel there is a ‘Time filter’ combo box. It allows to select time period for which a user wants to see filled orders. The following periods are available:
 

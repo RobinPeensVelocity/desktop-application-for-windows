@@ -6,13 +6,12 @@ To open the Chart panel, select 'Terminal -&gt; Chart'.
 
 ![](../../../../.gitbook/assets/test-chart%20%281%29.png)
 
-### Chart parameters
+## Chart parameters
 
 * Symbol lookup – a field for selection of a symbol to be displayed on the chart;
 * Account lookup – a field for selection of an account for visual trading;
 * Aggregation – a menu for selection of a desired aggregation type. The following aggregation types are available: Tick, Time, Renko;
-*  Chart style – allows to select a style of symbol price movements. The following styles are available:
-
+* Chart style – allows to select a style of symbol price movements. The following styles are available:
   * Line;
   * Bar;
   * Candle;
@@ -20,12 +19,11 @@ To open the Chart panel, select 'Terminal -&gt; Chart'.
   * Dotted line;
   * Histogram;
   * Area.
-
 * Drawings – allow activating drawing toolbar on the chart;
 * Indicators – allow to open Indicators lookup window;
 * Mouse trading – allows to activate trading from the chart with a mouse;
 
-Clicking on the 'Mouse trading' button turns it blue![](../../../../.gitbook/assets/mouse-small.png)and changes the cursor's view to the following:![](../../../../.gitbook/assets/mouse-trading-small.png). Pressing and holding the key 'Command' leads to the same result. 
+Clicking on the 'Mouse trading' button turns it blue![](../../../../.gitbook/assets/mouse-small.png)and changes the cursor's view to the following:![](../../../../.gitbook/assets/mouse-trading-small.png). Pressing and holding the key 'Command' leads to the same result.
 
 When 'Mouse trading' is enabled, pressing the mouse's keys allows to place an appropriate order.
 
@@ -50,7 +48,7 @@ To disable trading from the chart with a mouse, click on the 'Mouse trading' but
 * Scroll – a tool for chart history scrolling;
 * Zoom control buttons – allow to zoom out \(-\) and zoom in \(+\) on the chart and to activate manual scaling of the chart by an allocated area.
 
-#### **Price scale zooming**
+**Price scale zooming**
 
 User can zoom in or out on the chart by price scale \(vertically\). Click on the price axis, drag it up and down to scale the price axis.
 
@@ -58,7 +56,7 @@ User can zoom in or out on the chart by price scale \(vertically\). Click on the
 
 The chart can be zoomed in using the "Shift + mouse wheel" hotkey combination. Please note that in this case, not the usual zooming combination with a "Ctrl" button is used, since this button is already used for visual trading. When using this hotkey combination, zooming occurs to the mouse cursor point, that is, the chart remains centered. This feature works when the mouse cursor is over the chart.
 
-#### **Scrolling the chart**
+### **Scrolling the chart**
 
 To scroll the chart horizontally, just drag the scroll in the Timeline section, or click inside the chart and drag it left or right.
 
@@ -66,11 +64,11 @@ Right-clicking on the Timeline evokes the additional option:
 
 Show separators – this option displays the vertical lines on the chart to separate different days, weeks, months and years.
 
-#### **Refreshing the chart**
+### **Refreshing the chart**
 
 Charts refresh automatically. If, however, a user needs to refresh the chart manually, right-click inside of the Chart and select ‘Refresh’. This action will reload the chart data and redraw the chart.
 
-### **Right information button**
+**Right information button**
 
 Working with right mouse button, user can get the following information:
 
@@ -86,7 +84,7 @@ In order to get this information, right-click on the chart and hold the mouse ke
 
 Note that the color of the text and background displayed in this info window can be changed via the corresponding color pickers in the chart preferences, 'Info window' section.
 
-### Data source <a id="data-source"></a>
+## Data source <a id="data-source"></a>
 
 In the Chart panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](../../../../.gitbook/assets/image2-kopiya%20%281%29.png)arrow and the widget will be shown:
 

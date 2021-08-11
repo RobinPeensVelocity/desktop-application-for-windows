@@ -4,14 +4,14 @@ Filled orders panel displays trading history for a specified period. To open the
 
 ![](../../../.gitbook/assets/screen-shot-2018-12-18-at-12.19.png)
 
-### **Time filter**
+## **Time filter**
 
 At the top left corner of the toolbar of the panel there is a combo box ‘Time filter’. It allows to select time period for which a user wants to see filled orders. The following periods are available:
 
 * Daily;
 * Range – calls date menu 'From ... To' which allows to set up a desired time range. When the 'Range' period is set up, the icon![](../../../.gitbook/assets/1%20%2810%29.png)appears allowing to change a time range for viewing filled orders.
 
-### **Columns**
+## **Columns**
 
 There is a table under the panel’s toolbar. The table header's context menu allows to regulate visibility of its columns. To open this context menu, right-click on the table's header.
 
@@ -33,14 +33,13 @@ The following columns are available in the panel:
 * Date/Time – date and time when the operation was executed.
 * Login – login of the user.
 * Bought
-
-- In case of Forex:
+* In case of Forex:
 
 if 'Side = Buy', then this column shows the value of 'Price \* Lot size \* Qty.' in base currency;
 
 if 'Side = Sell', then this column shows the value of 'Price \* Lot size \* Qty.' in quoting currency.
 
-- In case of Futures, Futures CFD, Options
+* In case of Futures, Futures CFD, Options
 
 with 'Quoting type=Tick cost/Tick size':
 
@@ -54,21 +53,20 @@ if 'Side = Buy', then this column shows the value of 'Qty';
 
 if 'Side = Sell', then this column shows the value of 'Qty \* Lot size \* Price'.
 
-- In other cases:
+* In other cases:
 
 if 'Side = Buy', then this column shows the value of 'Qty. \* Lot size' – amount of bought assets \(contracts, equities\);
 
 if 'Side = Sell', then this column shows the value of 'Price \* Lot size \* Qty.' in quoting currency.
 
 * Sold
-
-- In case of Forex:
+* In case of Forex:
 
 if 'Side = Sell', then this column shows the value of 'Price \* Lot size \* Qty.' in base currency;
 
 if 'Side = Buy', then this column shows the value of 'Price \* Lot size \* Qty.' in quoting currency.
 
-- In case of Futures, Futures CFD, Options
+* In case of Futures, Futures CFD, Options
 
 with 'Quoting type=Tick cost/Tick size':
 
@@ -82,7 +80,7 @@ if 'Side = Buy', then this column shows the value of 'Qty \* Lot size \* Price';
 
 if 'Side = Sell', then this column shows the value of 'Qty' .
 
-- In other cases:
+* In other cases:
 
 if 'Side = Buy', then this column shows the value of 'Price \* Lot size \* Qty.' in quoting currency;
 
@@ -95,7 +93,7 @@ if 'Side = Sell', then this column shows the value of 'Qty. \* Lot size' – amo
 
 The same context menu allows to filter data in a table, reset the panel's view to factory defaults and to open the 'Filled orders Preferences' window.
 
-### **Context menu**
+## **Context menu**
 
 The context menu of 'Filled orders' includes the following options:
 

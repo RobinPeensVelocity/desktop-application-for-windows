@@ -26,10 +26,10 @@ Please note that settings for the strategy and for index are different. The edit
 
 ![](https://lh5.googleusercontent.com/IX10obEfgkkiam8ix8oddzJPjque214zZlCPiGx3z5QRKq2IlW5sSepqppQTnwRG_ycZ6X8B-kpu0pnik4qIZ_PCRyiqnVLcC7ZDar_TOpR6UtKS1xDt3idEvlxQYEWVO8oWH493)
 
-The settings for the strategy are applied using the "Apply" button. To cancel the selected settings, or close the Settings window, click the "Cancel" button.   
+The settings for the strategy are applied using the "Apply" button. To cancel the selected settings, or close the Settings window, click the "Cancel" button.  
 Next after the Properties button goes the Start/Stop button. After pressing the button, the strategy will start working, and the Start![](https://lh6.googleusercontent.com/k5D7Eyf3-JDzaOehvho_Ex4_nevr5YC5gLn3zeJGSTnbFDYrSXmtEj16dMGATTmzijjtXyJKeffj977WjG5nDmepDMV3VBpnkvFvxoEk9BPusj_00lVGtXh8eMkHmGl9CTdqRZNA)button will change its icon to Stop![](https://lh3.googleusercontent.com/Iqa8WKsS7WQb-diHEgCaoRKxouw0atLulDUnyHodlPnQE4XUuELhYMgTOjtEyR66PkhF37ptLGj_v6O05ePG9fnLQNEDYuYy3avGLOzDHBGNo2q1g7MHraFSUPE0xxpsxnocftuX).
 
-Next in order is the "View more actions" button. Clicking this button will open a drop-down list offering the following options: 
+Next in order is the "View more actions" button. Clicking this button will open a drop-down list offering the following options:
 
 * Edit - after selecting this item, the strategy opens in EvoCode editing mode. This item is disabled in case the file has .dll extension;
 * Update - this item allows to update the strategy to a current version. If there are no updates for the strategy at the moment, this item will be disabled;

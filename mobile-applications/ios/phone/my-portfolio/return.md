@@ -9,8 +9,7 @@ A user can see two charts which are displayed in one coordinate system:
 * chart with markers - shows the “Portfolio monthly return” value since the moment of investment. 
 * histogram \(bar chart\) - shows Monthly instrument return and Monthly Cash return since the moment of investment. 
 
-A table with the monthly returns is also available on the Return screen. The following data is displayed in the table:  
-
+A table with the monthly returns is also available on the Return screen. The following data is displayed in the table:
 
 * Date - the values are displayed for the specified month.
 * Portfolio return, % - shows the total Portfolio return in the corresponding month.
@@ -23,13 +22,13 @@ In order to go back to the previous model of data display, tap the empty space o
 
 ![](../../../../.gitbook/assets/image-10.png)
 
-### Calculations
+## Calculations
 
 **Portfolio monthly return:**
 
-_Monthly return\(i\),% = \(\(EOMPortfolioBalance\(i\) - Deposits\(i\) + Withdrawals\(i\) + Transfers\(i\) + TransferAndWithdrawal fees\(i\)  - EOMPortfolioBalance\(i-1\)\)/EOMPortfolioBalance\(i-1\)\)\*100%_
+_Monthly return\(i\),% = \(\(EOMPortfolioBalance\(i\) - Deposits\(i\) + Withdrawals\(i\) + Transfers\(i\) + TransferAndWithdrawal fees\(i\) - EOMPortfolioBalance\(i-1\)\)/EOMPortfolioBalance\(i-1\)\)\*100%_
 
-_Monthly return\(i\),$ = EOMPortfolioBalance\(i\) - Deposits\(i\) + Withdrawals\(i\) + Transfers\(i\) + TransferAndWithdrawal fees\(i\)  - EOMPortfolioBalance\(i-1\)_
+_Monthly return\(i\),$ = EOMPortfolioBalance\(i\) - Deposits\(i\) + Withdrawals\(i\) + Transfers\(i\) + TransferAndWithdrawal fees\(i\) - EOMPortfolioBalance\(i-1\)_
 
 where:
 
@@ -43,8 +42,7 @@ where:
 
 **Monthly instrument return:**
 
-_Monthly instrument return\(i\) = \(\(EOMLastPrice\(i\) - EOMLastPrice\(i-1\)\)/EOMLastPrice\(i-1\)\)\*100%_  
-
+_Monthly instrument return\(i\) = \(\(EOMLastPrice\(i\) - EOMLastPrice\(i-1\)\)/EOMLastPrice\(i-1\)\)\*100%_
 
 where:
 
