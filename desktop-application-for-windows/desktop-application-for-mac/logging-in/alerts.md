@@ -1,6 +1,6 @@
 # Alerts
 
-To open the Alerts panel, click the ![](https://lh5.googleusercontent.com/n2puwM_iP0RhExOYxuStFTb0KAj3U9VyChXkuK5xqJyLinpJePyWaP7Z7VDDq0A5ny7Y-Ikdlv3sLjIJacCBsj5-V7nMej_DAT49oTHxY0mA14RTeCI3BtgCQUEo-xD2ZAjfdaN3) button which is located at the header of the TraderEvolution terminal to the left from the Account details widget. In order to create an alert, click the ![](https://lh4.googleusercontent.com/zS8b00jKEKBimYMVHx6ALm06Xa_Fj3_Dbny-wia9ksi4rHmhJGRcOv_hCIkB7bTLNjMm_UXHM7mKBfVOqfu7HM6q3eoE-T6Y515K9QndcjcoTEDAzK0AfXda7YtBUTEfF8NLLW7x) button at the bottom of the panel.
+To open the Alerts panel, click the ![](https://lh5.googleusercontent.com/n2puwM_iP0RhExOYxuStFTb0KAj3U9VyChXkuK5xqJyLinpJePyWaP7Z7VDDq0A5ny7Y-Ikdlv3sLjIJacCBsj5-V7nMej_DAT49oTHxY0mA14RTeCI3BtgCQUEo-xD2ZAjfdaN3) button which is located at the header of the VelocityTrader terminal to the left from the Account details widget. In order to create an alert, click the ![](https://lh4.googleusercontent.com/zS8b00jKEKBimYMVHx6ALm06Xa_Fj3_Dbny-wia9ksi4rHmhJGRcOv_hCIkB7bTLNjMm_UXHM7mKBfVOqfu7HM6q3eoE-T6Y515K9QndcjcoTEDAzK0AfXda7YtBUTEfF8NLLW7x) button at the bottom of the panel.
 
 A user can find Bid, Ask, Last, Change%, and Volume data by the instrument selected in the symbol lookup of the panel.
 

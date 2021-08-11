@@ -75,7 +75,7 @@ An OCO order is a combination of a Stop order and a Limit order. You can set pri
 
 ## **10. How to find a volume by price?**
 
-In TraderEvolution there are few options to view the volume by price:
+In VelocityTrader there are few options to view the volume by price:
 
 * The Market depth panel allows to view the volume per each price level;
 * Info Window in the Chart panel contains the volume value;

@@ -1,6 +1,6 @@
 # Login screen
 
-Use the main login page to sign in to TraderEvolution Web platform. A valid login and password are required.
+Use the main login page to sign in to VelocityTrader Web platform. A valid login and password are required.
 
 ![](../../.gitbook/assets/image%20%2829%29.png)
 

@@ -2,7 +2,7 @@
 
 Accounts panel shows basic details about all accounts that are available for a user.
 
-To open Accounts panel, select Account -&gt; Accounts in the header of TraderEvolution Web platform:
+To open Accounts panel, select Account -&gt; Accounts in the header of VelocityTrader Web platform:
 
 ![](../../.gitbook/assets/windows-desk-waived%20%281%29.png)
 

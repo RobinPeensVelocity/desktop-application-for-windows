@@ -1,6 +1,6 @@
 # General settings
 
-The General Settings menu is used to customize and change general properties of TraderEvolution App. To open it, click on the![](../../../.gitbook/assets/11%20%285%29%20%281%29.png)button at the top toolbar of the App.
+The General Settings menu is used to customize and change general properties of VelocityTrader App. To open it, click on the![](../../../.gitbook/assets/11%20%285%29%20%281%29.png)button at the top toolbar of the App.
 
 ## **General**
 

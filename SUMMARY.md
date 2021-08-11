@@ -1,7 +1,7 @@
 # Table of contents
 
-* [TraderEvolution Guide](README.md)
-* [TraderEvolution for Desktop](desktop-application-for-windows/README.md)
+* [VelocityTrader Guide](README.md)
+* [VelocityTrader for Desktop](desktop-application-for-windows/README.md)
   * [Windows](desktop-application-for-windows/windows/README.md)
     * [How to...](desktop-application-for-windows/windows/how-to....md)
     * [Getting started](desktop-application-for-windows/windows/getting-started/README.md)
@@ -220,7 +220,7 @@
       * [High/Low list](desktop-application-for-windows/desktop-application-for-mac/informative-panels/high-low-list.md)
       * [RSS](desktop-application-for-windows/desktop-application-for-mac/informative-panels/rss.md)
       * [More](desktop-application-for-windows/desktop-application-for-mac/informative-panels/more.md)
-* [TraderEvolution for Mobile](mobile-applications/README.md)
+* [VelocityTrader for Mobile](mobile-applications/README.md)
   * [Android](mobile-applications/phone/README.md)
     * [Phones](mobile-applications/phone/android/README.md)
       * [Getting started](mobile-applications/phone/android/getting-started.md)
@@ -456,7 +456,7 @@
         * [Metrics](mobile-applications/ios/tablets/my-portfolio/metrics.md)
         * [More](mobile-applications/ios/tablets/my-portfolio/more.md)
       * [External links](mobile-applications/ios/tablets/external-links.md)
-* [TraderEvolution for Web](web-platform/README.md)
+* [VelocityTrader for Web](web-platform/README.md)
   * [Getting started](web-platform/getting-started/README.md)
     * [Login screen](web-platform/getting-started/login-screen.md)
     * [General settings](web-platform/getting-started/general-settings.md)

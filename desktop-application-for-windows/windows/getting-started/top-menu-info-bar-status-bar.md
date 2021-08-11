@@ -6,12 +6,12 @@
 
 * Terminal: access to various panels which allow to trade, analyze trading activity, and monitor market conditions.
 * Tools: access to Strategy manager, MAM, Synthetic instruments, Aggressor Balance Beta, News, RSS, Economic calendar.
-* More: access to TraderEvolution Global website, log file, private log file, data folder, About current version screen.
+* More: access to VelocityTrader Global website, log file, private log file, data folder, About current version screen.
 * Alerts: access to the Alerts panel;
 * Ideas: access to the Trading Ideas panel;
 * Balance & Projected balance: access to account information;
 * Account: Account statistics, Withdrawal, Transfer, Reports, Change password, Change trading password.
-* Help: access to TraderEvolution Guide.
+* Help: access to VelocityTrader Guide.
 * Settings: access to general settings of the terminal. Read more about this section here: [https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/general-settings](https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/general-settings)
 * Log in: evokes login screen.
 * Connection status: shows the status of connection to the server.

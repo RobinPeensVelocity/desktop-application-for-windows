@@ -4,14 +4,14 @@ The main menu bar of the application for Mac looks as the following:
 
 ![](../../../.gitbook/assets/menu-new.png)
 
-The tab 'TraderEvolution' contains such items as:
+The tab 'VelocityTrader' contains such items as:
 
 * Preferences… – opens the general ‘Preferences’ menu;
 * Connections – opens the login screen for connecting using a different user and/or connection;
-* Hide TraderEvolution – allows to hide the TraderEvolution window;
-* Hide Others – allows to hide all windows, except of the TraderEvolution window;
+* Hide VelocityTrader – allows to hide the VelocityTrader window;
+* Hide Others – allows to hide all windows, except of the VelocityTrader window;
 * Show All – allows to show all hidden windows;
-* Quit TraderEvolution – allows to log out of the application.
+* Quit VelocityTrader – allows to log out of the application.
 
 The ‘Edit’ tab contains the following items:
 
@@ -52,7 +52,7 @@ The 'Window' tab allows making the standard manipulations with the application w
 The 'More' tab allows performing the following:
 
 * Search – allows to look up through the whole application for a desired element;
-* Home Page – access to TraderEvolution Global LTD website;
+* Home Page – access to VelocityTrader Global LTD website;
 * Open Data Folder – opens the folder containing application data;
 * About – allows to open About current version screen.
 

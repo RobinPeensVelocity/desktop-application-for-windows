@@ -5,7 +5,7 @@
 ![](../../../.gitbook/assets/top-menu.png)
 
 * Account: access to account information, Reports, Change password, Change trading password.
-* Help: access to TraderEvolution Guide. 
+* Help: access to VelocityTrader Guide. 
 * Preferences: access to general preferences of the platform. Read more about this section here: [https://guide.traderevolution.com/project/desktop-application-for-mac/logging-in/traderevolution-preferences](https://guide.traderevolution.com/project/desktop-application-for-mac/logging-in/traderevolution-preferences)
 * Log in: evokes login screen.
 * Connection status: shows the status of connection to the server. 
