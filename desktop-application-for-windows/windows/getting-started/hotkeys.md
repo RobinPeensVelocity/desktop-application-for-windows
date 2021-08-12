@@ -244,5 +244,5 @@ To change the value of a hotkey, click on its current value.
 
 Find information about Scalper hotkeys here:
 
-[https://guide.traderevolution.com/project/desktop-application-for-windows/trading-panels/scalper](https://guide.traderevolution.com/project/desktop-application-for-windows/trading-panels/scalper)_._
+[Scalper](desktop-application-for-windows/trading-panels/scalper.md)_._
 

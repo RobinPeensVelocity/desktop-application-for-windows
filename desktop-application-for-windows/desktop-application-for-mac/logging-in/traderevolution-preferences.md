@@ -43,7 +43,7 @@ The option 'Disable sounds' allows to switch off all the sounds – System and T
 
 ## **Hotkeys:**
 
-The full information about Hotkeys preferences is represented in the article below: [https://guide.traderevolution.com/project/desktop-application-for-mac/logging-in/hotkeys](https://guide.traderevolution.com/project/desktop-application-for-mac/logging-in/hotkeys)
+The full information about Hotkeys preferences is represented in the article below: [Hotkeys](desktop-application-for-mac/logging-in/hotkeys.md)
 
 **Trading defaults:**
 

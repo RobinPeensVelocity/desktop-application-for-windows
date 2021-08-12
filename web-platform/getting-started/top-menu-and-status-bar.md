@@ -11,7 +11,7 @@
 * Balance & Projected balance: access to account information.
 * Account: Accounts, Withdrawal, Reports, Change password, Change trading password.
 * Help: access to VelocityTrader Guide.
-* Settings: access to general settings of the Web platform. Read more about this section here: [https://guide.traderevolution.com/project/web-platform/getting-started/general-settings](https://guide.traderevolution.com/project/web-platform/getting-started/general-settings)
+* Settings: access to general settings of the Web platform. Read more about this section here: [General settings](web-platform/getting-started/general-settings.md)
 * Log out: allows to log out of the Web _\*\*_platform and evokes login screen.
 * Connection status: shows the status of connection to the server.
 * Ping information: shows the response time of the server \(ms\) to which the application is connected.

@@ -47,25 +47,25 @@ By right-clicking any place within this panel, the user will be able to bring up
 
 ## Positions
 
-This tab displays all currently opened positions under the selected Omnibus account. Description of all columns can be found in the [Positions article](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/account-management/positions).
+This tab displays all currently opened positions under the selected Omnibus account. Description of all columns can be found in the [Positions article](desktop-application-for-windows/windows/account-management/positions.md).
 
 **Please note that the information in this window is displayed only when the needed Omnibus account is selected. In case if no account is selected, the window will remain empty.**
 
 ## Working orders
 
-This tab displays all created orders under the selected Omnibus account. Otherwise, the tab will be empty. Description of all columns can be found in the [Working orders](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/account-management/working-orders) article.
+This tab displays all created orders under the selected Omnibus account. Otherwise, the tab will be empty. Description of all columns can be found in the [Working orders](desktop-application-for-windows/windows/account-management/working-orders.md) article.
 
 ## Filled orders
 
-This tab displays trading history for today or for a certain time period. Description of all columns can be found in the [Filled orders](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/account-management/filled-orders) article.
+This tab displays trading history for today or for a certain time period. Description of all columns can be found in the [Filled orders](desktop-application-for-windows/windows/account-management/filled-orders.md) article.
 
 ## Orders history
 
-This tab shows system actions related to opening and closing orders \(SL/TP\) under the selected Omnibus account. This can be particularly useful for monitoring specific details regarding creation, modification, rejection and execution of orders. Description of all columns can be found in the [Orders history](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/account-management/orders-history) article.
+This tab shows system actions related to opening and closing orders \(SL/TP\) under the selected Omnibus account. This can be particularly useful for monitoring specific details regarding creation, modification, rejection and execution of orders. Description of all columns can be found in the [Orders history](desktop-application-for-windows/windows/account-management/orders-history.md) article.
 
 ## Assets
 
-This tab represents information about assets of each account added to the selected Omnibus account manager. Description of all columns can be found in the [Assets](https://guide.traderevolution.com/project/desktop-application-for-windows/windows/account-management/assets) article.
+This tab represents information about assets of each account added to the selected Omnibus account manager. Description of all columns can be found in the [Assets](desktop-application-for-windows/windows/account-management/assets.md) article.
 
 ## Accounts tab
 

@@ -4,7 +4,7 @@
 
 Reset your password following the recommendations from the ‘Changing password’ section:
 
-[https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/installation-and-updates](https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/installation-and-updates)
+[Changing password](desktop-application-for-windows/getting-started/installation-and-updates.md)
 
 ## **2. How to find the Order ID / Position ID?**
 
@@ -71,7 +71,7 @@ An OCO order is a combination of a Stop order and a Limit order. You can set pri
 * You can enable VWAP on a Chart, Market depth, Scalper, Matrix and Order Entry panels;
 * Read more about VWAP here: 
 
-[https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/chart/volume-analysis/vwap](https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/chart/volume-analysis/vwap)
+[VWAP](desktop-application-for-windows/analysis-tools/chart/volume-analysis/vwap.md)
 
 ## **10. How to find a volume by price?**
 
@@ -93,8 +93,8 @@ In VelocityTrader there are few options to view the volume by price:
 
 You have two options here:
 
-* Open the Grid panel: [https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/grid](https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/grid)
-* Open several Chart panels: [https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/arranging-panels](https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/arranging-panels)
+* Open the Grid panel: [Grid](desktop-application-for-windows/analysis-tools/grid.md)
+* Open several Chart panels: [Chart](desktop-application-for-windows/getting-started/arranging-panels.md)
 
 ## **13. How to color brokerages in the Market depth?**
 
