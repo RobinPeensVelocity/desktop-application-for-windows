@@ -12,7 +12,7 @@
 * Balance & Projected balance: access to account information;
 * Account: Account statistics, Withdrawal, Transfer, Reports, Change password, Change trading password.
 * Help: access to VelocityTrader Guide.
-* Settings: access to general settings of the terminal. Read more about this section here: [General settings](desktop-application-for-windows/getting-started/general-settings.md)
+* Settings: access to general settings of the terminal. Read more about this section here: [General settings](https://help.za.velocitytrade.com/desktop-application-for-windows/windows/getting-started/general-settings)
 * Log in: evokes login screen.
 * Connection status: shows the status of connection to the server.
 * Ping information: shows the response time of the server \(ms\) to which the client is connected.

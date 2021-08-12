@@ -47,25 +47,25 @@ By right-clicking any place within this panel, the user will be able to bring up
 
 ## Positions
 
-This tab displays all currently opened positions under the selected Omnibus account. Description of all columns can be found in the [Positions article](desktop-application-for-windows/windows/account-management/positions.md).
+This tab displays all currently opened positions under the selected Omnibus account. Description of all columns can be found in the [Positions article](https://help.za.velocitytrade.com/desktop-application-for-windows/windows/account-management/positions).
 
 **Please note that the information in this window is displayed only when the needed Omnibus account is selected. In case if no account is selected, the window will remain empty.**
 
 ## Working orders
 
-This tab displays all created orders under the selected Omnibus account. Otherwise, the tab will be empty. Description of all columns can be found in the [Working orders](desktop-application-for-windows/windows/account-management/working-orders.md) article.
+This tab displays all created orders under the selected Omnibus account. Otherwise, the tab will be empty. Description of all columns can be found in the [Working orders](https://help.za.velocitytrade.com/desktop-application-for-windows/windows/account-management/working-orders) article.
 
 ## Filled orders
 
-This tab displays trading history for today or for a certain time period. Description of all columns can be found in the [Filled orders](desktop-application-for-windows/windows/account-management/filled-orders.md) article.
+This tab displays trading history for today or for a certain time period. Description of all columns can be found in the [Filled orders](https://help.za.velocitytrade.com/desktop-application-for-windows/windows/account-management/filled-orders) article.
 
 ## Orders history
 
-This tab shows system actions related to opening and closing orders \(SL/TP\) under the selected Omnibus account. This can be particularly useful for monitoring specific details regarding creation, modification, rejection and execution of orders. Description of all columns can be found in the [Orders history](desktop-application-for-windows/windows/account-management/orders-history.md) article.
+This tab shows system actions related to opening and closing orders \(SL/TP\) under the selected Omnibus account. This can be particularly useful for monitoring specific details regarding creation, modification, rejection and execution of orders. Description of all columns can be found in the [Orders history](https://help.za.velocitytrade.com/desktop-application-for-windows/windows/account-management/orders-history) article.
 
 ## Assets
 
-This tab represents information about assets of each account added to the selected Omnibus account manager. Description of all columns can be found in the [Assets](desktop-application-for-windows/windows/account-management/assets.md) article.
+This tab represents information about assets of each account added to the selected Omnibus account manager. Description of all columns can be found in the [Assets](https://help.za.velocitytrade.com/desktop-application-for-windows/windows/account-management/assets) article.
 
 ## Accounts tab
 

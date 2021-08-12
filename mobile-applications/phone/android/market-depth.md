@@ -21,7 +21,7 @@ To open Order entry screen, tap the Order entry button![](../../../.gitbook/asse
 
 Read more about the Order entry screen here:
 
-[Order entry](mobile-applications/phone/android/order-entry.md)
+[Order entry](https://help.za.velocitytrade.com/mobile-applications/phone/android/order-entry)
 
 ## Data source
 

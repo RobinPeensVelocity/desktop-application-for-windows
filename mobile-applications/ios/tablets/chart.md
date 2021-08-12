@@ -59,7 +59,7 @@ Orders are displayed on the chart with the quantity value inside of the order ma
 
 Read more information about Order entry screen here:
 
-[Order entry](mobile-applications/ios/tablets/order-entry.md)
+[Order entry](https://help.za.velocitytrade.com/mobile-applications/ios/tablets/order-entry)
 
 ## Drawings
 

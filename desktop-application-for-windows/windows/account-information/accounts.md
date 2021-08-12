@@ -14,7 +14,7 @@ The Accounts panel is also available in Detailed view in order to show the detai
 
 By clicking on the Account Link button![](../../../.gitbook/assets/screenshot_8%20%283%29.png), located at the top right corner of Accounts widget, a user can link panels by account. Please, read more about Account linking here:
 
-[Arranging Panels](desktop-application-for-windows/windows/getting-started/arranging-panels.md)
+[Arranging Panels](https://help.za.velocitytrade.com/desktop-application-for-windows/windows/getting-started/arranging-panels)
 
 ![](../../../.gitbook/assets/windows-desk-acc%20%282%29%20%281%29.png)
 

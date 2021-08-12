@@ -71,7 +71,7 @@ An OCO order is a combination of a Stop order and a Limit order. You can set pri
 * You can enable VWAP on a Chart, Market depth, Scalper, Matrix and Order Entry panels;
 * Read more about VWAP here: 
 
-[VWAP](desktop-application-for-windows/analysis-tools/chart/volume-analysis/vwap.md)
+[VWAP](https://help.za.velocitytrade.com/desktop-application-for-windows/windows/analysis-tools/chart/volume-analysis/vwap)
 
 ## **10. How to find a volume by price?**
 
@@ -93,8 +93,8 @@ In VelocityTrader there are few options to view the volume by price:
 
 You have two options here:
 
-* Open the Grid panel: [Grid](desktop-application-for-windows/analysis-tools/grid.md)
-* Open several Chart panels: [Chart](desktop-application-for-windows/getting-started/arranging-panels.md)
+* Open the Grid panel: [Grid](https://help.za.velocitytrade.com/desktop-application-for-windows/windows/analysis-tools/grid)
+* Open several Chart panels: [Chart](https://help.za.velocitytrade.com/desktop-application-for-windows/windows/getting-started/arranging-panels)
 
 ## **13. How to color brokerages in the Market depth?**
 

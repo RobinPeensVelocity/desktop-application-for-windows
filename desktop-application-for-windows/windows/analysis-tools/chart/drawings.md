@@ -91,7 +91,7 @@ For such drawings, as Line, Vertical line, Horizontal line, Triangle, Rectangle,
 
 ![](../../../../.gitbook/assets/21.png)
 
-* Visibility – allows to set up a drawing's visibility on the chart depending on its aggregation type \(read more about aggregation types here: [Aggregation types](desktop-application-for-windows/analysis-tools/chart/aggregation-types-overview.md)\). Every drawing is visible for all aggregation types by default. With defined Visibility settings a drawing becomes visible for selected aggregation types with specified parameters only:
+* Visibility – allows to set up a drawing's visibility on the chart depending on its aggregation type \(read more about aggregation types here: [Aggregation types](https://help.za.velocitytrade.com/desktop-application-for-windows/windows/analysis-tools/chart/aggregation-types-overview)\). Every drawing is visible for all aggregation types by default. With defined Visibility settings a drawing becomes visible for selected aggregation types with specified parameters only:
 
 ![](../../../../.gitbook/assets/22.png)
 

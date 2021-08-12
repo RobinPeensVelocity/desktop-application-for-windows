@@ -97,7 +97,7 @@ If Overnight margin available &lt; 0, user will get a message "You don’t have 
 Using this settings section, the user can add or edit RSS feeds in order to view news through RSS panel.  
 Read more about RSS panel here:
 
-[RSS](desktop-application-for-windows/informative-panels/rss.md)_._
+[RSS](https://help.za.velocitytrade.com/desktop-application-for-windows/windows/informative-panels/rss)_._
 
 ![](../../../.gitbook/assets/6%20%2844%29.png)
 

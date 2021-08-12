@@ -59,7 +59,7 @@ The Order entry screen enables user to send orders. The Order entry icon![](../.
 
 Read more information about Order entry screen here:
 
-[Order entry](mobile-applications/phone/android/order-entry.md)
+[Order entry](https://help.za.velocitytrade.com/mobile-applications/phone/android/order-entry)
 
 ## Drawings
 
