@@ -54,9 +54,9 @@ To link two or more panels together:
 
 To unlink a panel from a group, click the panel's link icon and select 'None'.
 
-* **Account link** – 
+* **Account link** –
 
-  linking by account is available by checking an icon![](../../../.gitbook/assets/screenshot_8%20%283%29%20%281%29.png)located at the top right corner of Accounts widget. 
+  linking by account is available by checking an icon![](../../../.gitbook/assets/screenshot_8%20%283%29%20%281%29.png)located at the top right corner of Accounts widget.
 
 ![](../../../.gitbook/assets/panels2.png)
 

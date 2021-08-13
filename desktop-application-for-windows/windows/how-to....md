@@ -4,7 +4,7 @@
 
 Reset your password following the recommendations from the ‘Changing password’ section:
 
-[Changing password](https://help.za.velocitytrade.com/desktop-application-for-windows/windows/getting-started/installation-and-updates) 
+[Changing password](https://help.za.velocitytrade.com/desktop-application-for-windows/windows/getting-started/installation-and-updates)
 
 ## **2. How to find the Order ID / Position ID?**
 

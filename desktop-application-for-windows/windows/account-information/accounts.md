@@ -9,7 +9,7 @@ To open Accounts panel, select Account -&gt; Accounts at the header of the termi
 The Accounts panel is also available in Detailed view in order to show the detailed information in rows. To open Accounts widget, click on the Balance&Projected balance section at the header of the platform:
 
 ```text
-                                                           ![](../../../.gitbook/assets/screenshot_12%20%281%29.png) 
+                                                           ![](../../../.gitbook/assets/screenshot_12%20%281%29.png)
 ```
 
 By clicking on the Account Link button![](../../../.gitbook/assets/screenshot_8%20%283%29.png), located at the top right corner of Accounts widget, a user can link panels by account. Please, read more about Account linking here:

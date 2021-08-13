@@ -51,7 +51,7 @@ In order to hide the Chart settings menu, press the button![](../../../../.gitbo
 
 ![](../../../../.gitbook/assets/visible.png)
 
-* Pressing![](../../../../.gitbook/assets/th%20%281%29%20%281%29.png)
+* Pressing![](../../../../.gitbook/assets/th%20%281%29%20%282%29.png)
 
   allows to define graph’s thickness \(from 1 to 10 px\), and pressing![](../../../../.gitbook/assets/1y.png)calls the dialog window for graph’s color selection:
 

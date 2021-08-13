@@ -10,7 +10,7 @@ User-analyst is a user who can create, delete and send Ideas to user-subscribers
 
 **New** – ​tab that allows setting all parameters for sending a new Idea:
 
-![](../.gitbook/assets/trading-ideas-new%20%282%29.png)
+![](../.gitbook/assets/trading-ideas-new%20%282%29%20%282%29.png)
 
 In order to send an Idea, a user-analyst has to specify mandatory order parameters:
 
@@ -35,7 +35,7 @@ If there is only one product type available to the User subscriber and it differ
 * Current price – field that shows the current symbol price \(if available\);
 * Expiration date – allows specifying the period of the idea lifetime, during which a user-subscriber can accept the idea. The expiration date is set in the corresponding calendar control:
 
-![](../.gitbook/assets/calendar-en%20%282%29.png)
+![](../.gitbook/assets/calendar-en%20%282%29%20%282%29.png)
 
 Format: “dd.mm.yyyy hh:mm” \(day.month.year hours:minutes\). \(min = 00 hours : 01 minutes; max = 30 days 24 hours : 00 minutes\);
 
@@ -54,7 +54,7 @@ After specifying all the parameters of the Idea, the user-analyst needs to click
 
 **Sent** –​ tab that contains the ideas sent by the user-analyst. In this tab, the user-analyst can see and delete Ideas, which lifetime is not expired:
 
-![](../.gitbook/assets/sent-new%20%281%29.png)
+![](../.gitbook/assets/sent-new%20%281%29%20%281%29.png)
 
 The sent Idea becomes visible for the user-analyst in the ‘Sent’ tab. In this tab, the user-analyst can view the idea parameters specified before sending.
 
@@ -62,7 +62,7 @@ Click on the certain Idea to open it. If a user attaches a chart screenshot, it 
 
 After expiration of the Idea, it will be removed from the panel. In order to delete the Idea, click on the 'Delete' button located next to its lifetime.
 
-![](../.gitbook/assets/lifetime-delete.png)
+![](../.gitbook/assets/lifetime-delete%20%281%29.png)
 
 ## **User-subscriber**
 
@@ -78,7 +78,7 @@ A user-subscriber can see the sent Ideas in the panel:
 
 In the panel, the user-subscriber can see the text description of the idea, remaining lifetime, Take profit, Limit price and Stop loss values of the Idea, can view the Chart snapshot \(if added\) and place the order based on the idea. User-subscriber can also select or enter the quantity for the Idea order to place by using the drop-down Quantity list. After clicking on the ‘Place sell/buy order’ button in the open Idea, an order placement confirmation dialog box is displayed:
 
-![](../.gitbook/assets/6%20%2819%29.png)
+![](../.gitbook/assets/6%20%2819%29%20%281%29.png)
 
 Click on the ‘Yes’ button to place an order based on the Idea. After the order is placed, the User can manage it together with the existing orders.
 
@@ -86,13 +86,13 @@ Click on the ‘Yes’ button to place an order based on the Idea. After the ord
 
 In the Ideas panel the user-subscriber can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, click on the![](../.gitbook/assets/screenshot_6%20%288%29.png)button and the widget will be shown:
 
-![](../.gitbook/assets/screenshot_5-kopiya%20%281%29%20%281%29.png)
+![](../.gitbook/assets/screenshot_5-kopiya%20%281%29%20%282%29.png)
 
 ## Attachments
 
 When creating an Idea, a User-analyst can attach a snapshot of a Chart of the Instrument used in the Idea and a jpeg, jpg, png or PDF file \(10 Mb or smaller\) containing relevant information by clicking the icons under the Lifetime setting field of the Idea creation menu:
 
-![](../.gitbook/assets/attachments%20%281%29.png)
+![](../.gitbook/assets/attachments%20%281%29%20%282%29.png)
 
 Clicking the chart symbol icon ![](../.gitbook/assets/attachment6.png) \(on the left\) opens the Chart window for taking a snapshot, in which the User-analyst can select the needed Instrument and configure the Chart parameters:
 
@@ -106,7 +106,7 @@ Clicking the ![](../.gitbook/assets/attachment7.png) symbol in the main Idea cre
 
 After the Chart snapshot and file are attached to the Idea, their symbols become highlighted:
 
-![](../.gitbook/assets/1%20%28131%29%20%281%29.png)
+![](../.gitbook/assets/1%20%28131%29%20%281%29%20%281%29.png)
 
 The User-analyst can remove a snapshot or an attached file by clicking the cross icon near the corresponding symbol.
 

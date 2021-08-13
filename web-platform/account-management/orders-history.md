@@ -35,5 +35,5 @@ The following columns are available in the panel:
 At the top left corner of the toolbar of the panel there is a ‘Time filter’ combo box. It allows to select time period for which a user wants to see orders history. The following periods are available:
 
 * Daily;
-* Range – calls date menu 'From ... To' which allows to set up a desired time range. When the 'Range' period is set up, the icon![](../../.gitbook/assets/menu%20%282%29%20%281%29.png)appears allowing to change a time range for viewing orders history.
+* Range – calls date menu 'From ... To' which allows to set up a desired time range. When the 'Range' period is set up, the icon![](../../.gitbook/assets/menu%20%282%29%20%282%29.png)appears allowing to change a time range for viewing orders history.
 

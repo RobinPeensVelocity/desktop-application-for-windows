@@ -39,7 +39,7 @@ _qty i - the volume of the "i" position, taking into account the sign, for a sho
 * Symbol type – type of the symbol.
 * Position value – the current value of the position. Calculation is based on the current market price.
 
-![](../../.gitbook/assets/screenshot_2%20%2816%29.png)
+![](../../.gitbook/assets/screenshot_2%20%2816%29%20%281%29.png)
 
 For long position: _Position value = Position exposure + Gross P/L_
 

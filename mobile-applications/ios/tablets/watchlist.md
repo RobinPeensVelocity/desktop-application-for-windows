@@ -41,7 +41,7 @@ Select the needed symbols from the 'Symbols lookup' window. Tap the "Create new"
 
 ## **Watchlist Filter**
 
-In order to filter the list of displayed symbols tap the button![](../../../.gitbook/assets/4-%20%283%29%20%282%29.png), located at the top right corner of the Symbol lookup. Choose the needed exchange from the list of available.
+In order to filter the list of displayed symbols tap the button![](../../../.gitbook/assets/4-%20%283%29%20%283%29%20%282%29.png), located at the top right corner of the Symbol lookup. Choose the needed exchange from the list of available.
 
 ![](../../../.gitbook/assets/5%20%2857%29.png)
 

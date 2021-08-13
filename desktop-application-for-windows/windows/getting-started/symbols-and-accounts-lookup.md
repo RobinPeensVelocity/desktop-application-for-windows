@@ -39,7 +39,7 @@ If there is no localized name for an instrument for the current interface langua
 
 For Options the detailed symbols' information \(description\) is also available in the lookup:
 
-![](../../../.gitbook/assets/web-w.png)
+![](../../../.gitbook/assets/web-w%20%281%29.png)
 
 ## Account lookup
 
