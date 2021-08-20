@@ -4,7 +4,7 @@ The Watchlist panel displays real-time market data for each symbol available thr
 
 To open a Watchlist panel, select Terminal -&gt; Watchlist.
 
-![](../../../.gitbook/assets/18%20%281%29.png)
+![](../../../.gitbook/assets/18%20%281%29%20%281%29.png)
 
 For each symbol, the following information is available:
 
@@ -48,9 +48,9 @@ For each symbol, the following information is available:
 
 **Symbols lists creation**
 
-The Watchlist panel enables user to create custom sets of symbols lists. In order to add symbols to the Watchlist, click on the button![](../../../.gitbook/assets/20%20%281%29%20%281%29.png), located at the top left corner of the panel’s toolbar. Select the needed symbols from the 'Symbols lookup' window. By finishing symbols selection, press 'Add'. From the drop-down menu of Symbol list user is able to create new symbol lists. In this list all created instruments lists are displayed. Buttons of list renaming or deleting are located right to each list.
+The Watchlist panel enables user to create custom sets of symbols lists. In order to add symbols to the Watchlist, click on the button![](../../../.gitbook/assets/20%20%281%29%20%282%29.png), located at the top left corner of the panel’s toolbar. Select the needed symbols from the 'Symbols lookup' window. By finishing symbols selection, press 'Add'. From the drop-down menu of Symbol list user is able to create new symbol lists. In this list all created instruments lists are displayed. Buttons of list renaming or deleting are located right to each list.
 
-![](../../../.gitbook/assets/21%20%281%29.png)
+![](../../../.gitbook/assets/21%20%281%29%20%281%29.png)
 
 **Customizing the Watchlist**
 
@@ -79,7 +79,7 @@ The panel header contains standard elements such as the ‘Close’ and ‘View 
 
 When linking is enabled in the Symbol info panel, focusing on an instrument in another panel \(Watchlist, Positions, Orders, etc.\) leads to replacing the information displayed in the Symbol info panel i.e. the information will be changed to the one about the instrument in focus.
 
-All information is divided into 6 groups. Each group can be hidden by one click on a group header. The following symbols appear on a header when a group is hidden or opened![](../../../.gitbook/assets/24.png).
+All information is divided into 6 groups. Each group can be hidden by one click on a group header. The following symbols appear on a header when a group is hidden or opened![](../../../.gitbook/assets/24%20%282%29.png).
 
 The following information is available in each group:
 

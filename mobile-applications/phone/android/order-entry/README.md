@@ -1,6 +1,6 @@
 # Order entry
 
-The Order entry screen enables users to send orders. The Order entry button![](../../../../.gitbook/assets/1-kopiya%20%287%29%20%2810%29.png)is located at the top right corner of the Chart screen. Also it is accessible from the main menu located at the bottom of the application or from the Symbol menu. Swipe left the Symbol name in Watchlist to open Symbol menu and tap Order Entry button:
+The Order entry screen enables users to send orders. The Order entry button![](../../../../.gitbook/assets/1-kopiya%20%287%29%20%2832%29.png)is located at the top right corner of the Chart screen. Also it is accessible from the main menu located at the bottom of the application or from the Symbol menu. Swipe left the Symbol name in Watchlist to open Symbol menu and tap Order Entry button:
 
 ![](../../../../.gitbook/assets/screen-shot-2020-06-05-at-5.57.11-pm%20%2812%29.png)
 
@@ -97,7 +97,7 @@ The "Get snapshot" button allows to update the information in this window.
 
 ## Data source
 
-In the Order entry panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, tap the![](../../../../.gitbook/assets/ds%20%281%29.png)button and the widget will be shown:
+In the Order entry panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, tap the![](../../../../.gitbook/assets/ds%20%281%29%20%281%29%20%281%29.png)button and the widget will be shown:
 
 ![](../../../../.gitbook/assets/.jpeg.jpeg)
 

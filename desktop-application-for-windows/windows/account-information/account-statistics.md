@@ -160,7 +160,7 @@ Cumulative P/L chart allows users to view changes of their balances and P/L grap
 
 ![](../../../.gitbook/assets/3%20%2891%29.png)
 
-Horizontal scale allows plotting P/L chart by operations or by hours/days/months for chosen in the main panel window period of time. If section 'hours/days/months' is selected, then all operations are aggregated by hours/days/months. Click on the buttons![](../../../.gitbook/assets/7%20%2826%29%20%281%29.png) to select the corresponding modes.
+Horizontal scale allows plotting P/L chart by operations or by hours/days/months for chosen in the main panel window period of time. If section 'hours/days/months' is selected, then all operations are aggregated by hours/days/months. Click on the buttons![](../../../.gitbook/assets/7%20%2826%29%20%282%29.png) to select the corresponding modes.
 
 Section 'Total' is selected and displayed by default in all the tabs. Volume bars are plotted on the chart regardless of selected horizontal scale type \(Operations, Hours, Days, etc.\). Volume is displayed in lots.
 

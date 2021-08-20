@@ -8,7 +8,7 @@ To create a new order, click on the button![](../../../.gitbook/assets/5%20%2839
 
 The following Order entry window with standard order parameters will be opened:
 
-![](../../../.gitbook/assets/windowsnew%20%281%29.jpg)
+![](../../../.gitbook/assets/windowsnew%20%281%29%20%281%29.jpg)
 
 The following columns are available in the panel:
 

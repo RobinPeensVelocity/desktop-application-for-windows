@@ -42,7 +42,7 @@ This screen contains the following elements:
 
 ## **Active tab**
 
-![](../../../.gitbook/assets/3%20%2817%29%20%281%29.jpg)
+![](../../../.gitbook/assets/3%20%2817%29%20%282%29.jpg)
 
 This tab looks the same as the Catalogue tab, with the only difference that it displays Products that the User has already subscribed to. Each Product сard in this tab has a ‘Subscribed’ button, but when hovering over, it changes the appearance to ‘Unsubscribe’ and respectively serves to unsubscribe from the required Product. After clicking the button, the User will be asked to confirm his unsubscription which looks as follows:
 
@@ -60,7 +60,7 @@ Depending on the state of the Market data subscriber status setting at the user 
 
 This tab displays all requests sent by the user for subscribing/unsubscribing to the Products for the selected period:
 
-![](../../../.gitbook/assets/new6%20%283%29%20%281%29.jpg)
+![](../../../.gitbook/assets/new6%20%283%29%20%282%29.jpg)
 
 The Requests tab contains the following elements:
 

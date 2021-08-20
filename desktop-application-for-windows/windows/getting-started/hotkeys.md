@@ -40,7 +40,7 @@ Show open positions – allows displaying opened positions on the chart;
 
 Show volume – shows the volume profile on the chart.
 
-Show working orders – _\*\*_allows displaying working orders on the chart;
+Show working orders – \_\*\*\_allows displaying working orders on the chart;
 
 Set period \(Tick, 1 m, 5 m, 15 m, 30 m, 1 H, 4 H, 1 D, 1 W, 1 Month, 1 Y\) – allows specifying the timeframe.
 

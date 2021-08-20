@@ -130,7 +130,7 @@ By pressing the top of the menu, the user can move it within the chart to any co
 
 ## Data source
 
-In the Chart panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, tap the![](../../../.gitbook/assets/1627053453914-kopiya%20%281%29%20%281%29.jpeg)arrow and the widget will be shown:
+In the Chart panel a user can see the the extended information about the source of Last, Bid and Ask prices. In order to open the table with the detailed information, tap the![](../../../.gitbook/assets/1627053453914-kopiya%20%281%29%20%281%29%20%281%29.jpeg)arrow and the widget will be shown:
 
 ![](../../../.gitbook/assets/chqrt2.jpeg)
 

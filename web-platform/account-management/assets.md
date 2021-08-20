@@ -34,5 +34,5 @@ Right-click on the asset evokes the following context menu:
 
 You can choose the columns, which have to be displayed by right-click on one of the columns.
 
-![](../../.gitbook/assets/assets-web2.png)
+![](../../.gitbook/assets/assets-web2%20%281%29.png)
 

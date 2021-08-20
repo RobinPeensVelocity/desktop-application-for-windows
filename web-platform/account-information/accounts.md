@@ -8,7 +8,7 @@ To open Accounts panel, select Account -&gt; Accounts in the header of VelocityT
 
 The Accounts panel is also available in Detailed view in order to show the detailed information in rows. You can see details about any of your accounts or about all together. Click on the Current equity section \(Balance & Projected balance\) located in the header of the Web platform in order to open this panel.
 
-![](../../.gitbook/assets/windows-desk-acc%20%282%29.png)
+![](../../.gitbook/assets/windows-desk-acc%20%282%29%20%282%29.png)
 
 The following information about Accounts and calculation formulas are available:
 

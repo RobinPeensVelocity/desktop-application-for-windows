@@ -1,6 +1,6 @@
 # Volume profile
 
-This functionality allows to aggregate volume or derived calculations for a specified period of time in form of histogram on the chart. Volume profile can be opened from the Analysis tools menu by clicking on the button![](../../../../../.gitbook/assets/53%20%282%29.png) or through Context menu -&gt; Analysis tools -&gt; Volume profile.
+This functionality allows to aggregate volume or derived calculations for a specified period of time in form of histogram on the chart. Volume profile can be opened from the Analysis tools menu by clicking on the button![](../../../../../.gitbook/assets/53%20%284%29%20%286%29.png) or through Context menu -&gt; Analysis tools -&gt; Volume profile.
 
 You can select a timeperiod on the chart for plotting a Volume profile with two vertical line-indicators, which are labeled as "Volume profile".
 

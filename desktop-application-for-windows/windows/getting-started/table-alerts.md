@@ -1,6 +1,6 @@
 # Alerts
 
-To open the Alerts panel, click on the![](../../../.gitbook/assets/1%20%2873%29%20%281%29.png) button which is located at the header of the VelocityTrader terminal. In order to create an alert, click on the ![](../../../.gitbook/assets/2%20%2863%29.png) button at the bottom of the panel.
+To open the Alerts panel, click on the![](../../../.gitbook/assets/1%20%2873%29.png) button which is located at the header of the VelocityTrader terminal. In order to create an alert, click on the ![](../../../.gitbook/assets/2%20%2863%29.png) button at the bottom of the panel.
 
 A user can see Bid, Ask, Last, Change% and Volume data by the instrument, selected in the symbol lookup of the panel.
 
@@ -49,7 +49,7 @@ There are the following columns in the table of the Alerts panel:
 
 If a user exceeds the limit of created alerts, then an error message will be displayed**:**
 
-![](../../../.gitbook/assets/desktop-web%20%281%29.png)
+![](../../../.gitbook/assets/desktop-web%20%281%29%20%281%29%20%281%29.png)
 
 ## **Alerts on chart**
 
@@ -57,7 +57,7 @@ The chart displays all active alerts for the instrument selected in the symbol l
 
 To create a new alert on the chart, click on the![](../../../.gitbook/assets/7%20%2818%29.png) button which appears near the price scale at the chart while hovering the certain price level:
 
-![](../../../.gitbook/assets/screenshot_4%20%287%29.jpg)
+![](../../../.gitbook/assets/screenshot_4%20%287%29%20%281%29.jpg)
 
 All active alerts created by the same instrument are visible on the chart. After execution the alert is removed from the chart. The buttons which allow to edit![](../../../.gitbook/assets/9%20%2812%29.png)and remove![](../../../.gitbook/assets/10%20%281%29.png)an alert become visible while hovering the alert’s icon. The color of the alert’s icon depends on importance of the alert.
 

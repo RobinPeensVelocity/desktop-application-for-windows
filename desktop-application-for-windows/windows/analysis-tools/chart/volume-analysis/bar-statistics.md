@@ -1,6 +1,6 @@
 # Bar statistics
 
-This functionality allows aggregating information about volumes by each bar in the form of the table. Bar statistics can be opened from the Analysis tools menu by clicking on the button![](../../../../../.gitbook/assets/53%20%283%29.png) or through the Context menu -&gt; Analysis tools -&gt; Bar statistics.
+This functionality allows aggregating information about volumes by each bar in the form of the table. Bar statistics can be opened from the Analysis tools menu by clicking on the button![](../../../../../.gitbook/assets/53%20%284%29%20%287%29.png) or through the Context menu -&gt; Analysis tools -&gt; Bar statistics.
 
 ![](../../../../../.gitbook/assets/screenshot_5%20%283%29.png)
 

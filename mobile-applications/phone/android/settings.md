@@ -14,7 +14,7 @@ In "Defaults" settings section you can adjust the following:
 * Quantity in lots - if checked, quantity is displayed in lots, if unchecked – in units;
 * Set SL/TP values in offset – if checked, the SL/TP prices are in offset, if unchecked they are in absolute values;
 * Show offset in – allows to select one of the available modes for offset displaying: Ticks, Points;
-* Use stop limit instead of stop – check to place stop limit orders instead of stop orders. When checked, _\*\*_it activates the "Limit offset, ticks" field.
+* Use stop limit instead of stop – check to place stop limit orders instead of stop orders. When checked, \_\*\*\_it activates the "Limit offset, ticks" field.
 
 ## **Confirmations**
 

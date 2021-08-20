@@ -2,7 +2,7 @@
 
 The Watchlist screen is accessible by default after logging in to the mobile application.
 
-![](../../../.gitbook/assets/1%20%28134%29.png)
+![](../../../.gitbook/assets/1%20%28134%29%20%282%29.png)
 
 In the Watchlist you can find information by traded symbols:
 
@@ -13,7 +13,7 @@ In the Watchlist you can find information by traded symbols:
 
 ![](../../../.gitbook/assets/2%20%2887%29.png)
 
-Tap the button![](../../../.gitbook/assets/arrow-right.jpg)to open the Info window:
+Tap the button![](../../../.gitbook/assets/arrow-right%20%282%29.jpg)to open the Info window:
 
 * Volume – the total amount traded today;
 * Open – the day's open price;
@@ -49,7 +49,7 @@ Select the needed symbols from the 'Symbols lookup' window. Tap the "Create new"
 
 ## **Watchlist Filter**
 
-In order to filter the list of displayed symbols tap the button![](../../../.gitbook/assets/4-%20%283%29.png), located at the top right corner of the Symbol lookup. Choose the needed exchange from the list of available.
+In order to filter the list of displayed symbols tap the button![](../../../.gitbook/assets/4-%20%283%29%20%283%29.png), located at the top right corner of the Symbol lookup. Choose the needed exchange from the list of available.
 
 ![](../../../.gitbook/assets/7%20%2831%29.png)
 
