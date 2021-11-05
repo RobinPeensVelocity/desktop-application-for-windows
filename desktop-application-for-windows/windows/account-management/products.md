@@ -8,11 +8,11 @@ The Products panel lists all products currently available to the User, products 
 
 ## **Catalogue tab**
 
-![](../../../.gitbook/assets/4%20%2811%29.jpg)
+![](<../../../.gitbook/assets/4 (11) (2).jpg>)
 
-This tab displays cards of products available to the User for subscription. Please note that Product cards are grouped into specific categories, which are assigned by the Admin in the Product settings. Each Product card contains the name of the Product, its logo, price, and the ‘Subscribe’ button. In case the logo was not received from the server,![](../../../.gitbook/assets/image%20%28111%29.png)will be displayed instead. In the upper right corner of each Product card there is the ![](https://lh4.googleusercontent.com/wEkGlYW5qSeJGHTfyYQ96E205vVVvX6eswwVSDiOvyIqiCWYDMiZO2C1vohXpdkVT2EocJhTeZqUkXKP588MgCx4qBNH7unwz8yPzCq6tFHxD6setKlOMPpkztGfxpuJlrM5ko-t) button, upon hovering on which the information about the Product is displayed:
+This tab displays cards of products available to the User for subscription. Please note that Product cards are grouped into specific categories, which are assigned by the Admin in the Product settings. Each Product card contains the name of the Product, its logo, price, and the ‘Subscribe’ button. In case the logo was not received from the server,![](<../../../.gitbook/assets/image (111).png>)will be displayed instead. In the upper right corner of each Product card there is the ![](https://lh4.googleusercontent.com/wEkGlYW5qSeJGHTfyYQ96E205vVVvX6eswwVSDiOvyIqiCWYDMiZO2C1vohXpdkVT2EocJhTeZqUkXKP588MgCx4qBNH7unwz8yPzCq6tFHxD6setKlOMPpkztGfxpuJlrM5ko-t) button, upon hovering on which the information about the Product is displayed:
 
-![](../../../.gitbook/assets/image%20%2885%29.png)
+![](<../../../.gitbook/assets/image (85).png>)
 
 Subscription to the Product of interest is carried out by clicking the "Subscribe" button. If the Product already has an active request awaiting processing by the admin, the "Processing..." button is displayed instead of the "Subscribe" button.
 
@@ -22,7 +22,7 @@ If the User does not have enough funds to pay the fee, or if there are no availa
 
 The reject comes in the form of deal ticket and has the following view:
 
-![](../../../.gitbook/assets/image%20%28101%29.png)
+![](<../../../.gitbook/assets/image (101).png>)
 
 There are two subscription options - if the User does not need to sign additional documents or if there is a need to sign them.
 
@@ -30,7 +30,7 @@ If the documents are not required to be signed, then the subscription request wi
 
 In case it is required to sign documents in order to subscribe to the Product, then an additional screen that allows to take the necessary actions will be shown to the User:
 
-![](../../../.gitbook/assets/new5%20%281%29.jpg)
+![](<../../../.gitbook/assets/new5 (1).jpg>)
 
 This screen contains the following elements:
 
@@ -42,11 +42,11 @@ This screen contains the following elements:
 
 ## **Active tab**
 
-![](../../../.gitbook/assets/3%20%2817%29%20%282%29.jpg)
+![](<../../../.gitbook/assets/3 (17) (2).jpg>)
 
 This tab looks the same as the Catalogue tab, with the only difference that it displays Products that the User has already subscribed to. Each Product сard in this tab has a ‘Subscribed’ button, but when hovering over, it changes the appearance to ‘Unsubscribe’ and respectively serves to unsubscribe from the required Product. After clicking the button, the User will be asked to confirm his unsubscription which looks as follows:
 
-![](../../../.gitbook/assets/screenshot_2%20%2841%29.jpg)
+![](<../../../.gitbook/assets/screenshot\_2 (41).jpg>)
 
 {% hint style="warning" %}
 Please note that after confirmation, the User will be immediately unsubscribed, without waiting for the end of the period for which the fee was charged.
@@ -54,24 +54,23 @@ Please note that after confirmation, the User will be immediately unsubscribed, 
 
 If the Product already has an active request awaiting processing by the admin, the "Processing..." button is displayed instead of the "Subscribed" button.
 
-Depending on the state of the Market data subscriber status setting at the user level, the product card displays the Pro price or Non-pro price respectively. If this setting is disabled, then the product is free for the user, so the inscription FREE is displayed on the product card. If Market data subscriber status is not defined, then both prices separated by a slash are displayed at once on the product card, the display format is &lt;non-pro price&gt; / &lt;pro price&gt; &lt;currency&gt;.
+Depending on the state of the Market data subscriber status setting at the user level, the product card displays the Pro price or Non-pro price respectively. If this setting is disabled, then the product is free for the user, so the inscription FREE is displayed on the product card. If Market data subscriber status is not defined, then both prices separated by a slash are displayed at once on the product card, the display format is \<non-pro price> / \<pro price> \<currency>.
 
 ## **Requests tab**
 
 This tab displays all requests sent by the user for subscribing/unsubscribing to the Products for the selected period:
 
-![](../../../.gitbook/assets/new6%20%283%29%20%282%29.jpg)
+![](<../../../.gitbook/assets/new6 (3) (2).jpg>)
 
 The Requests tab contains the following elements:
 
-* Period selector located in the upper part of the tab contains the Daily \(set by default\) and Range options, the latter enables the calendar for selecting the required time range for Product requests displaying;
+* Period selector located in the upper part of the tab contains the Daily (set by default) and Range options, the latter enables the calendar for selecting the required time range for Product requests displaying;
 * Product name column – displays the Product name;
 * Request type column – displays the request type. For the User convenience Subscription requests are colored blue and Unsubscription requests are colored white;
-* Request status column – displays the status of each request, statuses are also appear in different colors, namely Processing \(colored white\), Approved \(colored green\), Rejected \(colored red\), Canceled \(colored gray\);
+* Request status column – displays the status of each request, statuses are also appear in different colors, namely Processing (colored white), Approved (colored green), Rejected (colored red), Canceled (colored gray);
 * Date/Time column – contains the date and time when the request status was changed;
 * Cancel buttons – buttons for canceling the sent request, available only for the ‘Processing’ status, provided that the request has not yet been processed by the admin, otherwise the button is not displayed.
 
 Pressing the ‘Cancel’ button will bring up the confirmation screen of the following look:
 
-![](../../../.gitbook/assets/image%20%2884%29.png)
-
+![](<../../../.gitbook/assets/image (84).png>)

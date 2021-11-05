@@ -2,7 +2,7 @@
 
 The Watchlist screen is accessible by default after logging in to the application.
 
-![](../../../.gitbook/assets/11%20%2810%29.png)
+![](<../../../.gitbook/assets/11 (10).png>)
 
 In the Watchlist you can find information by traded symbols:
 
@@ -11,7 +11,7 @@ In the Watchlist you can find information by traded symbols:
 
 In order to get full symbol information and open the chart, tap the Symbol name. Tap the button![](../../../.gitbook/assets/2.jpg) at the top right corner of the Chart to open the Info window:
 
-![](../../../.gitbook/assets/2%20%28116%29.png)
+![](<../../../.gitbook/assets/2 (116).png>)
 
 * Volume – the total amount traded today;
 * Open – the day's open price;
@@ -23,11 +23,11 @@ In order to get full symbol information and open the chart, tap the Symbol name.
 
 In order to open Symbol lookup, tap the Search field . Check/uncheck the desired symbols. Selected symbols will automatically appear in the Watchlist.
 
-![](../../../.gitbook/assets/3%20%2894%29.png)
+![](<../../../.gitbook/assets/3 (94).png>)
 
 Swipe left the selected symbol to open Market depth/Order entry/Chart screen by this instrument.
 
-![](../../../.gitbook/assets/4%20%2865%29.png)
+![](<../../../.gitbook/assets/4 (65).png>)
 
 ## **Symbols list creation**
 
@@ -41,15 +41,15 @@ Select the needed symbols from the 'Symbols lookup' window. Tap the "Create new"
 
 ## **Watchlist Filter**
 
-In order to filter the list of displayed symbols tap the button![](../../../.gitbook/assets/4-%20%283%29%20%283%29%20%282%29.png), located at the top right corner of the Symbol lookup. Choose the needed exchange from the list of available.
+In order to filter the list of displayed symbols tap the button![](<../../../.gitbook/assets/4- (3) (3) (6) (3).png>), located at the top right corner of the Symbol lookup. Choose the needed exchange from the list of available.
 
-![](../../../.gitbook/assets/5%20%2857%29.png)
+![](<../../../.gitbook/assets/5 (57).png>)
 
 **Symbol menu**
 
 Swipe left the symbol name to open the Symbol menu toolbar.
 
-```text
+```
                                        ![](../../../.gitbook/assets/screen-shot-2020-06-05-at-5.57.11-pm%20%2815%29.png)                              
 ```
 
@@ -57,4 +57,3 @@ Swipe left the symbol name to open the Symbol menu toolbar.
 * Market depth – opens the level 2 quotes for the selected symbol;
 * Order Entry – opens the Order entry screen for the selected symbol;
 * Remove – allows removing the Symbol from the Watchlist.
-

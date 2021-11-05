@@ -1,6 +1,6 @@
 # Assets
 
-Assets panel contains information about all assets by the chosen account\(-s\). If different accounts have the same asset, then it is displayed in different rows in the table.
+Assets panel contains information about all assets by the chosen account(-s). If different accounts have the same asset, then it is displayed in different rows in the table.
 
 ![](../../.gitbook/assets/assets-web-01.png)
 
@@ -16,9 +16,9 @@ There are the following columns in the table:
 * Today traded qty. – the quantity of the asset which was traded by all instruments for which this asset was pre-selected, but only for Product type=Delivery. The quantity of all Buy trades is counted with ‘+’, the quantity of all Sell trades is counted with ‘-‘.
 * Available qty. for sell – quantity of the asset, which is available for sell.
 
-If Today traded qty.&gt;=0, then Available for sell = Start day qty.
+If Today traded qty.>=0, then Available for sell = Start day qty.
 
-Otherwise, Available for sell = Start day qty. - \|Today traded qty.\|
+Otherwise, Available for sell = Start day qty. - |Today traded qty.|
 
 * Current price – current Last price on the instrument Default symbol.
 * Current value for sell – allows showing the price of the asset, which is available for the sell by Current price.
@@ -34,5 +34,4 @@ Right-click on the asset evokes the following context menu:
 
 You can choose the columns, which have to be displayed by right-click on one of the columns.
 
-![](../../.gitbook/assets/assets-web2%20%281%29.png)
-
+![](../../.gitbook/assets/assets-web2.png)

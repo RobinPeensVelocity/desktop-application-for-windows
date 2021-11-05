@@ -8,7 +8,7 @@ Reset your password following the recommendations from the ‘Changing password�
 
 ## **2. How to find the Order ID / Position ID?**
 
-1. Open the Positions/Working orders panel; 
+1. Open the Positions/Working orders panel;&#x20;
 2. Right-click on any column name;
 3. Select the Position ID/Order ID from the list.
 
@@ -37,16 +37,16 @@ An OCO order is a combination of a Stop order and a Limit order. You can set pri
 
 * Place a Trailing stop order by selecting Trailing stop in the 'Order type' section of the Order entry panel;
 
-![](../../.gitbook/assets/oe%20%281%29.png)
+![](<../../.gitbook/assets/oe (1).png>)
 
-* To replace a Stop loss by Trailing stop in the Order entry panel, simply click on a special![](../../.gitbook/assets/tr-stop-1%20%281%29%20%281%29.png)button loacted near Stop loss. The blue color of the![](../../.gitbook/assets/tr-stop2%20%281%29.png)button indicates that the Trailing stop is activated; 
+* To replace a Stop loss by Trailing stop in the Order entry panel, simply click on a special![](<../../.gitbook/assets/tr-stop-1 (1) (7) (11).png>)button loacted near Stop loss. The blue color of the![](<../../.gitbook/assets/tr-stop2 (1) (1) (7) (11).png>)button indicates that the Trailing stop is activated;&#x20;
 * You can place Closing Trailing stop directly from the chart, using Visual trading functionality and modifying an order or a position in the same way.
 
 ![](../../.gitbook/assets/tsl-new.png)
 
 ## **6. How to add a price alert?**
 
-1. Open the Alerts panel by clicking on the corresponding![](../../.gitbook/assets/1%20%2873%29.png)button at the header of the terminal;
+1. Open the Alerts panel by clicking on the corresponding![](<../../.gitbook/assets/1 (73) (3) (3).png>)button at the header of the terminal;
 2. Setup conditions which will trigger your alert and finally select the actions to be taken.
 
 ![](../../.gitbook/assets/alerts-1.png)
@@ -54,7 +54,7 @@ An OCO order is a combination of a Stop order and a Limit order. You can set pri
 **7. How to disaggregate the Market depth?**
 
 1. Open settings of the Market depth panel;
-2. Select the 'View' section of the 'General' tab. Select the 'By order' option in the drop-down list of the 'View by' setting. Click Apply.  
+2. Select the 'View' section of the 'General' tab. Select the 'By order' option in the drop-down list of the 'View by' setting. Click Apply. &#x20;
 
 ![](../../.gitbook/assets/market-depth.jpg)
 
@@ -69,7 +69,7 @@ An OCO order is a combination of a Stop order and a Limit order. You can set pri
 
 * Click on ‘Analysis tools’ and select the 'VWAP' from the list;
 * You can enable VWAP on a Chart, Market depth, Scalper, Matrix and Order Entry panels;
-* Read more about VWAP here: 
+* Read more about VWAP here:&#x20;
 
 [VWAP](https://help.za.velocitytrade.com/desktop-application-for-windows/windows/analysis-tools/chart/volume-analysis/vwap)
 
@@ -107,7 +107,7 @@ You have two options here:
 ## **14. How to add a previous close line on the chart?**
 
 1. Open the context menu of the chart panel;
-2. Select ‘View’ -&gt; ‘Previous close’.
+2. Select ‘View’ -> ‘Previous close’.
 
 ![](../../.gitbook/assets/prev.-close.jpg)
 
@@ -136,8 +136,7 @@ You have two options here:
 ## **18. How to modify a pending order?**
 
 1. Right-click on a pending order in the Working orders panel and select ‘Modify order’;
-2. Use the editable boxes to change quantity, order price, time in force, and the OCO order. To specify a new order price, use the Price field; the Current price field shows the market price. 
+2. Use the editable boxes to change quantity, order price, time in force, and the OCO order. To specify a new order price, use the Price field; the Current price field shows the market price.&#x20;
 3. Click ‘Modify’ when done.
 
 ![](../../.gitbook/assets/oe-screen.png)
-

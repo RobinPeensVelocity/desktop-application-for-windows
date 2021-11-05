@@ -2,7 +2,7 @@
 
 Statistics panel is a very useful and informative tool for traders. This panel contains a massive array of trading statistics, various P/L charts, data about trade population and drawdowns.
 
-![](../../.gitbook/assets/screenshot_1%20%283%29.png)
+![](<../../.gitbook/assets/screenshot\_1 (3).png>)
 
 Statistics panel consists of 2 tabs: ‘Performance Data’ and ‘Performance Charts’.
 
@@ -29,32 +29,32 @@ The table consists of 4 columns:
 
 Let’s consider all the tabs in details.
 
-The first section is **Cumulative P/L**. Here users can see all the information about their trading results and capital. All operations are displayed together \(‘Total’ tab\), but they can also be viewed separately divided by operation type \(‘Long’ and ‘Short’ tabs\).
+The first section is **Cumulative P/L**. Here users can see all the information about their trading results and capital. All operations are displayed together (‘Total’ tab), but they can also be viewed separately divided by operation type (‘Long’ and ‘Short’ tabs).
 
 Cumulative P\L :
 
 * Profit factor – indicator of profitability showing what average profit in relation to loss is. Calculated as:
 
-Profit factor = \(avr\_TP \* %TP\)/\(avr\_SL \* %SL\), where:
+Profit factor = (avr\_TP \* %TP)/(avr\_SL \* %SL), where:
 
-avr\_TP – size of the average profitable trade \(in ccy\);
+avr\_TP – size of the average profitable trade (in ccy);
 
 %TP – probability of the profitable trade receiving;
 
-avr\_SL – size of the average losing trade \(in ccy\); avr\_SL is always taken modulo.
+avr\_SL – size of the average losing trade (in ccy); avr\_SL is always taken modulo.
 
 %SL – probability of the losing trade receiving.
 
-* Fee = \(Fee/Start capital\)\*100%
+* Fee = (Fee/Start capital)\*100%
 * Expected payoff – mathematical expectation of win. This parameter to be calculated statistically represents average profit/loss factor of one trade. Calculation formula:
 
-Expected payoff = \(avr\_TP \* %TP\) – \(avr\_SL \* %SL\), where
+Expected payoff = (avr\_TP \* %TP) – (avr\_SL \* %SL), where
 
-avr\_TP – size of the average profitable trade \(in ccy\);
+avr\_TP – size of the average profitable trade (in ccy);
 
 %TP – probability of the profitable trade receiving;
 
-avr\_SL – size of the average losing trade \(in ccy\); avr\_SL is always taken modulo.
+avr\_SL – size of the average losing trade (in ccy); avr\_SL is always taken modulo.
 
 %SL – probability of the losing trade receiving.
 
@@ -62,7 +62,7 @@ avr\_SL – size of the average losing trade \(in ccy\); avr\_SL is always taken
 
 Recovery factor = Net profit / Max DD, where
 
-Max DD – module of the maximum drawdown \(in ccy\);
+Max DD – module of the maximum drawdown (in ccy);
 
 Net profit – trading result for the analyzed period.
 
@@ -72,7 +72,7 @@ Sharpe Ratio = Expected payoff/STD, where
 
 STD – standard deviation of the trading results;
 
-STD = SQRT\(1/\(n-1\) \* SUM\(xi-avr\_x\)^2\)
+STD = SQRT(1/(n-1) \* SUM(xi-avr\_x)^2)
 
 * Win/Loss Ratio – is a ratio of the probability of the profitable trade receiving to the probability of the losing trade receiving. Calculation formula: Win/Loss ratio =%TP/%SL
 
@@ -91,13 +91,13 @@ Drawdowns:
 
 * Maximal drawdown – is the highest difference between one of local upper extremums of the balance chart and the following lower extremums.
 
-Maximal drawdown, % = \(Maximal drawdown ÷ Peak Balance value\) \* 100%
+Maximal drawdown, % = (Maximal drawdown ÷ Peak Balance value) \* 100%
 
 * Absolute drawdown – is the difference between the current capital and current local upper extremum.
 * Average drawdown – is the arithmetic average of all drawdowns over a given time period.
 * Average drawdown, % – is the ratio of the sum of the drawdowns expressed as a percentage to the total number of drawdowns.
 
-Average drawdown, % = Sum \(DD1,% +…+DDn,%\)/N
+Average drawdown, % = Sum (DD1,% +…+DDn,%)/N
 
 **Performance Charts**
 
@@ -118,21 +118,21 @@ If you choose ‘Cumulative P/L’ or ‘Aggregate P/L’, you can select by wha
 
 ## **Cumulative P/L chart**
 
-Cumulative P/L chart in the ‘**Operations’** mode displays how a user’s balance was changed depending on the trade operations performed within the period of work of the strategy. Operations mode is opened by default, if a user changes mode, he can return to Operations mode by clicking on the![](../../.gitbook/assets/5%20%286%29.png)button.
+Cumulative P/L chart in the ‘**Operations’** mode displays how a user’s balance was changed depending on the trade operations performed within the period of work of the strategy. Operations mode is opened by default, if a user changes mode, he can return to Operations mode by clicking on the![](<../../.gitbook/assets/5 (6) (2) (1).png>)button.
 
-![](../../.gitbook/assets/screenshot_2%20%281%29.png)
+![](<../../.gitbook/assets/screenshot\_2 (1).png>)
 
-Horizontal scale allows plotting P/L chart by operations or by hours/days/months for chosen in the main panel window period of time. If section 'hours/days/months' is selected, then all operations are aggregated by hours/days/months. Click on the![](../../.gitbook/assets/7%20%2826%29.png)buttons to select the corresponding modes.
+Horizontal scale allows plotting P/L chart by operations or by hours/days/months for chosen in the main panel window period of time. If section 'hours/days/months' is selected, then all operations are aggregated by hours/days/months. Click on the![](<../../.gitbook/assets/7 (26) (2) (1).png>)buttons to select the corresponding modes.
 
-Section 'Total' is selected and displayed by default in all the tabs. Volume bars are plotted on the chart regardless of selected horizontal scale type \(Operations, Hours, Days, etc.\). Volume is displayed in lots.
+Section 'Total' is selected and displayed by default in all the tabs. Volume bars are plotted on the chart regardless of selected horizontal scale type (Operations, Hours, Days, etc.). Volume is displayed in lots.
 
 ## **Aggregate P/L Chart**
 
-![](../../.gitbook/assets/screenshot_3.png)
+![](../../.gitbook/assets/screenshot\_3.png)
 
 **Aggregated P/L** charts display Gross and Net P/L for selected 'aggregation' interval.
 
-Aggregation interval – allows aggregating P/L chart by the needed periods: by months, by days, by hours. Option 'Hours' \(i.e. By hour of the day\) is set by default. The charts can be also displayed by side of the trading, available side tabs are: Total, Buy, Sell.
+Aggregation interval – allows aggregating P/L chart by the needed periods: by months, by days, by hours. Option 'Hours' (i.e. By hour of the day) is set by default. The charts can be also displayed by side of the trading, available side tabs are: Total, Buy, Sell.
 
 ## **Trades Population Chart**
 
@@ -147,7 +147,6 @@ Profitable chart displays Cumulative P/L and volumes of trades made for the sele
 
 ## **Drawdowns Chart**
 
-![](../../.gitbook/assets/screenshot_4%20%284%29.png)
+![](<../../.gitbook/assets/screenshot\_4 (4).png>)
 
 Drawdowns chart shows the graphical distribution of drawdowns built trade by trade. Volumes of the trades are also displayed on the chart.
-

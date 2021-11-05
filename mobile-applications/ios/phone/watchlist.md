@@ -2,16 +2,16 @@
 
 The Watchlist screen is accessible by default after logging in to the mobile application.
 
-![](../../../.gitbook/assets/1%20%28135%29%20%281%29%20%281%29.png)
+![](<../../../.gitbook/assets/1 (135) (1) (1).png>)
 
 In the Watchlist you can find information by traded symbols:
 
 * Last price – the last trade price;
 * Change, % – the price deviation from current day's opening price in a percentage.
 
-![](../../../.gitbook/assets/2%20%2895%29.png)
+![](<../../../.gitbook/assets/2 (95).png>)
 
-Tap the button![](../../../.gitbook/assets/arrow-right%20%282%29.jpg)to open the Info window:
+Tap the button![](<../../../.gitbook/assets/arrow-right (2).jpg>)to open the Info window:
 
 * Volume – the total amount traded today;
 * Open – the day's open price;
@@ -19,19 +19,19 @@ Tap the button![](../../../.gitbook/assets/arrow-right%20%282%29.jpg)to open the
 * Low – the day's lowest price;
 * Previous close – the previous day's close price.
 
-![](../../../.gitbook/assets/3%20%2881%29.png)
+![](<../../../.gitbook/assets/3 (81).png>)
 
 ## **Symbol lookup**
 
 In order to open Symbol lookup, tap the Search field . Check/uncheck the desired symbols. Selected symbols will automatically appear in the Watchlist.
 
-![](../../../.gitbook/assets/2%20%28115%29.png)
+![](<../../../.gitbook/assets/2 (115).png>)
 
 Swipe left the selected symbol to open Market depth/Order entry/Chart screen by this instrument.
 
-![](../../../.gitbook/assets/3%20%2892%29.png)
+![](<../../../.gitbook/assets/3 (92).png>)
 
-For Options the detailed symbols' information \(description\) is also available in the lookup:
+For Options the detailed symbols' information (description) is also available in the lookup:
 
 ![](../../../.gitbook/assets/ios.png)
 
@@ -39,7 +39,7 @@ For Options the detailed symbols' information \(description\) is also available 
 
 The Watchlist screen enables a user to create custom sets of symbols lists. In order to add symbols to the Watchlist, tap the![](../../../.gitbook/assets/1-1-.png)button.
 
-![](../../../.gitbook/assets/unnamed%20%281%29.png)
+![](<../../../.gitbook/assets/unnamed (1).png>)
 
 Select the needed symbols from the 'Symbols lookup' window. Tap the "Create new" button to create new symbol lists. Buttons for list renaming or deleting are located next to each list.
 
@@ -47,15 +47,15 @@ Select the needed symbols from the 'Symbols lookup' window. Tap the "Create new"
 
 ## **Watchlist Filter**
 
-In order to filter the list of displayed symbols tap the button![](../../../.gitbook/assets/4-%20%283%29%20%283%29%20%286%29.png), located at the top right corner of the Symbol lookup. Choose the needed exchange from the list of available.
+In order to filter the list of displayed symbols tap the button![](<../../../.gitbook/assets/4- (3) (3) (6) (2).png>), located at the top right corner of the Symbol lookup. Choose the needed exchange from the list of available.
 
-![](../../../.gitbook/assets/5%20%2850%29.png)
+![](<../../../.gitbook/assets/5 (50).png>)
 
 **Symbol menu**
 
 Swipe left the symbol name to open the Symbol menu toolbar.
 
-```text
+```
                                        ![](../../../.gitbook/assets/screen-shot-2020-06-05-at-5.57.11-pm%20%285%29.png)                                     
 ```
 
@@ -65,4 +65,3 @@ Swipe left the symbol name to open the Symbol menu toolbar.
 * Remove – allows removing the Symbol from the Watchlist.
 
 ## \*\*\*\*
-

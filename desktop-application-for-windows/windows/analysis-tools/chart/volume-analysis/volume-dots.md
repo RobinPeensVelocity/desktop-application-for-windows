@@ -10,7 +10,7 @@ To start displaying the Volume dots on the chart, a user needs to perform the fo
 
 * Select the Tick aggregation type;
 * Set the Value to “1”;
-* Tick the ‘Volume dots’ checkbox \(unchecked by default\).
+* Tick the ‘Volume dots’ checkbox (unchecked by default).
 
 ![](../../../../../.gitbook/assets/2.png)
 
@@ -22,15 +22,15 @@ Hovering the certain Volume dot allows to view time of the last quote, which thi
 
 **Volume dots settings**
 
-![](../../../../../.gitbook/assets/4%20%2817%29.png)
+![](<../../../../../.gitbook/assets/4 (17).png>)
 
 * Aggregation schemes – allow to select aggregation schemes for Volume dots. The following types are available:
   * By time – dots formation, depending on the set time;
   * By volume – dots formation, depending on the set volume;
   * By price – dots formation, depending on the price level;
   * None – no aggregation scheme. All Volume dots are built on the chart, overlaying one another.
-* Time \(min\) – time period between the end of formation of one Volume dot and the start of formation of another one \(available only for ‘By time’ scheme\);
-* Max volume – volume from which the formation of dots on the chart starts \(available only for ‘By volume’ scheme\);
+* Time (min) – time period between the end of formation of one Volume dot and the start of formation of another one (available only for ‘By time’ scheme);
+* Max volume – volume from which the formation of dots on the chart starts (available only for ‘By volume’ scheme);
 * Ignore auction trade – if the checkbox is true, then the trades during the auction are not considered;
 * Minimal displayed volume – allows to set the minimal volume for the beginning of dots formation**;**
 * Sell volume color – allows to set Sell volume color;
@@ -39,5 +39,4 @@ Hovering the certain Volume dot allows to view time of the last quote, which thi
 
 Display of volumes depends on the state of the checkbox ‘Abbreviate volumes’ in General settings.
 
-![](../../../../../.gitbook/assets/3%20%2810%29%20%281%29%20%281%29.png)
-
+![](<../../../../../.gitbook/assets/3 (10) (1) (2) (1).png>)

@@ -1,23 +1,23 @@
 # Alerts
 
-To open the Alerts panel, click on the![](../../.gitbook/assets/1%20%2826%29.png)button which is located at the header of VelocityTrader Web platform. In order to create an alert, click on the![](../../.gitbook/assets/2%20%2815%29.png) button at the bottom of the panel.
+To open the Alerts panel, click on the![](<../../.gitbook/assets/1 (26).png>)button which is located at the header of VelocityTrader Web platform. In order to create an alert, click on the![](<../../.gitbook/assets/2 (15).png>) button at the bottom of the panel.
 
 A user can see Bid, Ask, Last, Change% and Volume data by the instrument, selected in the symbol lookup of the panel.
 
-![](../../.gitbook/assets/new%20%282%29.jpg)
+![](<../../.gitbook/assets/new (2).jpg>)
 
 * Symbol – the symbol lookup allows to select an instrument by which the alert will be created;
 * Notification type – combobox for selecting the type of notification sent after alert triggering. Available types are Email, Push, Pop-up, and Sound;
 * Alert type – allows to set an alert type. Available options are the following: Ask, Bid, Last, Change%, Volume;
-* Condition – allows to set an alert condition. Available values are the following:&gt;,&lt;,&gt;=,&lt;=;
+* Condition – allows to set an alert condition. Available values are the following:>,<,>=,<=;
 * Value – allows to set a value of Alert type for reaching the condition;
 * Importance – allows to define the importance of the alert. The following options are available: High, Medium, Low. After execution of the alert, a user gets a notification with the corresponding color of the indicator which depends on importance of the alert;
 
-![](../../.gitbook/assets/screenshot_8.png)
+![](../../.gitbook/assets/screenshot\_8.png)
 
 * Expiration – date/time picker that allows specifying the period of alert lifetime. The expiration date is set in the corresponding calendar control:
 
-![](../../.gitbook/assets/image%20%2869%29.png)
+![](<../../.gitbook/assets/image (69).png>)
 
 * After execute – allows to choose alert behavior after execution. Available options are the following:
   * Stop – after execution alert is not active but stored in the list of alerts;
@@ -33,7 +33,7 @@ A user can see Bid, Ask, Last, Change% and Volume data by the instrument, select
 
 A user can see created alerts and work with them – both with executed and not executed ones.
 
-![](../../.gitbook/assets/4%20%2819%29.png)
+![](<../../.gitbook/assets/4 (19).png>)
 
 There are the following columns in the table of the Alerts panel:
 
@@ -45,19 +45,18 @@ There are the following columns in the table of the Alerts panel:
 * Edit – allows to open editing screen;
 * Remove – allows to remove alert. By clicking on the button, the confirmation window will appear.
 
-![](../../.gitbook/assets/5%20%2833%29.png)
+![](<../../.gitbook/assets/5 (33).png>)
 
 If a user exceeds the limit of created alerts, then an error message will be displayed.
 
-![](../../.gitbook/assets/desktop-web%20%281%29%20%281%29.png)
+![](<../../.gitbook/assets/desktop-web (1) (1) (3).png>)
 
 ## **Alerts on chart**
 
-To create a new alert on the chart, click on the![](../../.gitbook/assets/7%20%281%29.png) button which appears near the price scale at the chart while hovering the certain price level:
+To create a new alert on the chart, click on the![](<../../.gitbook/assets/7 (1).png>) button which appears near the price scale at the chart while hovering the certain price level:
 
-![](../../.gitbook/assets/screenshot_4%20%287%29.jpg)
+![](<../../.gitbook/assets/screenshot\_4 (7) (3) (3).jpg>)
 
-All active alerts created by the same instrument are visible on the chart. After execution the alert is removed from the chart. The buttons which allow to edit![](../../.gitbook/assets/9%20%2814%29.png)and remove![](../../.gitbook/assets/10%20%2811%29.png) an alert become visible while hovering the alert’s icon. The color of the alert’s icon depends on importance of the alert.
+All active alerts created by the same instrument are visible on the chart. After execution the alert is removed from the chart. The buttons which allow to edit![](<../../.gitbook/assets/9 (14).png>)and remove![](<../../.gitbook/assets/10 (11).png>) an alert become visible while hovering the alert’s icon. The color of the alert’s icon depends on importance of the alert.
 
-By clicking on the Edit control, the Editing screen is opened. Editing of the alert from the chart is also possible by using the Drag&Drop function. While using this function, the alert is modified without additional confirmations.
-
+By clicking on the Edit control, the Editing screen is opened. Editing of the alert from the chart is also possible by using the Drag\&Drop function. While using this function, the alert is modified without additional confirmations.
